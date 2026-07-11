@@ -16,8 +16,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "37.5 credit points",
-  "credits_max": "50 credit points",
+  "credits_min": {
+   "value": "37.5 credit points",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "50 credit points",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 멜버른 도심에 위치",
    "source": "AI추정",
@@ -83,8 +89,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "30 - 40 units (3 -4 courses)",
-  "credits_max": "50 units (5 courses)",
+  "credits_min": {
+   "value": "30~40 units (3~4과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "50 units (5과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 뉴캐슬 시내 (시드니에서 기차 약 2시간 10분)",
    "source": "AI추정",
@@ -150,8 +162,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "37.5 credit points per semester",
-  "credits_max": "50 credit points per semester",
+  "credits_min": {
+   "value": "37.5 credit points",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "50 credit points",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 멜버른 도심까지 트램 약 25분",
    "source": "AI추정",
@@ -217,8 +235,14 @@
    "source": "시트"
   },
   "semesters": "1학기",
-  "credits_min": "22.5 ECTS / 18 UWA cp",
-  "credits_max": "30 ECTS / 24 UWA cp",
+  "credits_min": {
+   "value": "18 UWA credit points (22.5 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "24 UWA credit points (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 퍼스 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -284,8 +308,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "18 UoC per half year",
-  "credits_max": "24 UoC per half year",
+  "credits_min": {
+   "value": "18 UoC",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "24 UoC",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 시드니 도심까지 기차 약 15분",
    "source": "AI추정",
@@ -351,8 +381,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "36 QUT credits (22.5 ECTS) per semester",
-  "credits_max": "48 QUT credits (30 ECTS) per semester",
+  "credits_min": {
+   "value": "36 QUT credits (22.5 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "48 QUT credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 브리즈번 도심에 위치",
    "source": "AI추정",
@@ -418,8 +454,14 @@
    "source": "웹"
   },
   "semesters": "2026~2027학기",
-  "credits_min": "Credit Information can be found here https://www.uts.edu.au/for-students/international/study-abroad-exchange-uts/subjects-and-academic-information",
-  "credits_max": "Credit Information can be found here https://www.uts.edu.au/for-students/international/study-abroad-exchange-uts/subjects-and-academic-information",
+  "credits_min": {
+   "value": "18 credit points",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "24 credit points",
+   "source": "웹"
+  },
   "location": {
    "value": "도시 — 시드니 도심에 위치",
    "source": "AI추정",
@@ -485,8 +527,14 @@
    "source": "이메일문의"
   },
   "semesters": "1학기",
-  "credits_min": "3 courses",
-  "credits_max": "4 courses",
+  "credits_min": {
+   "value": "3과목",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "4과목",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 선샤인코스트 시내 (브리즈번에서 기차 또는 버스 약 90분)",
    "source": "AI추정",
@@ -552,8 +600,14 @@
    "source": "시트"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 캔버라 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -619,8 +673,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "21(if they want to do more or less we need a confirmation from their university)",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "21 ECTS (증감 시 홈교 확인)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(쿠프슈타인) 소재, 인스브루크에서 기차 약 50분",
    "source": "AI추정",
@@ -686,8 +746,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "16 ECTS (recommended)",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "16 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 빈 도심에 위치",
    "source": "AI추정",
@@ -753,8 +819,14 @@
    "source": "시트"
   },
   "semesters": "3학기",
-  "credits_min": "18.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "18 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 도르비른 시내 (브레겐츠에서 버스 약 50분)",
    "source": "AI추정",
@@ -820,8 +892,14 @@
    "source": "시트"
   },
   "semesters": "4~2학기",
-  "credits_min": "n/a",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 인스브루크 시내 (빈에서 기차 약 5시간)",
    "source": "AI추정",
@@ -887,8 +965,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 슈타이어 시내 (린츠에서 기차 약 80분)",
    "source": "AI추정",
@@ -954,8 +1038,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "N/A",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 브뤼셀 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -1021,8 +1111,14 @@
    "source": "시트"
   },
   "semesters": "5학기",
-  "credits_min": "1 course (5 ECTS)/semester",
-  "credits_max": "30 ECTS/semester",
+  "credits_min": {
+   "value": "5 ECTS (1과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 브뤼셀 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -1088,8 +1184,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 4학기",
-  "credits_min": "10 ects + French evening course",
-  "credits_max": "30 ects",
+  "credits_min": {
+   "value": "10 ECTS (+프랑스어 야간강좌)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 리에주 도심에 위치",
    "source": "AI추정",
@@ -1155,8 +1257,14 @@
    "source": "이메일문의"
   },
   "semesters": "3학기",
-  "credits_min": "18 ECTS per semester",
-  "credits_max": "33 ECTS per semester",
+  "credits_min": {
+   "value": "18 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "33 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 루벤 시내 (브뤼셀에서 기차 약 45분)",
    "source": "AI추정",
@@ -1222,8 +1330,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "16 Unisinos Academic Credits",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "16 Unisinos credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 상 레오폴두 시내 (포르투알레그리에서 버스 약 30분)",
    "source": "AI추정",
@@ -1289,8 +1403,14 @@
    "source": "시트"
   },
   "semesters": "This is for the home university of the student to deliberate.",
-  "credits_min": "This is for the home university of the student to deliberate.",
-  "credits_max": "This is for the home university of the student to deliberate.",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 상파울루 도심까지 지하철 약 25분",
    "source": "AI추정",
@@ -1356,8 +1476,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "15.0",
-  "credits_max": "32.0",
+  "credits_min": {
+   "value": "15 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "32 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 캄피나스 도심까지 버스 약 25분",
    "source": "AI추정",
@@ -1423,8 +1549,14 @@
    "source": "시트"
   },
   "semesters": "최소 1~2학기",
-  "credits_min": "9 Canadian credits (3 courses)",
-  "credits_max": "15 Canadian credits (5 courses)",
+  "credits_min": {
+   "value": "9 credits (3과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 credits (5과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 켈로나 시내 (밴쿠버에서 버스+기차 약 300분)",
    "source": "AI추정",
@@ -1490,8 +1622,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "25.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "25 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 토론토 도심에 위치",
    "source": "AI추정",
@@ -1557,8 +1695,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "9 York credits",
-  "credits_max": "15 York credits",
+  "credits_min": {
+   "value": "9 York credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 York credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 토론토 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -1624,8 +1768,14 @@
    "source": "이메일문의"
   },
   "semesters": "4학기",
-  "credits_min": "Undergraduate students are required to take a minimum of 9 credit units (or 3 courses)",
-  "credits_max": "Undergraduate students a maximum is 15 credit units (or 5 courses) per term",
+  "credits_min": {
+   "value": "9 credit units (3과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 credit units (5과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 서스캐처원 도심에 위치",
    "source": "AI추정",
@@ -1691,8 +1841,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 몬트리올 도심에 위치",
    "source": "AI추정",
@@ -1758,8 +1914,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12.0",
-  "credits_max": "15.0",
+  "credits_min": {
+   "value": "12 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 위니펙 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -1825,8 +1987,14 @@
    "source": "이메일문의"
   },
   "semesters": "SFU does not have this requirement.",
-  "credits_min": "9 SFU units (3 courses)",
-  "credits_max": "18 SFU units (4~5 courses), NOT recommended.",
+  "credits_min": {
+   "value": "9 SFU units (3과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 SFU units (4~5과목, 비권장)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 버너비 도심까지 버스 약 45분",
    "source": "AI추정",
@@ -1892,8 +2060,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "6.0",
-  "credits_max": "15.0",
+  "credits_min": {
+   "value": "6 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 세인트존스 시내 (핼리팩스에서 버스+기차 약 3시간)",
    "source": "AI추정",
@@ -1959,8 +2133,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 밴쿠버 도심까지 버스 약 25분",
    "source": "AI추정",
@@ -2026,8 +2206,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 토론토 도심에 위치",
    "source": "AI추정",
@@ -2093,8 +2279,14 @@
    "source": "시트"
   },
   "semesters": "2~1학기",
-  "credits_min": "https://international.umontreal.ca/english/international-students/student-exchange-program/#credits",
-  "credits_max": "https://international.umontreal.ca/english/international-students/student-exchange-program/#credits",
+  "credits_min": {
+   "value": "12 credits (학부)",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "15 credits (학부)",
+   "source": "웹"
+  },
   "location": {
    "value": "준도시 — 몬트리올 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -2160,8 +2352,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 credits (4 courses) per semester",
-  "credits_max": "15 credits (5 courses) per semester",
+  "credits_min": {
+   "value": "12 credits (4과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 credits (5과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 몬트리올 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -2227,8 +2425,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "It depens on student's home instituation's credit transfer requirements,we will not set limit to students.",
-  "credits_max": "Maximum 12 Credits (1 Credit = 16 Study Hours)",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "12 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 베이징 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -2294,8 +2498,14 @@
    "source": "이메일문의"
   },
   "semesters": "at least one semester to be completed",
-  "credits_min": "depending on the major",
-  "credits_max": "depending on the major",
+  "credits_min": {
+   "value": "전공별 상이",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "전공별 상이",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 우한 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -2361,8 +2571,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 지난 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -2428,8 +2644,14 @@
    "source": "시트"
   },
   "semesters": "We don't have any requirements on this matter.",
-  "credits_min": "We don't have any resitrictions.",
-  "credits_max": "We don't have any resitrictions.",
+  "credits_min": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 베이징 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -2495,8 +2717,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": null,
-  "credits_max": "26 credits (1-6 credits / course)",
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "26 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 베이징 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -2562,8 +2790,14 @@
    "source": "시트"
   },
   "semesters": "2~1학기",
-  "credits_min": "at least enroll in one course; credit requirements follow home school regulations",
-  "credits_max": "no maximum, subject to availability",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 상하이 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -2629,8 +2863,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "We recommend not less than 20 ECTS",
-  "credits_max": "We recommend no more that 30 ECTS",
+  "credits_min": {
+   "value": "20 ECTS (권장)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (권장)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 자그레브 도심에 위치",
    "source": "AI추정",
@@ -2696,8 +2936,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20 ECTS for MU students",
-  "credits_max": "No limit, 35-40 is realistic maximum",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음 (현실적 최대 35~40 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 브르노 도심에 위치",
    "source": "AI추정",
@@ -2763,8 +3009,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "https://cuni.cz/UKEN-344.html",
-  "credits_max": "Undergraduate exchange students are asked to apply to at least four courses, graduate students to at least three ones. Students are expected to check in advance whether the selected courses will be approved for equivalency by their home university.",
+  "credits_min": {
+   "value": "4과목 (학부; 대학원 3과목)",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 프라하 도심에 위치",
    "source": "AI추정",
@@ -2830,8 +3082,14 @@
    "source": "이메일문의"
   },
   "semesters": "30~35학기",
-  "credits_min": "30 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 오덴세 시내 (코펜하겐에서 기차 약 90분)",
    "source": "AI추정",
@@ -2897,8 +3155,14 @@
    "source": "이메일문의"
   },
   "semesters": "4학기",
-  "credits_min": "20 ECTS per semester",
-  "credits_max": "35 ECTS per semester",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 린비 시내 (코펜하겐에서 기차 약 30분)",
    "source": "AI추정",
@@ -2964,8 +3228,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "no requirement",
-  "credits_max": "no requirement",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 코펜하겐 도심에 위치",
    "source": "AI추정",
@@ -3031,8 +3301,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 로스킬데 시내 (코펜하겐에서 기차 약 45분)",
    "source": "AI추정",
@@ -3098,8 +3374,14 @@
    "source": "이메일문의"
   },
   "semesters": "4~6학기",
-  "credits_min": "30.0",
-  "credits_max": "30 per semester",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 올보르 시내 (오르후스에서 기차 약 50분)",
    "source": "AI추정",
@@ -3165,8 +3447,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 US credits",
-  "credits_max": "16.0",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "16 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(쿰바야) 소재, 키토에서 버스 약 1시간",
    "source": "AI추정",
@@ -3232,8 +3520,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "N/A",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 탈린 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -3299,8 +3593,14 @@
    "source": "시트"
   },
   "semesters": "No limitation has been set. Preferably two semesters before the exchange.",
-  "credits_min": "20 ECTS credits",
-  "credits_max": "No maximum has been set.",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 라티 시내 (헬싱키에서 기차 약 100분)",
    "source": "AI추정",
@@ -3366,8 +3666,14 @@
    "source": "이메일문의"
   },
   "semesters": "No requirements",
-  "credits_min": "No minimum credits required. The regular study pace is 20-30 ECTS credits per semester",
-  "credits_max": "No maximum. Students are recommended to take 20-30 ECTS credits per semester.",
+  "credits_min": {
+   "value": "명시 없음 (통상 20~30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음 (권장 20~30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 바사 시내 (헬싱키에서 기차 약 120분)",
    "source": "AI추정",
@@ -3433,8 +3739,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "25.0",
-  "credits_max": "35.0",
+  "credits_min": {
+   "value": "25 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 로바니에미 시내 (헬싱키에서 기차 및 버스 환승 약 1020분)",
    "source": "AI추정",
@@ -3500,8 +3812,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 요엔수 시내 (헬싱키에서 기차 약 2시간)",
    "source": "AI추정",
@@ -3567,8 +3885,14 @@
    "source": "시트"
   },
   "semesters": "Two",
-  "credits_min": "20 ECTS",
-  "credits_max": "No limit",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 탐페레 도심에 위치",
    "source": "AI추정",
@@ -3634,8 +3958,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "30 ECTS/semester",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 카야니 시내 (오울루에서 기차 약 3시간)",
    "source": "AI추정",
@@ -3701,8 +4031,14 @@
    "source": "시트"
   },
   "semesters": "2~1학기",
-  "credits_min": "24-30 ECTS (30 ECTS is normal workload) per semester",
-  "credits_max": "30-36 ECTS per semester",
+  "credits_min": {
+   "value": "24~30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30~36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 헬싱키 도심에 위치",
    "source": "AI추정",
@@ -3768,8 +4104,14 @@
    "source": "시트"
   },
   "semesters": "Two",
-  "credits_min": "Up to SKKU, no min.",
-  "credits_max": "Up to SKKU, no max.",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 헬싱키 도심에 위치",
    "source": "AI추정",
@@ -3835,8 +4177,14 @@
    "source": "시트"
   },
   "semesters": "최소 4학기",
-  "credits_min": "Normal study load is 30 ECTS per semester, completing a little less (liek 20 ECTS) is ok.",
-  "credits_max": "no maximum, but as 30 ECTS is a full time study load per semester, we do not recommend going a lot over",
+  "credits_min": {
+   "value": "명시 없음 (통상 30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음 (통상 30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 에스포 시내 (헬싱키에서 버스 및 기차 약 40분)",
    "source": "AI추정",
@@ -3902,8 +4250,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20 ECT/semester",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 헬싱키 도심에 위치",
    "source": "AI추정",
@@ -3969,8 +4323,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "SKKU decides",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 투르쿠 시내 (헬싱키에서 기차 약 2시간)",
    "source": "AI추정",
@@ -4036,8 +4396,14 @@
    "source": "시트"
   },
   "semesters": "3학기",
-  "credits_min": "180 crdits ECTS or equivalents",
-  "credits_max": "40.0",
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "40 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -4103,8 +4469,14 @@
    "source": "시트"
   },
   "semesters": "6학기",
-  "credits_min": "20.0",
-  "credits_max": "35.0",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -4170,8 +4542,14 @@
    "source": "이메일문의"
   },
   "semesters": "1학기",
-  "credits_min": "15 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 파리 도심에 위치",
    "source": "AI추정",
@@ -4237,8 +4615,14 @@
    "source": "시트"
   },
   "semesters": "1학기",
-  "credits_min": "No minimum credits/ECTS required. Exchange students must comply with the regulations of their home university.",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 낭시 시내 (파리에서 기차 약 1시간 30분)",
    "source": "AI추정",
@@ -4304,8 +4688,14 @@
    "source": "이메일문의"
   },
   "semesters": "3학기",
-  "credits_min": "MINIMUM credits: 8 ECTS",
-  "credits_max": "No MAXIMUM credits for DEUF program. 31MAXIMUM credits for SELF program",
+  "credits_min": {
+   "value": "8 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음 (SELF 프로그램은 31 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 리옹 도심에 위치",
    "source": "AI추정",
@@ -4371,8 +4761,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "담당자 이메일 문의",
-  "credits_max": "담당자 이메일 문의",
+  "credits_min": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 렌 시내 (렌에서 기차 약 60분)",
    "source": "AI추정",
@@ -4438,8 +4834,14 @@
    "source": "이메일문의"
   },
   "semesters": "3학기",
-  "credits_min": "25 ECTS",
-  "credits_max": "35 ECTS",
+  "credits_min": {
+   "value": "25 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 리옹 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -4505,8 +4907,14 @@
    "source": "시트"
   },
   "semesters": null,
-  "credits_min": "15 ECTS credits",
-  "credits_max": "30 ECTS credits or 21 ECTS credits (depending the program)",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (프로그램에 따라 21 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 릴 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -4572,8 +4980,14 @@
    "source": "시트"
   },
   "semesters": "The home university determines the number of semesters",
-  "credits_min": "The home university determines the minimum credits",
-  "credits_max": "30 credits per semester.",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 그르노블 도심까지 트램 약 15분",
    "source": "AI추정",
@@ -4639,8 +5053,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "30 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -4706,8 +5126,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "20 ECTS",
-  "credits_max": "35 ECTS",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 보르도 도심까지 트램 약 15분",
    "source": "AI추정",
@@ -4773,8 +5199,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "20 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -4840,8 +5272,14 @@
    "source": "이메일문의"
   },
   "semesters": "4학기",
-  "credits_min": "20 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 25분",
    "source": "AI추정",
@@ -4907,8 +5345,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "Depend of hosting department",
-  "credits_max": "Depend of hosting department",
+  "credits_min": {
+   "value": "학과별 상이",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "학과별 상이",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 파리 도심에 위치",
    "source": "AI추정",
@@ -4974,8 +5418,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 릴 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -5041,8 +5491,14 @@
    "source": "시트"
   },
   "semesters": "최소 1~2학기",
-  "credits_min": "30 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 니스 & 릴 도심까지 트램 약 15분",
    "source": "AI추정",
@@ -5108,8 +5564,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 1~3학기",
-  "credits_min": "It depends on the exchange, please check how many ECTs are required in the link: https://www.tbs-education.com/about-tbs/international/incoming-exchange-students/",
-  "credits_max": "It depends on the exchange, please check how many ECTs are required in the link: https://www.tbs-education.com/about-tbs/international/incoming-exchange-students/",
+  "credits_min": {
+   "value": "24 ECTS",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "명시 없음",
+   "source": "웹"
+  },
   "location": {
    "value": "준도시 — 툴루즈 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -5175,8 +5637,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "N/A",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -5242,8 +5710,14 @@
    "source": "시트"
   },
   "semesters": "4~6학기",
-  "credits_min": "Depends on SKKU",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -5309,8 +5783,14 @@
    "source": "시트"
   },
   "semesters": "We trust our partners to select their students, no requirement",
-  "credits_min": "20 ECTS",
-  "credits_max": "36 ECTS",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 랭스 시내 (파리에서 기차 약 120분)",
    "source": "AI추정",
@@ -5376,8 +5856,14 @@
    "source": "이메일문의"
   },
   "semesters": "Depends on which program they apply to - check factsheet)",
-  "credits_min": "10.0",
-  "credits_max": "no max",
+  "credits_min": {
+   "value": "10 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 파리 도심까지 지하철 약 20분",
    "source": "AI추정",
@@ -5443,8 +5929,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 부퍼탈 도심까지 기차 약 15분",
    "source": "AI추정",
@@ -5510,8 +6002,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "No requirement",
-  "credits_max": "No requirement",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 만하임 도심에 위치",
    "source": "AI추정",
@@ -5577,8 +6075,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "N/A",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 보훔 도심에 위치",
    "source": "AI추정",
@@ -5644,8 +6148,14 @@
    "source": "시트"
   },
   "semesters": "To join our exchange program, students must have completed at least one academic year (two semesters) in a Business-, Management-, Information Systems-, or Engineering-related field.",
-  "credits_min": "18 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "18 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 쾰른 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -5711,8 +6221,14 @@
    "source": "이메일문의"
   },
   "semesters": "1학기",
-  "credits_min": "no",
-  "credits_max": "no",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 로스토크 도심에 위치",
    "source": "AI추정",
@@ -5778,8 +6294,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "15.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 켐니츠 시내 (라이프치히에서 기차 약 40분)",
    "source": "AI추정",
@@ -5845,8 +6367,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": "The standard semester workload comprises 30 ECTS credits.",
-  "credits_max": "A standard module at Leuphana University comprises 5 ECTS credits",
+  "credits_min": {
+   "value": "명시 없음 (통상 30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "명시 없음 (모듈당 5 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 뤼네부르크 시내 (함부르크에서 기차 약 50분)",
    "source": "AI추정",
@@ -5912,8 +6440,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "-",
-  "credits_max": "-",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 프랑크푸르트암마인 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -5979,8 +6513,14 @@
    "source": "시트"
   },
   "semesters": "3학기",
-  "credits_min": "N/A",
-  "credits_max": "N/A; regular workload would be 5 courses/30 ECTS",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "명시 없음 (통상 30 ECTS/5과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 쾰른 도심에 위치",
    "source": "AI추정",
@@ -6046,8 +6586,14 @@
    "source": "시트"
   },
   "semesters": "4~5학기",
-  "credits_min": "no requirements",
-  "credits_max": "approx. 25 to 30 (depending on the courses offered in English and personal preferences etc.)",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "약 25~30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 킬 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -6113,8 +6659,14 @@
    "source": "이메일문의"
   },
   "semesters": "4~2학기",
-  "credits_min": "20 ECTS per semester (recommended)",
-  "credits_max": "32.5 ECTS per semester (recommended)",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "32.5 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 오스나브뤼크 시내 (하노버에서 기차 약 60분)",
    "source": "AI추정",
@@ -6180,8 +6732,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "No requirement",
-  "credits_max": "No requirement",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 베를린 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -6247,8 +6805,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 3학기",
-  "credits_min": "No limit",
-  "credits_max": "No limit",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 뮌헨 도심에 위치",
    "source": "AI추정",
@@ -6314,8 +6878,14 @@
    "source": "이메일문의"
   },
   "semesters": "4학기",
-  "credits_min": "not specified",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 푸르트방엔 시내 (프라이부르크에서 버스 및 기차 환승 약 45분)",
    "source": "AI추정",
@@ -6381,8 +6951,14 @@
    "source": "시트"
   },
   "semesters": "최소 2학기",
-  "credits_min": "20 ECTS",
-  "credits_max": "30-35 ECTS",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30~35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 프랑크푸르트암마인 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -6448,8 +7024,14 @@
    "source": "이메일문의"
   },
   "semesters": "Students should have studied for at least two years in a business or economics related programme to enrol in our bachelor programme. To enrol in our master programmes, students need to have finished their undergraduate studies and should have studied at least one semester at graduate level.",
-  "credits_min": "The minimum workload is one module (6 ECTS)",
-  "credits_max": "The maximum workload is five modules (30 ECTS)",
+  "credits_min": {
+   "value": "6 ECTS (1모듈)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (5모듈)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 프랑크푸르트암마인 도심에 위치",
    "source": "AI추정",
@@ -6515,8 +7097,14 @@
    "source": "이메일문의"
   },
   "semesters": "Not applicable",
-  "credits_min": "10 ECTS",
-  "credits_max": "40 ECTS",
+  "credits_min": {
+   "value": "10 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "40 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 베를린 도심에 위치",
    "source": "AI추정",
@@ -6582,8 +7170,14 @@
    "source": "시트"
   },
   "semesters": "1학기",
-  "credits_min": "It is recommended that students take between 12 and 18 contact hours per semester for a total of around 30 ECTS credits per semester.",
-  "credits_max": "It is recommended that students take between 12 and 18 contact hours per semester for a total of around 30 ECTS credits per semester.",
+  "credits_min": {
+   "value": "명시 없음 (권장 약 30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "명시 없음 (권장 약 30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 본 도심에 위치",
    "source": "AI추정",
@@ -6649,8 +7243,14 @@
    "source": "시트"
   },
   "semesters": "최소 5학기",
-  "credits_min": "15.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 아헨 도심에 위치",
    "source": "AI추정",
@@ -6716,8 +7316,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": null,
-  "credits_max": "We recommend a maximum of 30 ECTS per semester.",
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (권장)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 에를랑겐 시내 (뉘른베르크에서 기차 약 50분)",
    "source": "AI추정",
@@ -6783,8 +7389,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "9 units",
-  "credits_max": "18 units",
+  "credits_min": {
+   "value": "9 units",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 units",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 샤틴 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -6850,8 +7462,14 @@
    "source": "웹"
   },
   "semesters": "2학기",
-  "credits_min": "24-30 ECTS credits",
-  "credits_max": "36 ECTS credits",
+  "credits_min": {
+   "value": "24~30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 홍콩 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -6917,8 +7535,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "12 credits",
-  "credits_max": "18 credits",
+  "credits_min": {
+   "value": "12 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 홍콩 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -6984,8 +7608,14 @@
    "source": "시트"
   },
   "semesters": "At least one year of continuous study of the host university.",
-  "credits_min": "9 credits",
-  "credits_max": "18 credits",
+  "credits_min": {
+   "value": "9 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 홍콩 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -7051,8 +7681,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "10.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "10 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 페치 시내 (부다페스트에서 기차 약 2시간)",
    "source": "AI추정",
@@ -7118,8 +7754,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "10 credits",
-  "credits_max": "18 credits",
+  "credits_min": {
+   "value": "10 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 욕야카르타 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -7185,8 +7827,14 @@
    "source": "시트"
   },
   "semesters": "최소 2학기",
-  "credits_min": "Maximum 15 credit units/semester",
-  "credits_max": "Maximum 15 credit units/semester",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 데폭 시내 (자카르타에서 버스 약 60분)",
    "source": "AI추정",
@@ -7252,8 +7900,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "N.A.",
-  "credits_max": "N.A.",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 베로나 시내 (밀라노에서 기차 약 2시간)",
    "source": "AI추정",
@@ -7319,8 +7973,14 @@
    "source": "시트"
   },
   "semesters": "최소 6학기",
-  "credits_min": "https://www.polimi.it/en/exchange-students-incoming/after-acceptance/exchange-programmes/before-arrival",
-  "credits_max": "https://www.polimi.it/en/exchange-students-incoming/after-acceptance/exchange-programmes/before-arrival",
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 밀라노 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -7386,8 +8046,14 @@
    "source": "시트"
   },
   "semesters": "최소 1학기",
-  "credits_min": "This is up to the Home University",
-  "credits_max": "Up to 30 per semester",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 베네치아 도심까지 버스 약 20분",
    "source": "AI추정",
@@ -7453,8 +8119,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "There is no minimum number of course credits required. However, incoming exchange students must select minimum 1 course.",
-  "credits_max": "Please note that there is no limit to the number of course credits, as long as students stay within the limit of a maximum of 5 courses.",
+  "credits_min": {
+   "value": "명시 없음 (최소 1과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음 (최대 5과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 밀라노 도심에 위치",
    "source": "AI추정",
@@ -7520,8 +8192,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "10-credits per semester",
-  "credits_max": "No limit",
+  "credits_min": {
+   "value": "10 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 쓰시마 시내 (오카야마에서 버스와 기차 환승 약 120분)",
    "source": "AI추정",
@@ -7587,8 +8265,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "7 credits",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "7 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 히가시마쓰야마 중심까지 기차 약 100분 (도쿄에서 기차 약 60분)",
    "source": "AI추정",
@@ -7654,8 +8338,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "N/A",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 도쿄 도심에 위치",
    "source": "AI추정",
@@ -7721,8 +8411,14 @@
    "source": "시트"
   },
   "semesters": "1학기",
-  "credits_min": "14 credits",
-  "credits_max": "(there is no particular limit)",
+  "credits_min": {
+   "value": "14 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 도쿄 도심에 위치",
    "source": "AI추정",
@@ -7788,8 +8484,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "N/A",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 후쿠오카 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -7855,8 +8557,14 @@
    "source": "웹"
   },
   "semesters": "4학기",
-  "credits_min": "There are no minimum credits but they have to take 6 slots per week to maitain their visa status.",
-  "credits_max": "14 credits per quarter, 28 credits per semester",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "14 credits/쿼터 (28 credits/학기)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 코다이라 중심까지 기차 약 45분 (도쿄에서 기차 약 60분)",
    "source": "AI추정",
@@ -7922,8 +8630,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "10.0",
-  "credits_max": "24.0",
+  "credits_min": {
+   "value": "10 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "24 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 히노 중심까지 기차 약 50분 (도쿄에서 기차 약 40분)",
    "source": "AI추정",
@@ -7989,8 +8703,14 @@
    "source": "시트"
   },
   "semesters": "at least one year of their degree program at their home institution",
-  "credits_min": "International students are required by Japanese law to attend a minimum of 10 hours of classes per week. Since one class session lasts for 95 minutes at Ritsumeikan University, students must take at least 7 class sessions of classes per week. Students can register up to a maximum of 20 credits per semester, including Japanese classes.",
-  "credits_max": "20 RU credits",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "20 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 교토 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -8056,8 +8776,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "N/A",
-  "credits_max": "N/A",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 소카 시내 (도쿄에서 기차 약 50분)",
    "source": "AI추정",
@@ -8123,8 +8849,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "There is no minimum credits",
-  "credits_max": "There is no maximum credits",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 도쿄 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -8190,8 +8922,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": "7credits or more per semester",
-  "credits_max": "There is no upper limit.",
+  "credits_min": {
+   "value": "7 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 마쓰모토 시내 (나가노에서 버스와 기차 환승 약 2시간)",
    "source": "AI추정",
@@ -8257,8 +8995,14 @@
    "source": "시트"
   },
   "semesters": "As long as their are able to provide an academic transcript from their home university, there is no minimum requirement with the semesters.",
-  "credits_min": "Minimum 15 credits per semester (or 30 credits per year)",
-  "credits_max": "There is not maximum limitation.",
+  "credits_min": {
+   "value": "15 credits (연간 30)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 나고야 도심까지 지하철 약 20분",
    "source": "AI추정",
@@ -8324,8 +9068,14 @@
    "source": "시트"
   },
   "semesters": "담당자 이메일 문의",
-  "credits_min": "담당자 이메일 문의",
-  "credits_max": "담당자 이메일 문의",
+  "credits_min": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 교토 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -8391,8 +9141,14 @@
    "source": "시트"
   },
   "semesters": "https://www.toyo.ac.jp/academics/international-exchange/prospective/exchange_program/",
-  "credits_min": "https://www.toyo.ac.jp/academics/international-exchange/prospective/exchange_program/",
-  "credits_max": "https://www.toyo.ac.jp/academics/international-exchange/prospective/exchange_program/",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "웹"
+  },
   "location": {
    "value": "준도시 — 소도시 사와타 시내 (도쿄에서 기차 약 50분)",
    "source": "AI추정",
@@ -8458,8 +9214,14 @@
    "source": "시트"
   },
   "semesters": "최소 2학기",
-  "credits_min": "HUSTEP: Spring Half year course students must register for 7 or more timeslots a week to complete visa requirement.",
-  "credits_max": "HUSTEP: N/A",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 삿포로 도심에 위치",
    "source": "AI추정",
@@ -8525,8 +9287,14 @@
    "source": "시트"
   },
   "semesters": "It's depends on the exchange program, so please check our website. https://www.insc.tohoku.ac.jp/english/exchange/ <Reference information> JYPE: Starting from the third year students. IPLA: Starting from the second year students.",
-  "credits_min": "Minimum workload per term/semester (in units/credits): Please check each website: COLABS, JYPE, DEEP and IPLA.",
-  "credits_max": "Maximum workload per term/semester (in units/credits): Up to 24 credits per semester. (Credit System: 1 Tohoku University credit is awarded for 45 hours of school work.) Average no. of units/credit per course: 2.0 TU credits (Two credits are given for most of the lecture courses that meet once a week for 90 minutes.) Regular term/semester workload for full-time undergraduate students (in units/credits): Each semester consists of 15 weeks of course work. Total workload for full-time undergraduate programme (no. of units/credits and no. of years): Up to 48 credits per year (up to 24 credits per semester)",
+  "credits_min": {
+   "value": "프로그램별 상이 (COLABS/JYPE/DEEP/IPLA)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "24 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 센다이 도심까지 지하철 약 20분",
    "source": "AI추정",
@@ -8592,8 +9360,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "46005.0",
-  "credits_max": "20.0",
+  "credits_min": {
+   "value": "6과목 (JTW, 과목당 보통 2 credits)",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "20 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 후쿠오카 도심까지 지하철 약 20분",
    "source": "AI추정",
@@ -8659,8 +9433,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "9US/15ECTS",
-  "credits_max": "18 US/30ECTS",
+  "credits_min": {
+   "value": "9 US credits (15 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 알마티 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -8726,8 +9506,14 @@
    "source": "웹"
   },
   "semesters": "2~1학기",
-  "credits_min": "24 ECTS per semester",
-  "credits_max": "Recommended - 36 ECTS per semester",
+  "credits_min": {
+   "value": "24 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS (권장)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 카우나스 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -8793,8 +9579,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "3 TEC Credits - 1 Tec credit = 1.67 ECTS",
-  "credits_max": "18 TEC Credits - 1 Tec credit = 1.67 ECTS",
+  "credits_min": {
+   "value": "3 TEC credits (약 5 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 TEC credits (약 30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 몬테레이 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -8860,8 +9652,14 @@
    "source": "시트"
   },
   "semesters": "n/a",
-  "credits_min": "30 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 흐로닝언 시내 (암스테르담에서 기차 약 2시간)",
    "source": "AI추정",
@@ -8927,8 +9725,14 @@
    "source": "이메일문의"
   },
   "semesters": "60학기",
-  "credits_min": "For us: 0, but in order to get a visa you need 25 ECTS",
-  "credits_max": "Full time courseload is 30 ECTS/semester. We don't enforce a maximum but advice not to take more courses than that.",
+  "credits_min": {
+   "value": "제한 없음 (비자상 25 ECTS 필요)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음 (통상 30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 니메헌 시내 (위트레흐트에서 기차 약 1시간)",
    "source": "AI추정",
@@ -8994,8 +9798,14 @@
    "source": "시트"
   },
   "semesters": "최소 3~4학기",
-  "credits_min": "Minimum 1 course (most courses are 6 ECTS but some are 3, 4 or 5)",
-  "credits_max": "36 ECTS",
+  "credits_min": {
+   "value": "1과목 (보통 6 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 틸뷔르흐 시내 (로테르담에서 기차 약 80분)",
    "source": "AI추정",
@@ -9061,8 +9871,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "30.0",
-  "credits_max": "36.0",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 르우아르던 시내 (암스테르담에서 기차 약 2시간 30분)",
    "source": "AI추정",
@@ -9128,8 +9944,14 @@
    "source": "시트"
   },
   "semesters": "최소 2학기",
-  "credits_min": "30ECTS",
-  "credits_max": "30ECTS",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 에인트호번 도심에 위치",
    "source": "AI추정",
@@ -9195,8 +10017,14 @@
    "source": "시트"
   },
   "semesters": "최소 1~60학기",
-  "credits_min": "1. School of Business and Economics: As exchange student, you can only register for a maximum of two courses per period (max. 13 ECTS credits) with a minimum of one course per period (5 / 6.5 ECTS credits), and only one skills training per period (4 ECTS credits). Skills trainings are not compulsory for exchange students. At SBE, we consider a fulltime study load per semester to be four courses and one skills training. Period 1: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 2: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 3: maximum one skills training (max. 4 ECTS credits) Period 4: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 5: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 6: maximum one skills training (max. 4 ECTS credits)\n \n 2. Univeristy College Maastricht: 20 ECTS\n 3. Maastricht Science Programme: No minimum but preferably 30 per semester",
-  "credits_max": "1. School of Business and Economics: \n As exchange student, you can only register for a maximum of two courses per period (max. 13 ECTS credits) with a minimum of one course per period (5 / 6.5 ECTS credits), and only one skills training per period (4 ECTS credits). Skills trainings are not compulsory for exchange students. At SBE, we consider a fulltime study load per semester to be four courses and one skills training. Period 1: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 2: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 3: maximum one skills training (max. 4 ECTS credits) Period 4: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 5: maximum two courses (max. 13 ECTS credits), minimum one course (5/6.5 ECTS credits) Period 6: maximum one skills training (max. 4 ECTS credits)\n \n 2. Univeristy College Maastricht: 30 ECTS\n 3. Maastricht Science Programme: 30 ECTS",
+  "credits_min": {
+   "value": "학부별 상이 (UCM 20 ECTS 등)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (학부별 상이)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 마스트리흐트 시내 (아헨에서 버스 및 기차 환승 약 60분)",
    "source": "AI추정",
@@ -9262,8 +10090,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "fixed course packages of 30 ECTS",
-  "credits_max": "fixed course packages of 30 ECTS",
+  "credits_min": {
+   "value": "30 ECTS (고정 패키지)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (고정 패키지)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 암스테르담 도심에 위치",
    "source": "AI추정",
@@ -9329,8 +10163,14 @@
    "source": "시트"
   },
   "semesters": "at least one year of your Bachelor’s degree programme.",
-  "credits_min": "24 ECTS recommended",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "24 ECTS (권장)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 로테르담 도심에 위치",
    "source": "AI추정",
@@ -9396,8 +10236,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "30.0",
-  "credits_max": "35 (minor including Dutch for beginners course)",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "35 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 위트레흐트 도심에 위치",
    "source": "AI추정",
@@ -9463,8 +10309,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "24 per semester",
-  "credits_max": "36 per semester",
+  "credits_min": {
+   "value": "24 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 암스테르담 도심까지 트램 약 15분",
    "source": "AI추정",
@@ -9530,8 +10382,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "15.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 레이던 시내 (암스테르담에서 기차 약 45분)",
    "source": "AI추정",
@@ -9597,8 +10455,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "Should adhere to visa requirements. No minimum, but we expect students to be full-time students",
-  "credits_max": "No maximum",
+  "credits_min": {
+   "value": "명시 없음 (풀타임 기대)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 오슬로 도심에 위치",
    "source": "AI추정",
@@ -9664,8 +10528,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 60학기",
-  "credits_min": "30 credits/semester",
-  "credits_max": null,
+  "credits_min": {
+   "value": "30 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 베르겐 시내 (오슬로에서 기차 약 5시간 (300분))",
    "source": "AI추정",
@@ -9731,8 +10601,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "At least one course.",
-  "credits_max": "maximum 22 pucp credits. We recommend to take between 12 to 15,because of the academic workload.",
+  "credits_min": {
+   "value": "1과목 이상",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "22 PUCP credits (권장 12~15)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 리마 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -9798,8 +10674,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "up to partner institution",
-  "credits_max": "up to partner institution",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 바르샤바 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -9865,8 +10747,14 @@
    "source": "시트"
   },
   "semesters": "5학기",
-  "credits_min": "6 ECTS per period/semester",
-  "credits_max": "36 ECTS per semester",
+  "credits_min": {
+   "value": "6 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "36 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 리스본 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -9932,8 +10820,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "24 SUTD credits",
-  "credits_max": "48 SUTD credits",
+  "credits_min": {
+   "value": "24 SUTD credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "48 SUTD credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 싱가포르 도심까지 지하철 약 20분",
    "source": "AI추정",
@@ -9999,8 +10893,14 @@
    "source": "웹"
   },
   "semesters": "2학기",
-  "credits_min": "Refer to the link https://gem.ntu.edu.sg/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10006 (Coursework tab)",
-  "credits_max": "Refer to the link https://gem.ntu.edu.sg/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10006 (Coursework tab)",
+  "credits_min": {
+   "value": "제한 없음",
+   "source": "웹"
+  },
+  "credits_max": {
+   "value": "20 AU (6과목)",
+   "source": "웹"
+  },
   "location": {
    "value": "준도시 — 싱가포르 도심까지 버스 약 45분",
    "source": "AI추정",
@@ -10066,8 +10966,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "2 SMU credits",
-  "credits_max": "4 SMU credits",
+  "credits_min": {
+   "value": "2 SMU credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "4 SMU credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 싱가포르 도심에 위치",
    "source": "AI추정",
@@ -10133,8 +11039,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "18 ECTS",
-  "credits_max": "30 ECTS",
+  "credits_min": {
+   "value": "18 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 알리칸테 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -10200,8 +11112,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 발렌시아 도심까지 지하철 약 20분",
    "source": "AI추정",
@@ -10267,8 +11185,14 @@
    "source": "이메일문의"
   },
   "semesters": "4학기",
-  "credits_min": "None (but visa may require it)",
-  "credits_max": "None",
+  "credits_min": {
+   "value": "명시 없음 (비자 요건 유의)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 셀라트 시내 (바르셀로나에서 버스 및 기차 약 45분)",
    "source": "AI추정",
@@ -10334,8 +11258,14 @@
    "source": "시트"
   },
   "semesters": "Students should have completed at least one year of studies at the undergraduate level.",
-  "credits_min": "20 ECTS/semester",
-  "credits_max": "33 ECTS/semester",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "33 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 산트 쿠가트 델 발레스 중심까지 버스 약 40분 (바르셀로나에서 버스 약 35분)",
    "source": "AI추정",
@@ -10401,8 +11331,14 @@
    "source": "이메일문의"
   },
   "semesters": "-",
-  "credits_min": "30 ECTS",
-  "credits_max": "-",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 빌바오 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -10468,8 +11404,14 @@
    "source": "시트"
   },
   "semesters": "3학기",
-  "credits_min": "24.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "24 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 팜플로나 시내 (빌바오에서 기차 약 120분)",
    "source": "AI추정",
@@ -10535,8 +11477,14 @@
    "source": "이메일문의"
   },
   "semesters": "1학기",
-  "credits_min": "No minimum ECTS requirement set by IEU. Minimum reqs are set by the home institution.",
-  "credits_max": "30 ECTS plus optional free 3 ECTS Spanish course",
+  "credits_min": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS (+선택 스페인어 3 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(세고비아) 소재, 마드리드에서 버스 약 60분",
    "source": "AI추정",
@@ -10602,8 +11550,14 @@
    "source": "이메일문의"
   },
   "semesters": "60학기",
-  "credits_min": "30.0",
-  "credits_max": "45.0",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "45 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 할름스타드 시내 (예테보리에서 기차 약 120분)",
    "source": "AI추정",
@@ -10669,8 +11623,14 @@
    "source": "시트"
   },
   "semesters": "2~4학기",
-  "credits_min": "30.0",
-  "credits_max": "45.0",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "45 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 링셰핑 시내 (스톡홀름에서 기차 약 120분)",
    "source": "AI추정",
@@ -10736,8 +11696,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "Minimum: 22.5 credits, However, the Swedish Migration Agency requires students to be accepted to full–time studies to issue residence permits for non-EU/EEA students. Full-time study means 30 credits (or higher education points) per term. A residence permit cannot be received for distance learning or online courses.",
-  "credits_max": "37,5",
+  "credits_min": {
+   "value": "22.5 credits (비EU 비자는 30 필요)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "37.5 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 웁살라 시내 (스톡홀름에서 기차 약 45분)",
    "source": "AI추정",
@@ -10803,8 +11769,14 @@
    "source": "이메일문의"
   },
   "semesters": "There are different entry requirements for different courses, so that depends of what they will apply for.",
-  "credits_min": "30 credits/semester",
-  "credits_max": "45 credits/semester",
+  "credits_min": {
+   "value": "30 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "45 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 칼마르 또는 벡셰 시내 (말뫼에서 기차 약 120분)",
    "source": "AI추정",
@@ -10870,8 +11842,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 60학기",
-  "credits_min": "A study program of at least 15 ECTS per semester is required by our university.",
-  "credits_max": "It is recommended not to take more than 30-33 ECTS.",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30~33 ECTS (권장)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 올텐 시내 (취리히에서 기차 약 20분)",
    "source": "AI추정",
@@ -10937,8 +11915,14 @@
    "source": "이메일문의"
   },
   "semesters": "A minimum of two completed semesters prior to the start of the exchange (at bachelor’s level)",
-  "credits_min": "15 ECTS",
-  "credits_max": "45 ECTS",
+  "credits_min": {
+   "value": "15 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "45 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 빈터투어 시내 (취리히에서 기차 약 20분)",
    "source": "AI추정",
@@ -11004,8 +11988,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 2학기",
-  "credits_min": "There is no minimum, we recommend between 20-25 ECTS.",
-  "credits_max": "Max. 30 ECTS per semester",
+  "credits_min": {
+   "value": "명시 없음 (권장 20~25 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 베른 시내 (취리히에서 기차 약 1시간 20분)",
    "source": "AI추정",
@@ -11071,8 +12061,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 for Undergraduate/ 3 for Graduate",
-  "credits_max": "25 for Undergraduate/ 12 for Graduate",
+  "credits_min": {
+   "value": "12 credits (학부) / 3 (대학원)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "25 credits (학부) / 12 (대학원)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 타이중 도심까지 버스 약 20분",
    "source": "AI추정",
@@ -11138,8 +12134,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "3.0",
-  "credits_max": "25.0",
+  "credits_min": {
+   "value": "3 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "25 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 가오슝 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -11205,8 +12207,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "For undergraduates, at least 9 credits for each semester(including a course from host department), for graduates , at least 1 course",
-  "credits_max": "。For undergraduate : maximum 25 credits.",
+  "credits_min": {
+   "value": "9 credits (학부; 대학원 1과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "25 credits (학부)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 신주 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -11272,8 +12280,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "Minimum 9 NYCU credits per semester = 18 ECTS",
-  "credits_max": "Not specified",
+  "credits_min": {
+   "value": "9 NYCU credits (18 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 신베이시 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -11339,8 +12353,14 @@
    "source": "시트"
   },
   "semesters": "n/a",
-  "credits_min": "n/a",
-  "credits_max": "25.0",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "25 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 타이베이 도심까지 버스 약 20분",
    "source": "AI추정",
@@ -11406,8 +12426,14 @@
    "source": "시트"
   },
   "semesters": "at least one semester",
-  "credits_min": "Exchange students must take 4 NTU credits or 2 courses per semester.",
-  "credits_max": "Generally, undergraduate students can take a maximum of 25 credits per semester and graduate students can take up to 20 credits per semester, unless otherwise specified by the academic department.",
+  "credits_min": {
+   "value": "4 credits (2과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "25 credits (학부) / 20 (대학원)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 타이베이 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -11473,8 +12499,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "Minimum 9 credits",
-  "credits_max": "Maximum 21 credits",
+  "credits_min": {
+   "value": "9 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "21 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 치앙라이 시내 (치앙마이에서 버스 약 12시간)",
    "source": "AI추정",
@@ -11540,8 +12572,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "-",
-  "credits_max": "Undergraduate student: 22 credits (approx. 7-8 courses) Graduate student: 6 credits (approx. 2 courses)",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "22 credits (학부) / 6 (대학원)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 방콕 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -11607,8 +12645,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "8.0",
-  "credits_max": "12.0",
+  "credits_min": {
+   "value": "8 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "12 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 방콕 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -11674,8 +12718,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 앙카라 도심까지 버스 약 20분",
    "source": "AI추정",
@@ -11741,8 +12791,14 @@
    "source": "이메일문의"
   },
   "semesters": "1학기",
-  "credits_min": "No restriction",
-  "credits_max": "Depends on the choice of Faculty",
+  "credits_min": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "단과대별 상이",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 앙카라 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -11808,8 +12864,14 @@
    "source": "시트"
   },
   "semesters": "최소 2학기",
-  "credits_min": "10.0",
-  "credits_max": "none",
+  "credits_min": {
+   "value": "10 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 이스탄불 도심까지 지하철 약 30분",
    "source": "AI추정",
@@ -11875,8 +12937,14 @@
    "source": "이메일문의"
   },
   "semesters": "4학기",
-  "credits_min": "Erasmus and Exchange students are expected to take\n 4 - 6 courses, equaling 17- 21 Bogazici credits\n (approximately 20-30 ECTS).",
-  "credits_max": null,
+  "credits_min": {
+   "value": "17~21 Bogazici credits (약 20~30 ECTS, 4~6과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 이스탄불 도심까지 버스 약 30분",
    "source": "AI추정",
@@ -11942,8 +13010,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "45 credits per semester for semester-only student and 60 per semester for full year",
-  "credits_max": "60 per semester",
+  "credits_min": {
+   "value": "45 UK credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 UK credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 런던 도심에 위치",
    "source": "AI추정",
@@ -12009,8 +13083,14 @@
    "source": "웹"
   },
   "semesters": "2학기",
-  "credits_min": "45.0",
-  "credits_max": "60.0",
+  "credits_min": {
+   "value": "45 UK credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 UK credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 레스터 도심에 위치",
    "source": "AI추정",
@@ -12076,8 +13156,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "Students are expected to select 120 Sheffield credits (60 ECTS) for a full academic year or 60 Sheffield credits (30 ECTS) for one semester. Students can take no more than 60 credits per semester or 120 credits for the full academic year. Students can take fewer than 60 credits or 120 credits but must take a minimum of 40 credits for one semester or 100 credits for the academic year. Please indicate via the nomination form whether or not your student has permission to study a reduced credit load.",
-  "credits_max": "Students are expected to select 120 Sheffield credits (60 ECTS) for a full academic year or 60 Sheffield credits (30 ECTS) for one semester. Students can take no more than 60 credits per semester or 120 credits for the full academic year. Students can take fewer than 60 credits or 120 credits but must take a minimum of 40 credits for one semester or 100 credits for the academic year. Please indicate via the nomination form whether or not your student has permission to study a reduced credit load.",
+  "credits_min": {
+   "value": "40 UK credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 UK credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 셰필드 도심에 위치",
    "source": "AI추정",
@@ -12143,8 +13229,14 @@
    "source": "시트"
   },
   "semesters": "최소 2학기",
-  "credits_min": "20 ECTS for a single semester; 50 for a full academic year",
-  "credits_max": "30 ECTS for a single semester; 60 for a full academic year",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 레딩 시내 (런던에서 기차 약 25분)",
    "source": "AI추정",
@@ -12210,8 +13302,14 @@
    "source": "시트"
   },
   "semesters": "4~2학기",
-  "credits_min": null,
-  "credits_max": "45 Exeter credits = 22.5 ECTs per semester",
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "45 Exeter credits (22.5 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 엑서터 시내 (런던에서 기차 약 2시간 10분)",
    "source": "AI추정",
@@ -12277,8 +13375,14 @@
    "source": "시트"
   },
   "semesters": "n/a",
-  "credits_min": "30 ECTS (60 Essex credits)",
-  "credits_max": "30 ECTS (60 Essex credits)",
+  "credits_min": {
+   "value": "60 Essex credits (30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 Essex credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 콜체스터 시내 (런던에서 기차 약 50분)",
    "source": "AI추정",
@@ -12344,8 +13448,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "20 ECTS",
-  "credits_max": "60 ECTS",
+  "credits_min": {
+   "value": "20 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 브래드퍼드 도심에 위치",
    "source": "AI추정",
@@ -12411,8 +13521,14 @@
    "source": "시트"
   },
   "semesters": "최소 4~2학기",
-  "credits_min": "60 Bristol credits (30 ECTs) per semester, 120 Bristol credits (60 ECTs) for full year",
-  "credits_max": "60 Bristol credits (30 ECTs) per semester (This is the min and max)",
+  "credits_min": {
+   "value": "60 Bristol credits (30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 Bristol credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 브리스틀 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -12478,8 +13594,14 @@
    "source": "시트"
   },
   "semesters": "We recommend that students have completed at least one semester at their home university before coming to study at YSJ.",
-  "credits_min": "30 ECTS per semester",
-  "credits_max": "30 ECTS per semester",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 요크 시내 (리즈에서 기차 약 120분)",
    "source": "AI추정",
@@ -12545,8 +13667,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "25.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "25 UK credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 UK credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 리즈 도심에 위치",
    "source": "AI추정",
@@ -12612,8 +13740,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": "This will be dependent on any Visa requirements. We recommend at least 15 ECTS per semester.",
-  "credits_max": "30ECTS per semester",
+  "credits_min": {
+   "value": "명시 없음 (권장 15 ECTS 이상)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 브리스틀 도심까지 버스 약 20분",
    "source": "AI추정",
@@ -12679,8 +13813,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "120 Durham credits",
-  "credits_max": "120 Durham credits",
+  "credits_min": {
+   "value": "120 Durham credits (연간)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "120 Durham credits (연간)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 더럼 시내 (뉴캐슬어폰타인 기차 약 30분)",
    "source": "AI추정",
@@ -12746,8 +13886,14 @@
    "source": "이메일문의"
   },
   "semesters": "최소 2~4학기",
-  "credits_min": "60 per semester/120 for a full year",
-  "credits_max": "60 per semester/120 for a full year",
+  "credits_min": {
+   "value": "60 UK credits (연간 120)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 UK credits (연간 120)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 프레스턴 시내 (맨체스터에서 기차 약 45분)",
    "source": "AI추정",
@@ -12813,8 +13959,14 @@
    "source": "이메일문의"
   },
   "semesters": null,
-  "credits_min": "One semester students must take 60 BCU credits (30 ECTS) = 3-4 modules per semester\n Two semester students (full year) must take 120 BCU credits (60 ECTS) = 6-8 modules",
-  "credits_max": "One semester students must take 60 BCU credits (30 ECTS) = 3-4 modules per semester\n Two semester students (full year) must take 120 BCU credits (60 ECTS) = 6-8 modules",
+  "credits_min": {
+   "value": "60 BCU credits (30 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "60 BCU credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 버밍엄 도심에 위치",
    "source": "AI추정",
@@ -12880,8 +14032,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "30 ECTS per semester",
-  "credits_max": "30 ECTS per semester",
+  "credits_min": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 ECTS",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 사우샘프턴 도심에 위치",
    "source": "AI추정",
@@ -12947,8 +14105,14 @@
    "source": "확인필요"
   },
   "semesters": null,
-  "credits_min": null,
-  "credits_max": null,
+  "credits_min": {
+   "value": "확인필요",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 올버니 도심에 위치",
    "source": "AI추정",
@@ -13014,8 +14178,14 @@
    "source": "시트"
   },
   "semesters": "최소 1학기",
-  "credits_min": "minimum 12 credits",
-  "credits_max": "maximum 17 credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "17 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 호놀룰루 도심에 위치",
    "source": "AI추정",
@@ -13081,8 +14251,14 @@
    "source": "시트"
   },
   "semesters": "3~4학기",
-  "credits_min": "12 US credits (about 4 classes)",
-  "credits_max": "18 US credits (about 6 classes)",
+  "credits_min": {
+   "value": "12 US credits (약 4과목)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits (약 6과목)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(포츠담) 소재, 시러큐스에서 버스 약 5시간",
    "source": "AI추정",
@@ -13148,8 +14324,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 credits",
-  "credits_max": "17 credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "17 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 시카고 도심까지 지하철 약 15분",
    "source": "AI추정",
@@ -13215,8 +14397,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12.0",
-  "credits_max": "18.0",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(풀먼) 소재, 스포캔에서 버스 약 2시간",
    "source": "AI추정",
@@ -13282,8 +14470,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 U.S. credits per semester (undergraduate)",
-  "credits_max": "18 U.S. credits per semester (undegraduate)- not recommended. We recommend 15 max.",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits (권장 15)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 리처드슨 시내 (댈러스에서 버스/기차 약 30분)",
    "source": "AI추정",
@@ -13349,8 +14543,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 undergrad, 9 grad",
-  "credits_max": "17 undergrad, 12 grad",
+  "credits_min": {
+   "value": "12 US credits (학부) / 9 (대학원)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "17 US credits (학부) / 12 (대학원)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 보스턴 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -13416,8 +14616,14 @@
    "source": "시트"
   },
   "semesters": "1~2학기",
-  "credits_min": "12 credit hours - full time",
-  "credits_max": "18 credit hours",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 스프링필드 시내 (시카고에서 버스+기차 약 2시간 30분)",
    "source": "AI추정",
@@ -13483,8 +14689,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 US credits/24 ECTS credits",
-  "credits_max": "18 US credits/36 ECTS credits",
+  "credits_min": {
+   "value": "12 US credits (24 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits (36 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 휴스턴 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -13550,8 +14762,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12.0",
-  "credits_max": "22.0",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "22 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(월섬) 소재, 보스턴에서 기차 약 20분",
    "source": "AI추정",
@@ -13617,8 +14835,14 @@
    "source": "이메일문의"
   },
   "semesters": "담당자 이메일 문의",
-  "credits_min": "담당자 이메일 문의",
-  "credits_max": "담당자 이메일 문의",
+  "credits_min": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 보이시 도심에 위치",
    "source": "AI추정",
@@ -13684,8 +14908,14 @@
    "source": "시트"
   },
   "semesters": "We do not have a minimum class standing, and defer to the home university for these requirements",
-  "credits_min": "Undergradaute - 12 credits / Graduate - 9 credits",
-  "credits_max": "18 credits",
+  "credits_min": {
+   "value": "12 US credits (학부) / 9 (대학원)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 템피 시내 (피닉스 도심에서 버스 약 45분)",
    "source": "AI추정",
@@ -13751,8 +14981,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 US Credits",
-  "credits_max": "18 US Credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 라라미 시내 (덴버에서 버스/기차 약 2시간)",
    "source": "AI추정",
@@ -13818,8 +15054,14 @@
    "source": "시트"
   },
   "semesters": "2~3학기",
-  "credits_min": "Minimum 12 credits",
-  "credits_max": "Maximum 15 credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 탬파 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -13885,8 +15127,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "12 credits",
-  "credits_max": "18 credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 블루밍턴 시내 (인디애나폴리스에서 버스 약 2시간)",
    "source": "AI추정",
@@ -13952,8 +15200,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 credits",
-  "credits_max": "15 credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 그린즈버러 시내 (샬럿에서 버스/기차 약 90분)",
    "source": "AI추정",
@@ -14019,8 +15273,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 credits per semester",
-  "credits_max": "19 undergrad or 16 grad per semester",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "19 US credits (학부) / 16 (대학원)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 버펄로 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -14086,8 +15346,14 @@
    "source": "시트"
   },
   "semesters": "4학기",
-  "credits_min": "12 U.S. credits",
-  "credits_max": "19 credits for semester only, 30 credits for full year",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "19 US credits (연간 30)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 스테이트 칼리지 시내 (필라델피아에서 버스+기차 약 2시간)",
    "source": "AI추정",
@@ -14153,8 +15419,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 per semester",
-  "credits_max": "18 per semester",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 밀워키 도심에 위치",
    "source": "AI추정",
@@ -14220,8 +15492,14 @@
    "source": "시트"
   },
   "semesters": "최소 4학기",
-  "credits_min": "12 US credits",
-  "credits_max": "18 US credits",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시·마을(월섬) 소재, 보스턴에서 버스 약 20분",
    "source": "AI추정",
@@ -14287,8 +15565,14 @@
    "source": "시트"
   },
   "semesters": "N/A",
-  "credits_min": "24.0",
-  "credits_max": "30.0",
+  "credits_min": {
+   "value": "24 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "30 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 이스트랜싱 시내 (디트로이트에서 버스+기차 약 3시간)",
    "source": "AI추정",
@@ -14354,8 +15638,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 per quarter",
-  "credits_max": "19 per quarter (without special permission for more)",
+  "credits_min": {
+   "value": "12 US credits/쿼터",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "19 US credits/쿼터",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 산타크루즈 시내 (샌프란시스코에서 버스/기차 약 45분)",
    "source": "AI추정",
@@ -14421,8 +15711,14 @@
    "source": "이메일문의"
   },
   "semesters": "2학기",
-  "credits_min": "12.0",
-  "credits_max": "17.0",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "17 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 오스틴 도심까지 버스 약 15분",
    "source": "AI추정",
@@ -14488,8 +15784,14 @@
    "source": "웹"
   },
   "semesters": "1학기",
-  "credits_min": "12.0",
-  "credits_max": "16.0",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "16 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "도시 — 새너제이 도심에 위치",
    "source": "AI추정",
@@ -14555,8 +15857,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "12 US credits (equivalent of 24 ECTS)",
-  "credits_max": "15 US credits (equivalent of 30 ECTS)",
+  "credits_min": {
+   "value": "12 US credits (24 ECTS)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 US credits (30 ECTS)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 찰스턴 시내 (샬럿에서 버스 및 기차 환승 약 2시간)",
    "source": "AI추정",
@@ -14622,8 +15930,14 @@
    "source": "시트"
   },
   "semesters": "1학기",
-  "credits_min": "12 credits for undergraduates",
-  "credits_max": "18.0",
+  "credits_min": {
+   "value": "12 US credits (학부)",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "18 US credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 채플힐 시내 (롤리에서 버스 약 20분)",
    "source": "AI추정",
@@ -14689,8 +16003,14 @@
    "source": "시트"
   },
   "semesters": "최소 1학기",
-  "credits_min": "12 FSU credits (semester based US credit system with 15 week semseter)",
-  "credits_max": "15, must request permission to take higher than 12 credits and have it approved by SKKU advisor",
+  "credits_min": {
+   "value": "12 US credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "15 US credits (12 초과 시 SKKU 승인 필요)",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 소도시 탤러해시 시내 (올랜도에서 버스+기차 약 4시간)",
    "source": "AI추정",
@@ -14756,8 +16076,14 @@
    "source": "시트"
   },
   "semesters": "2학기",
-  "credits_min": "at least 12 credits",
-  "credits_max": "no more than 22 credits",
+  "credits_min": {
+   "value": "12 credits",
+   "source": "시트"
+  },
+  "credits_max": {
+   "value": "22 credits",
+   "source": "시트"
+  },
   "location": {
    "value": "준도시 — 하노이 도심까지 버스 약 45분",
    "source": "AI추정",

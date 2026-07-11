@@ -65,8 +65,8 @@ function card(r){
     ${row('해외대학 수학 전공',r.major_abroad)}
     ${row('최소 GPA',r.gpa_min)}
     ${row('완료 학기 수',{value:r.semesters})}
-    ${row('최소 학점',{value:r.credits_min})}
-    ${row('최대 학점',{value:r.credits_max})}
+    ${row('최소 학점',r.credits_min)}
+    ${row('최대 학점',r.credits_max)}
     ${row('위치(도심 거리)',r.location)}
     ${row('수업 언어',r.lang_instruction)}
     ${row('어학 요건',r.lang_req)}
