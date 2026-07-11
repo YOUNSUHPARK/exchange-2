@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python run.py *)",
+      "Bash(python relocate.py *)",
+      "Bash(python build_table.py)",
+      "Bash(python build_site.py)",
+      "Bash(python test_location.py)",
+      "Bash(python audit.py)",
+      "Bash(python fix_langs.py)",
+      "Bash(python extract.py)",
+      "Bash(python loader.py)",
+      "Bash(python solar.py)",
+      "PowerShell(python run.py *)",
+      "PowerShell(python relocate.py *)",
+      "PowerShell(python build_table.py)",
+      "PowerShell(python build_site.py)",
+      "PowerShell(python test_location.py)",
+      "PowerShell(python audit.py)",
+      "PowerShell(python fix_langs.py)",
+      "PowerShell(Get-Content *)",
+      "WebSearch",
+      "WebFetch"
+    ]
+  }
+}

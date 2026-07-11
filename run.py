@@ -16,6 +16,7 @@ import loader
 import fetcher
 import extract
 import location
+import lang_map
 
 
 def norm_semesters(v):
@@ -144,6 +145,8 @@ def build_record(rec, ex, loc):
     ival, isrc, _ = pick(ex.get("language_of_instruction", {}))
     if not ival:
         ival, isrc = "확인필요", config.SRC_UNKNOWN
+    # 혼합/현지어 → 구체적 언어명 표기 (예: "일본어, 영어")
+    ival = lang_map.normalize(ival, rec["country"], (loc or {}).get("city", ""))
     lang_inst = {"value": ival, "source": isrc}
 
     # 위치
