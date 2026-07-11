@@ -38,7 +38,7 @@ TEMPLATE = r"""<!doctype html>
  <div class="controls">
   <input id="q" placeholder="대학명·도시·전공 검색">
   <select id="country"></select>
-  <select id="lang"><option value="">수업언어 전체</option><option>영어</option><option>혼합</option><option>현지어</option></select>
+  <select id="lang"><option value="">수업언어 전체</option></select>
  </div>
  <div class="count" id="count"></div>
  <div id="list"></div>
@@ -77,7 +77,7 @@ function render(){
   const q=$('#q').value.trim().toLowerCase(), c=$('#country').value, lang=$('#lang').value;
   const rows=DATA.filter(r=>{
     if(c && r.country!==c) return false;
-    if(lang && val(r.lang_instruction)!==lang) return false;
+    if(lang && !val(r.lang_instruction).split(', ').includes(lang)) return false;
     if(q){ const hay=[r.university,r.country,val(r.location),r.major_skku,val(r.major_abroad)].join(' ').toLowerCase(); if(!hay.includes(q)) return false; }
     return true;
   });
@@ -87,6 +87,11 @@ function render(){
 (function init(){
   const cs=[...new Set(DATA.map(r=>r.country))].sort();
   $('#country').innerHTML='<option value="">국가 전체</option>'+cs.map(c=>`<option>${c}</option>`).join('');
+  // 수업언어 옵션: 값을 언어 단위로 분해해 빈도순 정렬 (예: "일본어, 영어" → 일본어/영어)
+  const lc={};
+  DATA.forEach(r=>val(r.lang_instruction).split(', ').filter(Boolean).forEach(l=>lc[l]=(lc[l]||0)+1));
+  const ls=Object.keys(lc).filter(l=>l!=='확인필요').sort((a,b)=>lc[b]-lc[a]);
+  $('#lang').innerHTML='<option value="">수업언어 전체</option>'+ls.map(l=>`<option value="${l}">${l} (${lc[l]})</option>`).join('');
   ['q','country','lang'].forEach(id=>$('#'+id).addEventListener('input',render));
   render();
 })();
