@@ -151,7 +151,10 @@ def build_record(rec, ex, loc):
     location_obj = {"value": loc_text or "확인필요",
                     "source": config.SRC_AI if loc_text else config.SRC_UNKNOWN,
                     "city": (loc or {}).get("city", ""),
-                    "setting": (loc or {}).get("setting", "")}
+                    "tier": (loc or {}).get("tier", ""),
+                    "setting": (loc or {}).get("setting", ""),
+                    "commute_min": (loc or {}).get("commute_min"),
+                    "city_size": (loc or {}).get("city_size", "")}
 
     return {
         "country": rec["country"],
