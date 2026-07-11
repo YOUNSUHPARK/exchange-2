@@ -67,18 +67,19 @@ def _valid(out):
 
 
 def classify_tier(city_size, commute_min, major_city_min=None):
-    """설계 문서의 분류 규칙표 + 보완: 인근 대도시 1시간 미만이면 통근권 → 준도시."""
+    """분류 규칙 (사용자 확정, 2026-07-11 2차 수정):
+    소도시/마을 구분 없이 타운 시내(≤30분) 또는 대도시 60분 이내면 준도시.
+    도시 외곽은 둘 다 아닌 고립 캠퍼스만."""
     if city_size == "대도시":
         if commute_min <= 10:
             return "도시"
         if commute_min < 60:
             return "준도시"
         return "도시 외곽"
-    # 소도시/마을: 가장 가까운 대도시 도심까지 1시간 미만이면 대도시 생활권
-    if major_city_min is not None and major_city_min < 60:
-        return "준도시"
-    if city_size == "소도시" and commute_min <= 30:
-        return "준도시"  # 대학도시 시내 (사용자 확정)
+    if major_city_min is not None and major_city_min <= 60:
+        return "준도시"  # 대도시 통근권
+    if commute_min <= 30:
+        return "준도시"  # 대학도시/타운 시내
     return "도시 외곽"
 
 

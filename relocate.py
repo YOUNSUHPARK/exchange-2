@@ -30,15 +30,48 @@ def campus_hint(rec):
     return None
 
 
+def reclassify(data):
+    """Solar 재호출 없이, 저장된 사실값으로 tier만 재계산해 라벨 교체."""
+    changed = 0
+    for rec in data:
+        l = rec.get("location", {})
+        if not l.get("city_size"):
+            continue
+        tier = location.classify_tier(l["city_size"], l.get("commute_min") or 0,
+                                      l.get("major_city_min"))
+        if tier != l.get("tier"):
+            old_value = l.get("value", "")
+            desc = old_value.split(" — ", 1)[1] if " — " in old_value else old_value
+            l["value"] = f"{tier} — {desc}"
+            print(f"  {rec['university']}: {l.get('tier')} → {tier} ({desc})")
+            l["tier"] = tier
+            l["setting"] = tier
+            changed += 1
+    print(f"재분류 변경: {changed}건")
+    return data
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="앞 N개교만 (시험용)")
     ap.add_argument("--resume", action="store_true",
                     help="이미 tier가 있는 학교는 건너뛰기 (중단 후 이어서)")
+    ap.add_argument("--reclassify", action="store_true",
+                    help="Solar 호출 없이 저장된 사실값으로 tier만 재계산")
     args = ap.parse_args()
 
     with open(DATA, encoding="utf-8") as f:
         data = json.load(f)
+
+    if args.reclassify:
+        data = reclassify(data)
+        with open(DATA, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
+        dist = collections.Counter(r["location"].get("tier", "") for r in data)
+        print("=== 3단계 분포 ===")
+        for k, v in dist.most_common():
+            print(f"  {k or '(확인필요)'}: {v}")
+        return
 
     targets = data[: args.limit] if args.limit else data
     if args.resume:
@@ -63,6 +96,8 @@ def main():
                 "commute_min": loc["commute_min"],
                 "major_city_min": loc.get("major_city_min"),
                 "city_size": loc["city_size"],
+                "transport": loc.get("transport", ""),
+                "major_city_note": loc.get("major_city_note", ""),
             }
             print(f"[{i}/{len(targets)}] {uni}: {loc['text']}", flush=True)
         else:

@@ -3168,11 +3168,11 @@
   "credits_min": "12 US credits",
   "credits_max": "16.0",
   "location": {
-   "value": "도시 외곽 — 소도시·마을(쿰바야) 소재, 키토에서 버스 약 1시간",
+   "value": "준도시 — 소도시·마을(쿰바야) 소재, 키토에서 버스 약 1시간",
    "source": "AI추정",
    "city": "쿰바야",
-   "tier": "도시 외곽",
-   "setting": "도시 외곽",
+   "tier": "준도시",
+   "setting": "준도시",
    "commute_min": 30,
    "major_city_min": 60,
    "city_size": "마을"
@@ -7590,11 +7590,11 @@
   "credits_min": "7 credits",
   "credits_max": "N/A",
   "location": {
-   "value": "도시 외곽 — 소도시 히가시마쓰야마 중심까지 기차 약 100분 (도쿄에서 기차 약 60분)",
+   "value": "준도시 — 소도시 히가시마쓰야마 중심까지 기차 약 100분 (도쿄에서 기차 약 60분)",
    "source": "AI추정",
    "city": "히가시마쓰야마",
-   "tier": "도시 외곽",
-   "setting": "도시 외곽",
+   "tier": "준도시",
+   "setting": "준도시",
    "commute_min": 100,
    "major_city_min": 60,
    "city_size": "소도시"
@@ -7858,11 +7858,11 @@
   "credits_min": "There are no minimum credits but they have to take 6 slots per week to maitain their visa status.",
   "credits_max": "14 credits per quarter, 28 credits per semester",
   "location": {
-   "value": "도시 외곽 — 소도시 코다이라 중심까지 기차 약 45분 (도쿄에서 기차 약 60분)",
+   "value": "준도시 — 소도시 코다이라 중심까지 기차 약 45분 (도쿄에서 기차 약 60분)",
    "source": "AI추정",
    "city": "코다이라",
-   "tier": "도시 외곽",
-   "setting": "도시 외곽",
+   "tier": "준도시",
+   "setting": "준도시",
    "commute_min": 45,
    "major_city_min": 60,
    "city_size": "소도시"
@@ -10538,11 +10538,11 @@
   "credits_min": "No minimum ECTS requirement set by IEU. Minimum reqs are set by the home institution.",
   "credits_max": "30 ECTS plus optional free 3 ECTS Spanish course",
   "location": {
-   "value": "도시 외곽 — 소도시·마을(세고비아) 소재, 마드리드에서 버스 약 60분",
+   "value": "준도시 — 소도시·마을(세고비아) 소재, 마드리드에서 버스 약 60분",
    "source": "AI추정",
    "city": "세고비아",
-   "tier": "도시 외곽",
-   "setting": "도시 외곽",
+   "tier": "준도시",
+   "setting": "준도시",
    "commute_min": 15,
    "major_city_min": 60,
    "city_size": "마을"
@@ -13084,11 +13084,11 @@
   "credits_min": "12 US credits (about 4 classes)",
   "credits_max": "18 US credits (about 6 classes)",
   "location": {
-   "value": "도시 외곽 — 소도시·마을(포츠담) 소재, 시러큐스에서 버스 약 5시간",
+   "value": "준도시 — 소도시·마을(포츠담) 소재, 시러큐스에서 버스 약 5시간",
    "source": "AI추정",
    "city": "포츠담",
-   "tier": "도시 외곽",
-   "setting": "도시 외곽",
+   "tier": "준도시",
+   "setting": "준도시",
    "commute_min": 10,
    "major_city_min": 300,
    "city_size": "마을"
@@ -13218,11 +13218,11 @@
   "credits_min": "12.0",
   "credits_max": "18.0",
   "location": {
-   "value": "도시 외곽 — 소도시·마을(풀먼) 소재, 스포캔에서 버스 약 2시간",
+   "value": "준도시 — 소도시·마을(풀먼) 소재, 스포캔에서 버스 약 2시간",
    "source": "AI추정",
    "city": "풀먼",
-   "tier": "도시 외곽",
-   "setting": "도시 외곽",
+   "tier": "준도시",
+   "setting": "준도시",
    "commute_min": 10,
    "major_city_min": 120,
    "city_size": "마을"
