@@ -280,7 +280,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 / 4.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -347,7 +347,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.5 on 4-point scale",
+   "value": "2.5/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -548,7 +548,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "4 out of 7",
+   "value": "4.0/7.0",
    "source": "시트"
   },
   "semesters": null,
@@ -749,7 +749,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "according to home institution",
+   "value": "제한 없음 (홈교 기준)",
    "source": "시트"
   },
   "semesters": "3학기",
@@ -883,7 +883,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.0 out of 4.0",
+   "value": "2.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -1419,7 +1419,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "60%/100",
+   "value": "60/100",
    "source": "시트"
   },
   "semesters": "최소 1~2학기",
@@ -1486,7 +1486,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.5 out of 4.0 - or 70%",
+   "value": "2.5/4.0",
    "source": "시트"
   },
   "semesters": "4학기",
@@ -1754,7 +1754,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "Good academic standing as defined by Yonsei",
+   "value": "Good standing (수치 기준 없음)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -2089,7 +2089,7 @@
    "source": "웹"
   },
   "gpa_min": {
-   "value": "2.7 / 4.3",
+   "value": "2.7/4.3",
    "source": "시트"
   },
   "semesters": "2~1학기",
@@ -2424,7 +2424,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 out of 4.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "We don't have any requirements on this matter.",
@@ -3161,7 +3161,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.5 for Cumbaya and 3 for Galapagos",
+   "value": "2.5/4.0 (갈라파고스 캠퍼스 3.0/4.0)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -3764,7 +3764,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3 on a scale 1-5",
+   "value": "3.0/5.0",
    "source": "시트"
   },
   "semesters": "Two",
@@ -4099,7 +4099,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "0~20",
+   "value": "명시 없음 (프랑스식 0~20 체계)",
    "source": "시트"
   },
   "semesters": "6학기",
@@ -4233,7 +4233,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "No minimum GPA required but required academic level : For Bachelor 2 level : Required academic level: minimum 1 year of completed studies / 60 ECTS credits. For Bachelor 3 level : Required academic level: minimum 2 years of completed studies / 120 ECTS credits. For Master 1 level (PGE2 & MSc1) : Required academic level: minimum 3 years of completed studies / 180 ECTS credits. For Master 2 level (PGE3 & MSc2) : Required academic level: minimum 4 years of studies / 240 ECTS credits.",
+   "value": "제한 없음 (학년별 최소 이수학점/ECTS 요건만)",
    "source": "시트"
   },
   "semesters": "1학기",
@@ -5037,7 +5037,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "excellent academic standard",
+   "value": "명시 없음 (우수한 성적 요구)",
    "source": "시트"
   },
   "semesters": "최소 1~2학기",
@@ -6779,7 +6779,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "Good standing",
+   "value": "Good standing (수치 기준 없음)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -6846,7 +6846,7 @@
    "source": "웹"
   },
   "gpa_min": {
-   "value": "3.33/4.3 (B+), 2:1 또는 3.0/4.0 (법·경영 제외)",
+   "value": "3.3/4.3 (법·경영 제외 전공은 3.0/4.0)",
    "source": "웹"
   },
   "semesters": "2학기",
@@ -7047,7 +7047,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.5/4.0 or 3.5/5.0",
+   "value": "2.5/4.0 (또는 3.5/5.0)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -7114,7 +7114,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 out of 4.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -7449,7 +7449,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "Bocconi University does not foresee any specific GPA requirements as we fully trust our partner’s selection. The Grading scale used at Bocconi University ranges from 18 to 30. Being 30 the highest grade, and 18 the lowest pass grade.",
+   "value": "제한 없음/명시 없음",
    "source": "시트"
   },
   "semesters": "N/A",
@@ -7516,7 +7516,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.0 / 4.0",
+   "value": "2.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -8387,7 +8387,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "GPA 2.5/4.0",
+   "value": "2.5/4.0",
    "source": "시트"
   },
   "semesters": "https://www.toyo.ac.jp/academics/international-exchange/prospective/exchange_program/",
@@ -8722,7 +8722,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "70% of maximum grade",
+   "value": "70/100",
    "source": "웹"
   },
   "semesters": "2~1학기",
@@ -8789,7 +8789,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.5/4.0 (USA System), 80 (Mexican System)",
+   "value": "2.5/4.0 (멕시코식 80/100)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -9124,7 +9124,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "Differs per programme",
+   "value": "프로그램별 상이",
    "source": "시트"
   },
   "semesters": "최소 2학기",
@@ -9191,7 +9191,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "School of Business and Economics: null, Univeristy College Maastricht: 3.0/4.0, Maastricht Science Programme: 3.0/4.0",
+   "value": "3.0/4.0 (경영경제대학 SBE는 제한 없음)",
    "source": "시트"
   },
   "semesters": "최소 1~60학기",
@@ -9325,7 +9325,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "sufficient courses in Microeconomics, Macroeconomics, Statistics and Mathematics",
+   "value": "명시 없음 (미시·거시경제, 통계, 수학 선수과목 요구)",
    "source": "시트"
   },
   "semesters": "at least one year of your Bachelor’s degree programme.",
@@ -9593,7 +9593,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "C",
+   "value": "C 이상 (ECTS 등급)",
    "source": "시트"
   },
   "semesters": "4학기",
@@ -9861,7 +9861,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "12.50 out of 20",
+   "value": "12.5/20",
    "source": "시트"
   },
   "semesters": "5학기",
@@ -9928,7 +9928,7 @@
    "source": "웹"
   },
   "gpa_min": {
-   "value": "3.0 on a 5.0 scale",
+   "value": "3.0/5.0",
    "source": "시트"
   },
   "semesters": "N/A",
@@ -9995,7 +9995,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "CGPA of at least 3.3/5 or equivalent",
+   "value": "3.3/5.0",
    "source": "웹"
   },
   "semesters": "2학기",
@@ -11268,7 +11268,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0/4.0 (ECE), 3.5/5.0 or 3.0/4.0 (CS), 2.75/4.0 (Bioscience)",
+   "value": "2.75~3.0/4.0 (전공별 상이)",
    "source": "시트"
   },
   "semesters": "4학기",
@@ -11670,7 +11670,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "4.00 grading scale",
+   "value": "명시 없음 (4.0 스케일만 기재)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -11938,7 +11938,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.3 on a 4.0 scale (3.0 with strong academic motivation)",
+   "value": "3.3/4.0 (학업동기 우수 시 3.0/4.0)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -12072,7 +12072,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "UK 2.2 (50%)",
+   "value": "50/100 (UK 2:2)",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -12139,7 +12139,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 on a 4.0 scale",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "최소 2학기",
@@ -12407,7 +12407,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.5 GPA out of 5.0/B/80 out of 100 (or 3.0 out of 4.0 Grade Point Average system)",
+   "value": "3.0/4.0 (또는 3.5/5.0, 80/100)",
    "source": "시트"
   },
   "semesters": "최소 4~2학기",
@@ -12474,7 +12474,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.6 out of 4.0",
+   "value": "2.6/4.0",
    "source": "시트"
   },
   "semesters": "We recommend that students have completed at least one semester at their home university before coming to study at YSJ.",
@@ -12675,7 +12675,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 on a 4.0 scale",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -13211,7 +13211,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 on a 4.0 scale",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -13278,7 +13278,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -13479,7 +13479,7 @@
    "source": "웹"
   },
   "gpa_min": {
-   "value": "2.5 on a 4.0 scale",
+   "value": "2.5/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -13546,7 +13546,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 out of 4.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -13814,7 +13814,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "2.5 on 4.0 scale (undergraduates)",
+   "value": "2.5/4.0",
    "source": "시트"
   },
   "semesters": "2~3학기",
@@ -13881,7 +13881,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 on 4.0 scale",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "4학기",
@@ -14015,7 +14015,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 / 4.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
@@ -14082,7 +14082,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.00 out of 4.00 cumulative GPA",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "4학기",
@@ -14149,7 +14149,7 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "3.0 out of 4.0",
+   "value": "3.0/4.0",
    "source": "시트"
   },
   "semesters": "2학기",
