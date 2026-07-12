@@ -16,6 +16,7 @@ COLUMNS = [
     ("위치(도심 거리)", lambda r: v(r["location"])),
     ("수업 언어", lambda r: v(r["lang_instruction"])),
     ("어학 요건", lambda r: v(r["lang_req"])),
+    ("특징", lambda r: " · ".join(f["text"] for f in (r.get("features") or []))),
     ("출처 요약", lambda r: sources_summary(r)),
     ("참고 링크", lambda r: r.get("program_link")),
     ("문의 이메일", lambda r: r.get("email")),
@@ -63,7 +64,7 @@ def build(records, out_dir=None):
             cell.alignment = Alignment(vertical="center", wrap_text=True)
         for r in records:
             ws.append([c[1](r) or "" for c in COLUMNS])
-        widths = [12, 26, 16, 30, 14, 10, 12, 12, 26, 10, 26, 24, 30, 24]
+        widths = [12, 26, 16, 30, 14, 10, 12, 12, 26, 10, 26, 32, 24, 30, 24]
         for i, wdt in enumerate(widths, 1):
             ws.column_dimensions[openpyxl.utils.get_column_letter(i)].width = wdt
         for row in ws.iter_rows(min_row=2):

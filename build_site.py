@@ -69,6 +69,7 @@ function card(r){
     ${row('위치(도심 거리)',r.location)}
     ${row('수업 언어',r.lang_instruction)}
     ${row('어학 요건',r.lang_req)}
+    ${row('특징',{value:(r.features||[]).map(f=>f.text).join(' · ')})}
     ${link}${email}
    </table></div></details>`;
 }

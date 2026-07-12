@@ -73,7 +73,21 @@
     "source": "sheet",
     "evidence": "Southbank campus is home to..."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "QS 최상위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -149,7 +163,8 @@
     "source": "sheet",
     "evidence": "Callaghan and Newcastle City. They are connected by a free 20 minute Shuttle bus"
    }
-  }
+  },
+  "features": []
  },
  {
   "country": "AUSTRALIA",
@@ -225,7 +240,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "ELICOS 및 준비 과정 제공",
+    "source": "웹"
+   },
+   {
+    "text": "공학 및 기술 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -301,7 +330,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Crawley (Perth) and Albany (500 kms south of Perth)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "160+ 학생 클럽 보유",
+    "source": "웹"
+   },
+   {
+    "text": "QS 세계 77위 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -377,7 +416,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Kensington, Paddington"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "트라이메스터제 학사일정",
+    "source": "웹"
+   },
+   {
+    "text": "QS 세계대학랭킹 19위 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -453,7 +502,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Gardens Point campus...QUT College (English pathway programs)."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "호주 내 실용적 교육 강점",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -529,7 +588,21 @@
     "source": "sheet",
     "evidence": "UTS has two campuses"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "150+ 학생 동아리 및 과외 프로그램",
+    "source": "웹"
+   },
+   {
+    "text": "호주 1위 젊은 대학(2024 THE)",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -605,7 +678,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "트라이메스터제 운영(2월-6월, 7월-11월)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
@@ -681,7 +760,13 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Acton Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "OSHC(해외학생 건강보험) 필수 가입",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRIA",
@@ -757,7 +842,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 필수 오리엔테이션 및 교환페어 참석",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRIA",
@@ -833,7 +936,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "전담 오리엔테이션·멘토링",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRIA",
@@ -909,7 +1030,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "Welcome Week 제공",
+    "source": "웹"
+   },
+   {
+    "text": "18~30 ECTS 학점 선택 가능",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRIA",
@@ -985,7 +1124,25 @@
     "source": "sheet",
     "evidence": "All that offer courses in English for incoming students"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "오리엔테이션 프로그램 제공",
+    "source": "웹"
+   },
+   {
+    "text": "연 400명+ 교환학생 수용",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRIA",
@@ -1061,7 +1218,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Steyr - Business and Management, Hagenberg - Informatics, Communications and Media, Wels - Engineering"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "공학·경영 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "BELGIUM",
@@ -1137,7 +1308,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "연 200명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "유럽연합 학생 무료 건강보험 적용",
+    "source": "웹"
+   },
+   {
+    "text": "경영·경영관리 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "BELGIUM",
@@ -1213,7 +1402,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "학생 클럽 Cercle Solvay가 교환학생 대상 사회·커리어 이벤트 주최",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증(AACSB·AMBA·EQUIS) 보유",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "BELGIUM",
@@ -1289,7 +1496,25 @@
     "source": "web",
     "evidence": "Liège Centre-ville"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "HEC 캠퍼스 근처 사설 기숙사",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램 및 국제학생 전용 클럽 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "BELGIUM",
@@ -1365,7 +1590,25 @@
     "source": "sheet",
     "evidence": "choose the campus which is the best appropriate"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "오리엔테이션 & 버디 프로그램",
+    "source": "웹"
+   },
+   {
+    "text": "캠퍼스별 전공 특성 차이 (안트베르펜·브뤼셀-경영 실무, 루벤-경제·금융 분석)",
+    "source": "웹"
+   },
+   {
+    "text": "벨기에 최대 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "BRAZIL",
@@ -1441,7 +1684,21 @@
     "source": "sheet",
     "evidence": "São Leopoldo Campus (Main) & Porto Alegre Campus (Capital Campus)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "100% 온라인 수업 옵션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "50년 전통 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "BRAZIL",
@@ -1517,7 +1774,17 @@
     "source": "sheet",
     "evidence": "All, for more information"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "학점 인정 가이드라인 및 성적 환산 기준 제공",
+    "source": "웹"
+   },
+   {
+    "text": "브라질 최대 국립 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "BRAZIL",
@@ -1593,7 +1860,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Campinas, Limeira (FCA, FT), Piracicaba (FOP)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "학부 과정 무료(등록금·월비 없음)",
+    "source": "웹"
+   },
+   {
+    "text": "공학·의학·자연과학 강점",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -1669,7 +1946,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Kelowna/ Arts, business, ESL"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사·홈스테이·개인 숙소 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "국제교육팀 지원 및 오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "의료보험 필수·교통비 월 $65~$208",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -1745,7 +2040,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "전담 Academic Coordinator 지원",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -1821,7 +2134,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Keele campus and Glendon campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "65세 이상 수강생 $100 행정 수수료",
+    "source": "웹"
+   },
+   {
+    "text": "영어·프랑스어 이중 언어 교육",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -1897,7 +2220,25 @@
     "source": "sheet",
     "evidence": "Main campus only"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장",
+    "source": "웹"
+   },
+   {
+    "text": "국제학생지원센터(ISSAC) 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -1973,7 +2314,21 @@
     "source": "web",
     "evidence": "1250, rue Sanguinet Montréal (Québec) H2X 3E7"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "트라이메스터제 운영(겨울 2027 지원 접수)",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증(AACSB, EQUIS, AMBA 보유)",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2049,7 +2404,25 @@
     "source": "sheet",
     "evidence": "Fort Garry, business majors"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "일부 파트너국 저비용 숙소",
+    "source": "웹"
+   },
+   {
+    "text": "전체 과정 지원",
+    "source": "웹"
+   },
+   {
+    "text": "65+ 영어 사용 파트너교",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2125,7 +2498,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 시트값"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "필수 보험(Guard.Me) 및 교통비(U-Pass) 납부",
+    "source": "웹"
+   },
+   {
+    "text": "캐나다 밴쿠버 소재 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2201,7 +2588,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): St. John's, Grenfell, Marine Institute"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "캐나다 북대서양 연안에 위치한 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2277,7 +2674,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 신청 가능·수요 높음·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "도착 체크리스트·학생 서비스 제공",
+    "source": "웹"
+   },
+   {
+    "text": "QS 세계 40위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2353,7 +2768,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 목록"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·경쟁적 신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "여름 학기 기숙사 보장",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2429,7 +2862,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "연 1000명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "프랑스어 B2 이상 필수",
+    "source": "웹"
+   },
+   {
+    "text": "캐나다 프랑스어권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CANADA",
@@ -2505,7 +2952,21 @@
     "source": "web",
     "evidence": "주소 기재"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "연 4,000명+ 국제학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "최소 12학점(4과목) 필수 등록, 최대 15학점(5과목)+언어 3학점",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CHINA",
@@ -2581,7 +3042,13 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Beijing"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "미디어·커뮤니케이션 분야 특성화 국립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CHINA",
@@ -2657,7 +3124,21 @@
     "source": "web",
     "evidence": "Students of the Chinese Language program are located at the Junshan Campus. All other students are based at the Main Campus."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 700-1400 CNY/월",
+    "source": "웹"
+   },
+   {
+    "text": "보험 800 CNY/년 필수",
+    "source": "웹"
+   },
+   {
+    "text": "공학·의학 특성화 국립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CHINA",
@@ -2733,7 +3214,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "글로벌 파트너 200개교 이상",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CHINA",
@@ -2809,7 +3300,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): 학사과정 Zhongguancun, 석사과정 Tongzhou"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CHINA",
@@ -2885,7 +3386,17 @@
     "source": "sheet",
     "evidence": "Beijing Campus and Zhuhai Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 제공 및 공항 픽업 서비스",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 및 심리 상담 서비스",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CHINA",
@@ -2961,7 +3472,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Minhang Campus, Xuhui Campus. Depends on courses, not major"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "일부 과목 수강 경쟁률 높음",
+    "source": "시트"
+   },
+   {
+    "text": "공학·경영 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CROATIA",
@@ -3037,7 +3558,25 @@
     "source": "sheet",
     "evidence": "TOEIC 700 (Oxford Campus : TOEIC 750)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "석사 과정 수강 시 180 ECTS 이상 필요",
+    "source": "웹"
+   },
+   {
+    "text": "크로아티아 최대 경제·경영 단과대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "CZECH REPUBLIC",
@@ -3113,7 +3652,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 신청 가능",
+    "source": "웹"
+   },
+   {
+    "text": "버디 시스템·오리엔테이션 주 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "CZECH REPUBLIC",
@@ -3189,7 +3746,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 보장 (Větrník, Hvězda, Kajetánka)",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "DENMARK",
@@ -3265,7 +3840,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "학생 기숙사 제공 (에스비에르, 콜딩, 오덴세, 쇠네르보르, 베일레)",
+    "source": "웹"
+   },
+   {
+    "text": "게스트 학생 학비 부과",
+    "source": "웹"
+   },
+   {
+    "text": "영어 강의 제공 국제 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "DENMARK",
@@ -3341,7 +3934,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Lyngby Campus, Ballerup Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "국제학생서비스 지원",
+    "source": "웹"
+   },
+   {
+    "text": "연 900명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "영어 B2 이상 요구",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "DENMARK",
@@ -3417,7 +4028,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Faculty of Humanities"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 신청 보장",
+    "source": "웹"
+   },
+   {
+    "text": "연 2000+ 과목 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "DENMARK",
@@ -3493,7 +4122,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "덴마크 유일의 학제간 프로젝트 기반 교육",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "DENMARK",
@@ -3569,7 +4208,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "코펜하겐 캠퍼스 기숙사 구하기 어려움",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램 및 국제 사무실 지원",
+    "source": "웹"
+   },
+   {
+    "text": "덴마크어 A레벨 요구(북유럽 교환생)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "ECUADOR",
@@ -3645,7 +4302,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Cumbaya all majors, Galapagos (4 tracks)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "갈라파고스 학기제 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "ESTONIA",
@@ -3721,7 +4392,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "학생 버디 프로그램·국제학생 오리엔테이션",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -3797,7 +4486,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "ESN(Erasmus Student Network) 활동",
+    "source": "웹"
+   },
+   {
+    "text": "연 200명+ 교환학생 수용",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -3873,7 +4580,25 @@
     "source": "sheet",
     "evidence": "Vaasa campus, all majors available"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 사실 미제공",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 전용 튜터 배정",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -3949,7 +4674,25 @@
     "source": "web",
     "evidence": "With the main campus located in Rovaniemi"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 오리엔테이션(8월 18-21일) 및 전담 인바운드 팀 지원",
+    "source": "웹"
+   },
+   {
+    "text": "캠퍼스 내 5명 중 1명 국제학생 비율",
+    "source": "웹"
+   },
+   {
+    "text": "유럽연합 최북단 종합대학(과학·예술 분야)",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4025,7 +4768,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 시트값"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "Clinical Medicine 지원자는 3-4월 신청 시 우선권 부여",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4101,7 +4858,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "다학제 연구 중심 국립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4177,7 +4948,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "오리엔테이션 3일 제공",
+    "source": "웹"
+   },
+   {
+    "text": "EU 외 학생 필수 건강보험 가입",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4253,7 +5042,25 @@
     "source": "sheet",
     "evidence": "Helsinki and Vasa"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 정보 링크 제공",
+    "source": "웹"
+   },
+   {
+    "text": "튜터 픽업 서비스 및 필수 오리엔테이션 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4329,7 +5136,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Pasila (Bus), Porvoo (Bus, Digital Business)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 보장",
+    "source": "웹"
+   },
+   {
+    "text": "학생 튜터·오리엔테이션·개인 학습 상담 지원",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4405,7 +5230,25 @@
     "source": "web",
     "evidence": "Information on Aalto Mikkeli Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "Housing for exchange students",
+    "source": "웹"
+   },
+   {
+    "text": "Mandatory orientation",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4481,7 +5324,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "의학·심리학 수강 시 2년 이상 학업 요건, 생명과학은 2년 전공 이수 필요",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FINLAND",
@@ -4557,7 +5414,25 @@
     "source": "web",
     "evidence": "Health and Well-Being (Salo, Turku)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "학생 튜터 배정(오리엔테이션·실용 문제 지원)",
+    "source": "웹"
+   },
+   {
+    "text": "연 300명+ 교환학생 수용",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -4633,7 +5508,25 @@
     "source": "web",
     "evidence": "By studying in Paris"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "필수 예방접종 증명(파상풍·B형 간염) 필요",
+    "source": "웹"
+   },
+   {
+    "text": "생명공학 특성화 사립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -4709,7 +5602,25 @@
     "source": "sheet",
     "evidence": "Paris, Bordeaux, Lyon"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 브로슈어 제공",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -4785,7 +5696,25 @@
     "source": "web",
     "evidence": "our own two campuses–in Paris and Orléans"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램·학생협회 지원",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -4861,7 +5790,21 @@
     "source": "sheet",
     "evidence": "Nancy & Paris (France) for Bachelor + Master"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -4937,7 +5880,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "정보 세션 및 튜터 지원",
+    "source": "웹"
+   },
+   {
+    "text": "비자 신청용 입학허가서 발급",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5013,7 +5970,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "프랑스어 레벨 테스트 필수",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5089,7 +6060,25 @@
     "source": "sheet",
     "evidence": "SKKU students will go to our campus located in Lyon"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "파트너 230개교",
+    "source": "웹"
+   },
+   {
+    "text": "학기당 25~35 ECTS 수강",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5165,7 +6154,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): ..."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "Grande Ecole 21ECTS/학기, BBA 30ECTS/학기",
+    "source": "시트"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5241,7 +6244,25 @@
     "source": "sheet",
     "evidence": "Grenoble and Valence"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "프랑스어 B1-B2 또는 영어 B2 권장",
+    "source": "웹"
+   },
+   {
+    "text": "공학·자연과학·인문학 강점 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5317,7 +6338,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Paris"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "프랑스어/영어 집중 세미나 및 언어 강좌 제공",
+    "source": "웹"
+   },
+   {
+    "text": "전 세계 수백 개 대학과 교환 협약 체결",
+    "source": "웹"
+   },
+   {
+    "text": "최대 30 ECTS(프랑스어 세미나 수강 시 33 ECTS) 수강 가능",
+    "source": "웹"
+   },
+   {
+    "text": "경영·경제·수학·컴퓨터과학 분야 특성화 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5393,7 +6432,21 @@
     "source": "sheet",
     "evidence": "Bordeaux and Marseille"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "연 1000명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "프랑스어·영어 병행 수업 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5469,7 +6522,25 @@
     "source": "sheet",
     "evidence": "Paris, Lille. We offer the same courses on both campuses"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내·외 기숙사 지원",
+    "source": "웹"
+   },
+   {
+    "text": "버디 시스템·국제 클럽·프랑스어 수업",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5545,7 +6616,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Paris-Cachan Campus (Digital transformation & supply chain major), Montpellier Campus (Data Engineering major)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "프랑스어 불필요(교환 지원 시)",
+    "source": "웹"
+   },
+   {
+    "text": "공학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5621,7 +6706,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "파트너 300개교+",
+    "source": "웹"
+   },
+   {
+    "text": "인문학·사회과학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5697,7 +6800,13 @@
     "source": "web",
     "evidence": "Lille campus only"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "가톨릭 계열 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5773,7 +6882,25 @@
     "source": "sheet",
     "evidence": "Nice campus & Lille Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "국제학생 오리엔테이션 필수 참석",
+    "source": "웹"
+   },
+   {
+    "text": "160개 파트너 대학, 100+ 국적 학생",
+    "source": "웹"
+   },
+   {
+    "text": "무료 프랑스어 수업(5 ECTS), 필수 출석",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5849,7 +6976,25 @@
     "source": "sheet",
     "evidence": "Toulouse and Barcelona"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "국제학생 대상 연중 행사 운영",
+    "source": "웹"
+   },
+   {
+    "text": "모든 캠퍼스 교환 프로그램 가능",
+    "source": "웹"
+   },
+   {
+    "text": "스페인어 집중 코스(8월 말 시작)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -5925,7 +7070,25 @@
     "source": "sheet",
     "evidence": "Exchange students are welcomed to the PLC campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "외부 기숙사 협력 (월 €450-700), 보장 불가",
+    "source": "웹"
+   },
+   {
+    "text": "프랑스어 시험 필수 (도착 전), 학기별 시험 기간 2주",
+    "source": "웹"
+   },
+   {
+    "text": "아시아·아프리카·중동 언어·문명 연구 특화 국립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -6001,7 +7164,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "공학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -6077,7 +7250,25 @@
     "source": "sheet",
     "evidence": "All our campuses : Reims, Rouen, Paris"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "HUB를 통한 전 과정 지원",
+    "source": "웹"
+   },
+   {
+    "text": "연 2100명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "프랑스어 B2 이상 필수",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "FRANCE",
@@ -6153,7 +7344,25 @@
     "source": "web",
     "evidence": "Eiffel 1 Campus located near Eiffel Tower"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램·학생협회 지원",
+    "source": "웹"
+   },
+   {
+    "text": "월 평균 1200~1900유로 생활비",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6229,7 +7438,25 @@
     "source": "sheet",
     "evidence": "Students can go to any campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 기숙사 일부 보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램·국제학생팀 지원",
+    "source": "웹"
+   },
+   {
+    "text": "연 23,000명+ 학생·100개국 이상 국제학생",
+    "source": "웹"
+   },
+   {
+    "text": "학기별 360유로 기여금(교통권 포함)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6305,7 +7532,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "경영·경제 분야 강세",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6381,7 +7618,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 상담 서비스 제공",
+    "source": "웹"
+   },
+   {
+    "text": "영어 강의 수강 가능",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6457,7 +7712,25 @@
     "source": "sheet",
     "evidence": "Only our International Campus in Cologne is available"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "독일어 과정·기업 방문·소셜 활동 제공",
+    "source": "웹"
+   },
+   {
+    "text": "경영·디지털 기술·AI 분야 특화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6533,7 +7806,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 목록"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 신청 필수·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 주·버디 프로그램",
+    "source": "웹"
+   },
+   {
+    "text": "영어 강의·과정 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6609,7 +7900,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "보험 미제공, B2 어학 권장",
+    "source": "웹"
+   },
+   {
+    "text": "공학·IT 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6685,7 +7994,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Digital Media School Hamburg, Leuphana main campus Lüneburg, Campus Rotes Feld Lüneburg"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "모듈 핸드북 온라인 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6761,7 +8080,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 전용 오리엔테이션 및 온라인 상담 제공",
+    "source": "웹"
+   },
+   {
+    "text": "파트너 대학 대상 GStEP 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "학기 시작 전 3개 트랙의 예비 수업 제공",
+    "source": "웹"
+   },
+   {
+    "text": "프랑크푸르트 학파 이론 연구 중심 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6837,7 +8174,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6913,7 +8260,13 @@
     "source": "sheet",
     "evidence": "SKKU students can go to all campuses"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -6989,7 +8342,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Our Faculty of Business Management and Social Sciences is only located at our Caprivi Campus in the city of Osnabrück."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 엘리베이터 미설치·버디 지원",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "다국적 학생 교류 활발",
+    "source": "웹"
+   },
+   {
+    "text": "저렴한 생활비·짧은 통학 거리",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7065,7 +8436,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "120개 이상 대학 파트너십",
+    "source": "웹"
+   },
+   {
+    "text": "비EU 국적자 거주허가 필요",
+    "source": "웹"
+   },
+   {
+    "text": "독일 명문 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7141,7 +8530,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 및 민간 숙소 지원",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "비자·보험·등록 지원",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7217,7 +8624,17 @@
     "source": "web",
     "evidence": "courses offered at Furtwangen/Schwenningen campuses"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 비용 월 280~470유로, 1인 아파트 350유로",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7293,7 +8710,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7369,7 +8792,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Frankfurt am Main"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 전담 지원 서비스",
+    "source": "웹"
+   },
+   {
+    "text": "여름/겨울 학교 프로그램 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7445,7 +8886,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램·독일어 집중 코스",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7521,7 +8980,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 정보"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "선택적 기숙사 제공",
+    "source": "웹"
+   },
+   {
+    "text": "국제 사무실 지원",
+    "source": "웹"
+   },
+   {
+    "text": "전 세계 40개 파트너 대학",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7597,7 +9074,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "버디 프로그램(BeBuddy), 웰컴 위크, 전담 교환학생 서비스",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "GERMANY",
@@ -7673,7 +9168,21 @@
     "source": "sheet",
     "evidence": "major within the Faculty of Engineering (Erlangen)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 사실 미보장·개별 신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "월 생활비 992-1250유로·학기당 72유로 필수 납부",
+    "source": "웹"
+   },
+   {
+    "text": "공학·의학·자연과학 강점 국립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "HONG KONG",
@@ -7749,7 +9258,13 @@
     "source": "sheet",
     "evidence": "Hong Kong campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "홍콩 최상위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "HONG KONG",
@@ -7825,7 +9340,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "봄학기 기숙사 가용성 높음",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 및 활동 제공",
+    "source": "웹"
+   },
+   {
+    "text": "학점 24-30학점 권장, 법학 전공자 비법학 과목 제한",
+    "source": "웹"
+   },
+   {
+    "text": "아시아 최상위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "HONG KONG",
@@ -7901,7 +9434,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "QS 세계대학랭킹 100위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "HONG KONG",
@@ -7977,7 +9516,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공학·비즈니스·건설환경 분야 강세",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "HUNGARY",
@@ -8053,7 +9598,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "ESN Pécs 지원",
+    "source": "웹"
+   },
+   {
+    "text": "유럽 300만 명 이상 교환학생 참여",
+    "source": "웹"
+   },
+   {
+    "text": "헝가리 최대 규모 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "INDONESIA",
@@ -8129,7 +9688,17 @@
     "source": "sheet",
     "evidence": "UGM campus in Yogyakarta, it is the main campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "저렴한 생활비, 친절한 지역사회, 활발한 학술분위기",
+    "source": "웹"
+   },
+   {
+    "text": "인도네시아 최상위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "INDONESIA",
@@ -8205,7 +9774,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): - Faculty of Administrative Sciences, UI Depok"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "오리엔테이션 프로그램·사전 출발 세션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "인도네시아 국립 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "ITALY",
@@ -8281,7 +9864,25 @@
     "source": "sheet",
     "evidence": "The University of Verona counts various locations across the city. Some degree programmes are held in locations other than Verona."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "월 €450 공유 학생 아파트",
+    "source": "웹"
+   },
+   {
+    "text": "학기 초 오리엔테이션 데이",
+    "source": "웹"
+   },
+   {
+    "text": "연간 500명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "월 생활비 €1,000 (식비 €450 포함)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "ITALY",
@@ -8357,7 +9958,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "학생 기숙사 제공",
+    "source": "웹"
+   },
+   {
+    "text": "공학·건축 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "ITALY",
@@ -8433,7 +10048,25 @@
     "source": "sheet",
     "evidence": "All Campuses except for the Roncade one"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "Welcome Unit 개별 오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "700+ 해외 대학과 교환 협약",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "ITALY",
@@ -8509,7 +10142,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "국제학생데스크(ISD) 지원 서비스",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -8585,7 +10236,17 @@
     "source": "sheet",
     "evidence": "All EPOK students, regardless their major, study at Tsushima Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "석사생 수강 제한(일본어·영어 강의만)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -8661,7 +10322,21 @@
     "source": "sheet",
     "evidence": "Undergraduate: Higashimatsuyama Campus, Graduate School (All majors except Asian Area Studies and Sports and Health Sciences Studies): Itabashi Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "영어 능력 시험 및 언어 검정 시험 응시료 지원 제도",
+    "source": "웹"
+   },
+   {
+    "text": "스포츠·건강과학부 운영",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -8737,7 +10412,21 @@
     "source": "sheet",
     "evidence": "Kudan Campus (Tokyo)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "일본 국민건강보험(연 3만엔) 및 학생 사고보험(1,340엔) 필수 가입",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -8813,7 +10502,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 목록"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사·아파트·홈스테이 정보 핸드북 제공",
+    "source": "웹"
+   },
+   {
+    "text": "35개국 160개 파트너 대학",
+    "source": "웹"
+   },
+   {
+    "text": "학기당 14학점(10시간 수업) 필수",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -8889,7 +10596,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 보장 (국제교류회관, 전실 개인실)",
+    "source": "웹"
+   },
+   {
+    "text": "기숙사 비용: 입관비 33,000엔, 월 33,000엔 (광열비 별도)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -8965,7 +10686,21 @@
     "source": "web",
     "evidence": "accommodation for international student on the Kodaira International Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "국제학생 기숙사(코다이라) 우선 배정, 1인실 공유형",
+    "source": "웹"
+   },
+   {
+    "text": "장애 학생 합리적 편의 제공",
+    "source": "웹"
+   },
+   {
+    "text": "일본 국립 사회과학 특화 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9041,7 +10776,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 환영 미팅 제공",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 및 은행 계좌 개설 지원",
+    "source": "웹"
+   },
+   {
+    "text": "마키구치 장학금 및 일본학 센터 장학금 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9117,7 +10870,13 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 시트값"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "주당 최소 10시간 수업 필수, 최대 20학점 등록 가능",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9193,7 +10952,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Soka campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "도쿄 버디 프로그램",
+    "source": "웹"
+   },
+   {
+    "text": "일본어 능력시험 지원금",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9269,7 +11046,21 @@
     "source": "sheet",
     "evidence": "All campuses"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "국제 기숙사 제공",
+    "source": "웹"
+   },
+   {
+    "text": "국제 라운지(G-square) 운영",
+    "source": "웹"
+   },
+   {
+    "text": "파트너 대학 266개교",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9345,7 +11136,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): ・Matsumoto Campus ( Faculty of Arts, Faculty of Economics and Law, Faculty of Science) ・Nagano Campus (Faculty of Education, Faculty of Engineering) ・Ina Campus ( Faculty of Agriculture) ・Ueda Campus ( Faculty of Textile Science and Technology)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "연 40명 수용",
+    "source": "웹"
+   },
+   {
+    "text": "재정 증명서 필수",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9421,7 +11222,13 @@
     "source": "sheet",
     "evidence": "Higashiyama Campus is the main campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "사전 도착 정보·오리엔테이션 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9497,7 +11304,21 @@
     "source": "web",
     "evidence": "Faculty/Graduate School of Agriculture 시설 지도"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "비학위 과정(특별청강생/특별연구생) 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9573,7 +11394,21 @@
     "source": "web",
     "evidence": "각 캠퍼스 접근 정보 제공"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 기숙사 제공",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 및 특별 수업 제공",
+    "source": "웹"
+   },
+   {
+    "text": "ISEP, UMAP 등 국제 교류 프로그램 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9649,7 +11484,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 참조"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "대학 기숙사 배정",
+    "source": "웹"
+   },
+   {
+    "text": "장학금 신청 가능",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9725,7 +11574,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 기숙사 보장",
+    "source": "웹"
+   },
+   {
+    "text": "필수 보험 2종 가입",
+    "source": "웹"
+   },
+   {
+    "text": "공학·자연과학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "JAPAN",
@@ -9801,7 +11664,13 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Ito, Ohashi, Chikushi, Maidashi (Only for graduate students)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "파트너 대학 협약 체결",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "KAZAKHSTAN",
@@ -9877,7 +11746,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "카자흐스탄 최대 영어 강의 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "LITHUANIA",
@@ -9953,7 +11836,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 정보"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "VMU 기숙사에서 다른 국제학생과 생활",
+    "source": "웹"
+   },
+   {
+    "text": "VMU 멘토 프로그램 및 오리엔테이션 데이 제공",
+    "source": "웹"
+   },
+   {
+    "text": "연간 2000명+ 80개국 이상 교환학생 수용",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "MEXICO",
@@ -10029,7 +11930,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Campus Monterrey, Ciudad de México, Santa Fe (only students enrolled in business courses), Querétaro and Guadalajara."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "문화·스포츠·특별 관심사 그룹 활동 제공",
+    "source": "웹"
+   },
+   {
+    "text": "QS 세계 사립대 29위",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10105,7 +12016,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Zernike Campus, Groningen"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "파트너 대학 300개교 이상",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10181,7 +12110,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "오리엔테이션 활동 제공",
+    "source": "웹"
+   },
+   {
+    "text": "비EEA 학생 비자 지원 및 최소 20 ECTS 수강 필요",
+    "source": "웹"
+   },
+   {
+    "text": "네덜란드 연구 중심 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10257,7 +12200,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "Inclusive Mobility 지원 서비스 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10333,7 +12294,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Leeuwarden, Meppel, Emmen"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 전용 오리엔테이션 주 제공",
+    "source": "웹"
+   },
+   {
+    "text": "홈대학 학점 인정 가능",
+    "source": "웹"
+   },
+   {
+    "text": "실용적 교육 중심 응용과학대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10409,7 +12388,17 @@
     "source": "web",
     "evidence": "Filter Location Select Eindhoven (22) Venlo (15) Tilburg (9)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10485,7 +12474,21 @@
     "source": "sheet",
     "evidence": "Maastricht Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "연 650명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10561,7 +12564,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 정보"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "수강 신청 시 최소/최대 인원 제한으로 캠퍼스·강의 변경 가능성 있음",
+    "source": "웹"
+   },
+   {
+    "text": "응용과학대학(Holland Applied Sciences)",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10637,7 +12658,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "블록제 운영(8주 수업+1주 시험), 1블록 12~16EC 권장",
+    "source": "웹"
+   },
+   {
+    "text": "경영·경제 특성화 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10713,7 +12752,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "실용학문 중심 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10789,7 +12842,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "연 1,100개 이상 영어 강의 제공",
+    "source": "웹"
+   },
+   {
+    "text": "홈 대학 공식 추천 필요",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "NETHERLANDS",
@@ -10865,7 +12936,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Leiden Campus, Leiden University Medical Center (LUMC), The Hague Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "국제 교환 코디네이터 지원",
+    "source": "웹"
+   },
+   {
+    "text": "네덜란드 최상위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "NORWAY",
@@ -10941,7 +13026,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 우선 배정",
+    "source": "웹"
+   },
+   {
+    "text": "가을학기 8월 10일 시작",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "NORWAY",
@@ -11017,7 +13120,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 보장",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "PERU",
@@ -11093,7 +13206,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "파트너 300개교+",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 장학금 제공",
+    "source": "웹"
+   },
+   {
+    "text": "QS 페루 1위 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "POLAND",
@@ -11169,7 +13296,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "오리엔테이션 주간 및 버디 프로그램 제공",
+    "source": "웹"
+   },
+   {
+    "text": "비파트너 대학생도 1학기 또는 1년 자유수강 가능",
+    "source": "웹"
+   },
+   {
+    "text": "폴란드 최고 경제·경영 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "PORTUGAL",
@@ -11245,7 +13390,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Alameda and Taguspark"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "1학기 30~36 ECTS 권장, 최대 36 ECTS 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "공학·기술 특성화 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SINGAPORE",
@@ -11321,7 +13476,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "전담 오리엔테이션·학생 지원 서비스",
+    "source": "웹"
+   },
+   {
+    "text": "연 200명+ 교환학생 수용",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SINGAPORE",
@@ -11397,7 +13570,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): 50 Nanyang Avenue, Singapore 639798 and 1 Nanyang Walk, Singapore 637616"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 포털·오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "파트너 350+개교",
+    "source": "웹"
+   },
+   {
+    "text": "장학금 미제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SINGAPORE",
@@ -11473,7 +13664,25 @@
     "source": "web",
     "evidence": "Singapore’s only City Campus university"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·개인 주거 선택",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션(리틀 인디아·차이나타운 방문) 및 글로벌 네트워크 기회",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -11549,7 +13758,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "스페인어 무료 수강(교재비 €60), 영어 강의 제한적",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -11625,7 +13848,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "멘토 프로그램 제공",
+    "source": "웹"
+   },
+   {
+    "text": "스페인어 필수·스페인어 과정 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -11701,7 +13942,25 @@
     "source": "web",
     "evidence": "main campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 신청 가능",
+    "source": "웹"
+   },
+   {
+    "text": "연 2,000명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "€4.02 보험비 납부 필수",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -11777,7 +14036,25 @@
     "source": "sheet",
     "evidence": "Exchange students need to go to Sant Cugat Campus."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "모든 등록 과목 출석 필수",
+    "source": "웹"
+   },
+   {
+    "text": "경영·법학 분야 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -11853,7 +14130,21 @@
     "source": "sheet",
     "evidence": "Bilbao and San Sebastian Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "스페인 북부 명문 사립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -11929,7 +14220,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Pamplona (main Campus), San Sebastian (Engineering)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "버디 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "연 수백 명 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "무료 스페인어 과정 제공",
+    "source": "웹"
+   },
+   {
+    "text": "의학·경영·공학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SPAIN",
@@ -12005,7 +14314,25 @@
     "source": "sheet",
     "evidence": "Madrid or Segovia campuses"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "파트너 200개교 이상",
+    "source": "웹"
+   },
+   {
+    "text": "2026년 2월 업데이트 예정",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SWEDEN",
@@ -12081,7 +14408,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "1학기 30학점 권장, 6개 과목 선호순 신청",
+    "source": "웹"
+   },
+   {
+    "text": "공학·IT·에너지 기술 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SWEDEN",
@@ -12157,7 +14498,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "트라이메스터제 운영(학기당 15주 내외)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SWEDEN",
@@ -12233,7 +14588,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "드롭인 서비스 및 온라인 상담 제공",
+    "source": "웹"
+   },
+   {
+    "text": "900개 이상 교환학생 과정 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SWEDEN",
@@ -12309,7 +14682,17 @@
     "source": "sheet",
     "evidence": "Campus Kalmar or Campus Växjö"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "트라이메스터제 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "SWITZERLAND",
@@ -12385,7 +14768,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Olten - Business Administration (International Management) Brugg-Windisch - Business Administration (International Management) & Business Information Technology Basel - International Business Management & Business Information Technology"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "ESN FHNW 학생 조직 지원",
+    "source": "웹"
+   },
+   {
+    "text": "다양한 캠퍼스·전공 과목 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "응용과학·예술 분야 특성화 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SWITZERLAND",
@@ -12461,7 +14858,21 @@
     "source": "sheet",
     "evidence": "ZHAW School of Management and Law, Winterthur"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "국제학생 전담 학업 지원 코디네이터 및 오리엔테이션 주 제공",
+    "source": "웹"
+   },
+   {
+    "text": "교통카드(할프탁스·세븐25) 구매 권장 및 ECTS 초과 신청 권장",
+    "source": "웹"
+   },
+   {
+    "text": "경영 트리플크라운 인증(AACSB·EQUIS·AMBA)",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "SWITZERLAND",
@@ -12537,7 +14948,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 권장 학점 20-25 ECTS",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "TAIWAN",
@@ -12613,7 +15030,13 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D) 참조"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공학·경영 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "TAIWAN",
@@ -12689,7 +15112,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·자체 주거 확보 필요",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "TAIWAN",
@@ -12765,7 +15202,13 @@
     "source": "sheet",
     "evidence": "Main Campus :Most departments are located here, Nanda Campus : College of Arts"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공학·반도체 분야 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "TAIWAN",
@@ -12841,7 +15284,17 @@
     "source": "sheet",
     "evidence": "학과별 캠퍼스 정보"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "9학점(학부)/2과목(대학원) 최소 수강, 전체 대학 과목 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "공학·컴퓨터과학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "TAIWAN",
@@ -12917,7 +15370,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "Buddy Program (학우 멘토링) 운영",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 장학금 다수 운영 (傑出交換生獎學金 등)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "TAIWAN",
@@ -12993,7 +15456,21 @@
     "source": "web",
     "evidence": "NTU Campus in Taipei City (Main Campus / Shuiyuan Campus / Downtown Campus)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "국제학생 자원봉사자(버디) 지원",
+    "source": "웹"
+   },
+   {
+    "text": "환영 활동 필수 참석(결석 시 입학 취소)",
+    "source": "웹"
+   },
+   {
+    "text": "QS 세계대학랭킹 50위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "THAILAND",
@@ -13069,7 +15546,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 시설 제공",
+    "source": "웹"
+   },
+   {
+    "text": "영어 강의 제공",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "THAILAND",
@@ -13145,7 +15640,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "Chula Link 장학금(2026학년도 1학기 국제학생 대상)",
+    "source": "웹"
+   },
+   {
+    "text": "태국 최고 명문 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "THAILAND",
@@ -13221,7 +15730,13 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Bangmod Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공학 및 과학기술 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "TURKEY",
@@ -13297,7 +15812,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Sıhhiye Campus and Beytepe Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 예약 가능",
+    "source": "웹"
+   },
+   {
+    "text": "UNI 101 오리엔테이션·터키어 지원·국제우정의 날 행사",
+    "source": "웹"
+   },
+   {
+    "text": "UNI 101 9월·10월 세션 필수 참여",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "TURKEY",
@@ -13373,7 +15906,21 @@
     "source": "sheet",
     "evidence": "All of the campuses are available"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 오리엔테이션 및 버디 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "니가타대 여름 프로그램 무료 수강 가능",
+    "source": "웹"
+   },
+   {
+    "text": "터키 최초·최대 국립 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "TURKEY",
@@ -13449,7 +15996,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): all campuses, gümüşsuyu, maslak, tuzla"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "공학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "TURKEY",
@@ -13525,7 +16082,17 @@
     "source": "sheet",
     "evidence": "Majors are not specifically divided between campuses. Lectures can be given in any campus according to lecturer and class capacity."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "터키 최고 명문 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -13601,7 +16168,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 신청 가능(풀년·학기별 옵션)",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 주 제공(학기별 1주)",
+    "source": "웹"
+   },
+   {
+    "text": "연 200명+ 교환학생 수용(학기별 100명+)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -13677,7 +16262,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 제공·신청 절차 안내",
+    "source": "웹"
+   },
+   {
+    "text": "비자 신청 시 CAS 발급 필요",
+    "source": "웹"
+   },
+   {
+    "text": "영국 연구 중심 종합대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -13753,7 +16356,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "여름학기 프로그램 운영",
+    "source": "웹"
+   },
+   {
+    "text": "러셀 그룹 소속 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -13829,7 +16446,25 @@
     "source": "web",
     "evidence": "Accommodation on or around our main campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 제공",
+    "source": "웹"
+   },
+   {
+    "text": "학업·행정·복지 지원 제공",
+    "source": "웹"
+   },
+   {
+    "text": "1학기만 수강 시 시험 대체 과제 가능",
+    "source": "웹"
+   },
+   {
+    "text": "QS 2025 세계 200위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -13905,7 +16540,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "전담 인바운드 팀·온라인 상담",
+    "source": "웹"
+   },
+   {
+    "text": "30+ 학과 모듈 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "러셀 그룹 소속·경영 트리플크라운 인증",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -13981,7 +16634,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 계약 시 전체 학년 기간 의무",
+    "source": "웹"
+   },
+   {
+    "text": "트라이메스터제 운영(9월-6월), 여름학기 단독 수강 불가",
+    "source": "웹"
+   },
+   {
+    "text": "영국 연구 중심 공립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14057,7 +16728,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "국제 기회 팀 지원",
+    "source": "웹"
+   },
+   {
+    "text": "150개국 이상 교환 프로그램",
+    "source": "웹"
+   },
+   {
+    "text": "28일 이상 해외 인턴십 필수",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14133,7 +16822,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Clifton Campus currently hosts all of our undergraduate majors, as well as the unit classes available to our Study Abroad students. Starting in the 2026/27 academic year, our new Temple Quarter Enterprise Campus will also open."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "트라이메스터제(9월·1월 입학 가능)",
+    "source": "웹"
+   },
+   {
+    "text": "QS 최상위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14209,7 +16908,17 @@
     "source": "web",
     "evidence": "York St John London Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "연 200명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "1학기 또는 2학기(1년) 선택 가능",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14285,7 +16994,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "교환학생 기숙사 보장",
+    "source": "웹"
+   },
+   {
+    "text": "학기제(1학기/1년) 선택 가능",
+    "source": "웹"
+   },
+   {
+    "text": "QS 세계 100위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14361,7 +17088,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Frenchay Campus - Bristol Business School, City Campus/Bower Ashton Campus - School of Art"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "공인 어학성적 없이 지원 가능",
+    "source": "자동"
+   },
+   {
+    "text": "공항 환영 서비스·국제학생 오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "영국 남서부 브리스톨 소재 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14437,7 +17178,25 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 기숙사 보장",
+    "source": "웹"
+   },
+   {
+    "text": "전담 글로벌 기회 팀·개인 칼리지 튜터 지원",
+    "source": "웹"
+   },
+   {
+    "text": "비유럽 13개국 50+ 대학 파트너",
+    "source": "웹"
+   },
+   {
+    "text": "120학점(6과목) 이수, 최대 3개 학과 선택",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14513,7 +17272,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Preston"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 옵션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "전 세계 100개 대학 파트너십",
+    "source": "웹"
+   },
+   {
+    "text": "의학·치의학·조산학 등 일부 전공 제외",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14589,7 +17362,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "1~2학기 선택 가능, 홈교 학점 인정",
+    "source": "웹"
+   },
+   {
+    "text": "영국 내 현대·국제적 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED KINGDOM",
@@ -14665,7 +17452,17 @@
     "source": "sheet",
     "evidence": "main campus is Highfield"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "QS 세계 100위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -14741,7 +17538,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "뉴욕주립대 시스템 소속 공립 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -14817,7 +17624,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "파트너 30개국 40개교 이상",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -14893,7 +17710,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Potsdam, New York Campus."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 기숙사 보장, 아파트형 기숙사 배정",
+    "source": "웹"
+   },
+   {
+    "text": "공학·경영·예술과학 분야 강점",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -14969,7 +17796,17 @@
     "source": "web",
     "evidence": "North Park’s campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 신청 가능 (F1 비자 학생 대상, $250 보증금)",
+    "source": "웹"
+   },
+   {
+    "text": "국제학생 지원 (Office of International Affairs)",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15045,7 +17882,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Pullman"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 보장·조기신청 권장, 아파트 신청 가능",
+    "source": "웹"
+   },
+   {
+    "text": "기숙사 계약 1개월 전 해지 가능, 식사 플랜 권장",
+    "source": "웹"
+   },
+   {
+    "text": "공립 연구중심 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15121,7 +17972,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "국제학생 오리엔테이션·크로스컬처 활동 제공",
+    "source": "웹"
+   },
+   {
+    "text": "수강 과목 홈교 학점 인정 필수 확인",
+    "source": "웹"
+   },
+   {
+    "text": "연구 중심 공학·응용과학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15197,7 +18062,21 @@
     "source": "web",
     "evidence": "Incoming International Exchange Students Here you will find information relating to housing..."
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 전용 오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "필수 보험·교통비·기숙사 신청비 발생",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15273,7 +18152,21 @@
     "source": "sheet",
     "evidence": "대학명: University of Illinois Springfield"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 필수",
+    "source": "웹"
+   },
+   {
+    "text": "파트너 7개국 대학",
+    "source": "웹"
+   },
+   {
+    "text": "1학기 생활비 6,500달러",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15349,7 +18242,17 @@
     "source": "web",
     "evidence": "Houston, TX 77204-2039"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "파트너 15개교 이상 운영",
+    "source": "웹"
+   },
+   {
+    "text": "홈교 학비 납부·제한적 수수료",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15425,7 +18328,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 보장",
+    "source": "웹"
+   },
+   {
+    "text": "국제 교환학생 전용 오리엔테이션",
+    "source": "웹"
+   },
+   {
+    "text": "필수 보험·여행 지원 서비스",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15501,7 +18418,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "미국 아이다호 주 보이시 소재 공립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15577,7 +18504,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "GPA 요건 없음",
+    "source": "자동"
+   },
+   {
+    "text": "교내 기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "연 150명+ 교환학생 수용",
+    "source": "웹"
+   },
+   {
+    "text": "필수 건강 보험 가입",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15653,7 +18598,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): University of Wyoming - Laramie (Main Campus)"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 입주 가능",
+    "source": "웹"
+   },
+   {
+    "text": "오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "필수 보험 가입 필요",
+    "source": "웹"
+   },
+   {
+    "text": "R1 연구 중심 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15729,7 +18692,17 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Tampa campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "장학금 및 재정 지원 가능, 주외 학생 수수료 면제 혜택",
+    "source": "웹"
+   },
+   {
+    "text": "플로리다 주립대 시스템 소속 공립 연구중심대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15805,7 +18778,25 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): Indiana University Bloomington campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 신청 가능·교내 외 숙소 광고 포털 제공",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 전담 담당자(Quynh Luong) 및 오리엔테이션 제공",
+    "source": "웹"
+   },
+   {
+    "text": "학기 시작 전 주 도착 필요·12-18학점 필수 등록",
+    "source": "웹"
+   },
+   {
+    "text": "경영학부(Kelley School of Business) 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15881,7 +18872,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "국제학생 지원 및 글로벌 학습 경험 강화",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -15957,7 +18954,25 @@
     "source": "web",
     "evidence": "There are residence halls on both the North Campus and the South Campus"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 기숙사 보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "50개 이상 대학 파트너십",
+    "source": "웹"
+   },
+   {
+    "text": "특정 과목 수강 제한",
+    "source": "웹"
+   },
+   {
+    "text": "뉴욕주립대 시스템 소속 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16033,7 +19048,21 @@
     "source": "sheet",
     "evidence": "지원가능캠퍼스(D): University Park campus only"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 및 식사 제공",
+    "source": "웹"
+   },
+   {
+    "text": "기숙사 거주 시 예방접종 필수",
+    "source": "웹"
+   },
+   {
+    "text": "펜실베이니아 주립대, 미국 최대 공립대 중 하나",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16109,7 +19138,25 @@
     "source": "web",
     "evidence": "Incoming Exchange Students 페이지 참조"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "전담 매니저 지원",
+    "source": "웹"
+   },
+   {
+    "text": "연 200명+ 교환학생 수용",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16185,7 +19232,21 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교내 기숙사 신청 가능",
+    "source": "웹"
+   },
+   {
+    "text": "J-1 비자 필수, DS-2019 발급",
+    "source": "웹"
+   },
+   {
+    "text": "경영·금융 특성화 대학",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16261,7 +19322,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "교환학생 전용 오리엔테이션 및 앰배서더 지원",
+    "source": "웹"
+   },
+   {
+    "text": "미국 최대 규모의 종합대학 중 하나",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16337,7 +19408,25 @@
     "source": "sheet",
     "evidence": "대학명: University of California, Santa Cruz"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "기숙사 조기 신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "교환학생 전용 오리엔테이션",
+    "source": "웹"
+   },
+   {
+    "text": "파트너 30여 개국 50+ 대학",
+    "source": "웹"
+   },
+   {
+    "text": "트라이메스터제 학사일정",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16413,7 +19502,17 @@
     "source": "web",
     "evidence": "The University of Texas at Austin"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "연 130개교 이상 파트너 대학",
+    "source": "웹"
+   },
+   {
+    "text": "세계 40위권 종합대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16489,7 +19588,17 @@
     "source": "web",
     "evidence": "One Washington Square"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "도심 도보권 캠퍼스",
+    "source": "자동"
+   },
+   {
+    "text": "공학 특성화",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16565,7 +19674,13 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "DS-2019 발급 후 J-1 비자 신청 필요",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16641,7 +19756,13 @@
     "source": "sheet",
     "evidence": "University of North Carolina at Chapel Hill"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "미국 최고 역사 공립대",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "UNITED STATES",
@@ -16717,7 +19838,17 @@
     "source": "none",
     "evidence": ""
    }
-  }
+  },
+  "features": [
+   {
+    "text": "필수 건강 보험 정책",
+    "source": "웹"
+   },
+   {
+    "text": "FAMU-FSU 공학대 운영",
+    "source": "AI추정"
+   }
+  ]
  },
  {
   "country": "VIET NAM",
@@ -16793,6 +19924,24 @@
     "source": "factsheet",
     "evidence": "located at Vinhomes Ocean Park, Hanoi"
    }
-  }
+  },
+  "features": [
+   {
+    "text": "비영어권이지만 전 과정 영어 수업",
+    "source": "자동"
+   },
+   {
+    "text": "기숙사 미보장·조기신청 필요",
+    "source": "웹"
+   },
+   {
+    "text": "I-GESA 장학금 지원",
+    "source": "웹"
+   },
+   {
+    "text": "I-GESA 장학금(400만 VND) 제공",
+    "source": "웹"
+   }
+  ]
  }
 ]
