@@ -15,7 +15,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "37.5 credit points",
    "source": "시트"
@@ -88,7 +91,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30~40 units (3~4과목)",
    "source": "시트"
@@ -161,7 +167,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "37.5 credit points",
    "source": "시트"
@@ -234,7 +243,10 @@
    "value": "0.0/4.0",
    "source": "시트"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 UWA credit points (22.5 ECTS)",
    "source": "시트"
@@ -307,7 +319,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 UoC",
    "source": "시트"
@@ -380,7 +395,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "36 QUT credits (22.5 ECTS)",
    "source": "시트"
@@ -453,7 +471,10 @@
    "value": "2.5/4.0",
    "source": "웹"
   },
-  "semesters": "2026~2027학기",
+  "semesters": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 credit points",
    "source": "웹"
@@ -526,7 +547,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "3과목",
    "source": "시트"
@@ -599,7 +623,10 @@
    "value": "4.0/7.0",
    "source": "시트"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -672,7 +699,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "21 ECTS (증감 시 홈교 확인)",
    "source": "시트"
@@ -745,7 +775,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "16 ECTS",
    "source": "시트"
@@ -818,7 +851,10 @@
    "value": "제한 없음 (홈교 기준)",
    "source": "시트"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 ECTS",
    "source": "시트"
@@ -891,7 +927,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4~2학기",
+  "semesters": {
+   "value": "4학기 이상 (학부) / 2학기 (대학원)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -964,7 +1003,10 @@
    "value": "2.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -1037,7 +1079,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -1110,7 +1155,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "5학기",
+  "semesters": {
+   "value": "5학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "5 ECTS (1과목)",
    "source": "시트"
@@ -1183,7 +1231,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 ECTS (+프랑스어 야간강좌)",
    "source": "시트"
@@ -1256,7 +1307,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 ECTS",
    "source": "시트"
@@ -1329,7 +1383,10 @@
    "value": "6.0/10.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "16 Unisinos credits",
    "source": "시트"
@@ -1402,7 +1459,10 @@
    "value": "2.25/4.5",
    "source": "시트"
   },
-  "semesters": "This is for the home university of the student to deliberate.",
+  "semesters": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -1475,7 +1535,10 @@
    "value": "5.0/10.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 credits",
    "source": "시트"
@@ -1548,7 +1611,10 @@
    "value": "60/100",
    "source": "시트"
   },
-  "semesters": "최소 1~2학기",
+  "semesters": {
+   "value": "1~2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 credits (3과목)",
    "source": "시트"
@@ -1621,7 +1687,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "25 credits",
    "source": "시트"
@@ -1694,7 +1763,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 York credits",
    "source": "시트"
@@ -1767,7 +1839,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 credit units (3과목)",
    "source": "시트"
@@ -1840,7 +1915,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -1913,7 +1991,10 @@
    "value": "Good standing (수치 기준 없음)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 credits",
    "source": "시트"
@@ -1986,7 +2067,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "SFU does not have this requirement.",
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 SFU units (3과목)",
    "source": "시트"
@@ -2059,7 +2143,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "6 credits",
    "source": "시트"
@@ -2132,7 +2219,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -2205,7 +2295,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -2278,7 +2371,10 @@
    "value": "2.7/4.3",
    "source": "시트"
   },
-  "semesters": "2~1학기",
+  "semesters": {
+   "value": "2학기 이상 (학부) / 1학기 (대학원)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 credits (학부)",
    "source": "웹"
@@ -2351,7 +2447,10 @@
    "value": "2.3/4.3",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 credits (4과목)",
    "source": "시트"
@@ -2424,7 +2523,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -2497,7 +2599,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "at least one semester to be completed",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "전공별 상이",
    "source": "시트"
@@ -2570,7 +2675,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -2643,7 +2751,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "We don't have any requirements on this matter.",
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "제한 없음",
    "source": "시트"
@@ -2716,7 +2827,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -2789,7 +2903,10 @@
    "value": "3/4.3",
    "source": "시트"
   },
-  "semesters": "2~1학기",
+  "semesters": {
+   "value": "2학기 이상 (학부) / 1학기 (대학원)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -2862,7 +2979,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS (권장)",
    "source": "시트"
@@ -2935,7 +3055,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -3008,7 +3131,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "4과목 (학부; 대학원 3과목)",
    "source": "웹"
@@ -3081,7 +3207,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "30~35학기",
+  "semesters": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -3154,7 +3283,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -3227,7 +3359,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -3300,7 +3435,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -3373,7 +3511,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4~6학기",
+  "semesters": {
+   "value": "4학기 이상 (학부) / 6학기 (대학원)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -3446,7 +3587,10 @@
    "value": "2.5/4.0 (갈라파고스 캠퍼스 3.0/4.0)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -3519,7 +3663,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -3592,7 +3739,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "No limitation has been set. Preferably two semesters before the exchange.",
+  "semesters": {
+   "value": "제한 없음 (권장 2학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -3665,7 +3815,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "No requirements",
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (통상 20~30 ECTS)",
    "source": "시트"
@@ -3738,7 +3891,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "25 ECTS",
    "source": "시트"
@@ -3811,7 +3967,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -3884,7 +4043,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "Two",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -3957,7 +4119,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -4030,7 +4195,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2~1학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24~30 ECTS",
    "source": "시트"
@@ -4103,7 +4271,10 @@
    "value": "3.0/5.0",
    "source": "시트"
   },
-  "semesters": "Two",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -4176,7 +4347,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "최소 4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (통상 30 ECTS)",
    "source": "시트"
@@ -4249,7 +4423,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -4322,7 +4499,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -4395,7 +4575,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -4468,7 +4651,10 @@
    "value": "명시 없음 (프랑스식 0~20 체계)",
    "source": "시트"
   },
-  "semesters": "6학기",
+  "semesters": {
+   "value": "6학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -4541,7 +4727,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -4614,7 +4803,10 @@
    "value": "제한 없음 (학년별 최소 이수학점/ECTS 요건만)",
    "source": "시트"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -4687,7 +4879,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "8 ECTS",
    "source": "시트"
@@ -4760,7 +4955,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "담당자 이메일 문의",
    "source": "시트"
@@ -4833,7 +5031,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "25 ECTS",
    "source": "시트"
@@ -4906,7 +5107,10 @@
    "value": "2.5/4",
    "source": "시트"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -4979,7 +5183,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "The home university determines the number of semesters",
+  "semesters": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -5052,7 +5259,10 @@
    "value": "3.2/4.0",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -5125,7 +5335,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -5198,7 +5411,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -5271,7 +5487,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -5344,7 +5563,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "학과별 상이",
    "source": "시트"
@@ -5417,7 +5639,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -5490,7 +5715,10 @@
    "value": "명시 없음 (우수한 성적 요구)",
    "source": "시트"
   },
-  "semesters": "최소 1~2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -5563,7 +5791,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 1~3학기",
+  "semesters": {
+   "value": "2학기 이상 (학사과정; 석사는 6학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 ECTS",
    "source": "웹"
@@ -5636,7 +5867,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -5709,7 +5943,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4~6학기",
+  "semesters": {
+   "value": "4~6학기 이상 (프로그램별)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -5782,7 +6019,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "We trust our partners to select their students, no requirement",
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -5855,7 +6095,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "Depends on which program they apply to - check factsheet)",
+  "semesters": {
+   "value": "프로그램별 상이",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 ECTS",
    "source": "시트"
@@ -5928,7 +6171,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -6001,7 +6247,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6074,7 +6323,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6147,7 +6399,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "To join our exchange program, students must have completed at least one academic year (two semesters) in a Business-, Management-, Information Systems-, or Engineering-related field.",
+  "semesters": {
+   "value": "2학기 이상 (경영·IT·공학 관련 전공)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 ECTS",
    "source": "시트"
@@ -6220,7 +6475,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6293,7 +6551,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -6366,7 +6627,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (통상 30 ECTS)",
    "source": "시트"
@@ -6439,7 +6703,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6512,7 +6779,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6585,7 +6855,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4~5학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6658,7 +6931,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4~2학기",
+  "semesters": {
+   "value": "제한 없음 (학부; 대학원 4학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -6731,7 +7007,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6804,7 +7083,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6877,7 +7159,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -6950,7 +7235,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -7023,7 +7311,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "Students should have studied for at least two years in a business or economics related programme to enrol in our bachelor programme. To enrol in our master programmes, students need to have finished their undergraduate studies and should have studied at least one semester at graduate level.",
+  "semesters": {
+   "value": "4학기 이상 (학부, 경영·경제 전공)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "6 ECTS (1모듈)",
    "source": "시트"
@@ -7096,7 +7387,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "Not applicable",
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 ECTS",
    "source": "시트"
@@ -7169,7 +7463,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (권장 약 30 ECTS)",
    "source": "시트"
@@ -7242,7 +7539,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "최소 5학기",
+  "semesters": {
+   "value": "5학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -7315,7 +7615,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -7388,7 +7691,10 @@
    "value": "Good standing (수치 기준 없음)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 units",
    "source": "시트"
@@ -7461,7 +7767,10 @@
    "value": "3.3/4.3 (법·경영 제외 전공은 3.0/4.0)",
    "source": "웹"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24~30 ECTS",
    "source": "시트"
@@ -7534,7 +7843,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 credits",
    "source": "시트"
@@ -7607,7 +7919,10 @@
    "value": "2.7/4.0",
    "source": "시트"
   },
-  "semesters": "At least one year of continuous study of the host university.",
+  "semesters": {
+   "value": "2학기 이상 (1년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 credits",
    "source": "시트"
@@ -7680,7 +7995,10 @@
    "value": "2.5/4.0 (또는 3.5/5.0)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 ECTS",
    "source": "시트"
@@ -7753,7 +8071,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 credits",
    "source": "시트"
@@ -7826,7 +8147,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -7899,7 +8223,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -7972,7 +8299,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "최소 6학기",
+  "semesters": {
+   "value": "6학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -8045,7 +8375,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "최소 1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -8118,7 +8451,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (최소 1과목)",
    "source": "시트"
@@ -8191,7 +8527,10 @@
    "value": "2.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 credits",
    "source": "시트"
@@ -8264,7 +8603,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "7 credits",
    "source": "시트"
@@ -8337,7 +8679,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -8410,7 +8755,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "14 credits",
    "source": "시트"
@@ -8483,7 +8831,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -8556,7 +8907,10 @@
    "value": "2.7/4.0",
    "source": "웹"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -8629,7 +8983,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 credits",
    "source": "시트"
@@ -8702,7 +9059,10 @@
    "value": "3.0/4.5",
    "source": "시트"
   },
-  "semesters": "at least one year of their degree program at their home institution",
+  "semesters": {
+   "value": "2학기 이상 (1년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -8775,7 +9135,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -8848,7 +9211,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -8921,7 +9287,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "7 credits",
    "source": "시트"
@@ -8994,7 +9363,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "As long as their are able to provide an academic transcript from their home university, there is no minimum requirement with the semesters.",
+  "semesters": {
+   "value": "제한 없음 (성적표 제출만)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 credits (연간 30)",
    "source": "시트"
@@ -9067,7 +9439,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "담당자 이메일 문의",
+  "semesters": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "담당자 이메일 문의",
    "source": "시트"
@@ -9140,7 +9515,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "https://www.toyo.ac.jp/academics/international-exchange/prospective/exchange_program/",
+  "semesters": {
+   "value": "확인필요",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "웹"
@@ -9213,7 +9591,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -9286,7 +9667,10 @@
    "value": "2.3/3.0 (장학금 기준, 지원 필수 아님)",
    "source": "시트"
   },
-  "semesters": "It's depends on the exchange program, so please check our website. https://www.insc.tohoku.ac.jp/english/exchange/ <Reference information> JYPE: Starting from the third year students. IPLA: Starting from the second year students.",
+  "semesters": {
+   "value": "프로그램별 상이 (JYPE 4학기·IPLA 2학기 이상)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "프로그램별 상이 (COLABS/JYPE/DEEP/IPLA)",
    "source": "시트"
@@ -9359,7 +9743,10 @@
    "value": "3.2/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "6과목 (JTW, 과목당 보통 2 credits)",
    "source": "웹"
@@ -9432,7 +9819,10 @@
    "value": "2.67/4.33",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 US credits (15 ECTS)",
    "source": "시트"
@@ -9505,7 +9895,10 @@
    "value": "70/100",
    "source": "웹"
   },
-  "semesters": "2~1학기",
+  "semesters": {
+   "value": "2학기 이상 (학부) / 1학기 (대학원)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 ECTS",
    "source": "시트"
@@ -9578,7 +9971,10 @@
    "value": "2.5/4.0 (멕시코식 80/100)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "3 TEC credits (약 5 ECTS)",
    "source": "시트"
@@ -9651,7 +10047,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "n/a",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -9724,7 +10123,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "60학기",
+  "semesters": {
+   "value": "명시 없음 (법·경영 과목은 60 ECTS 이수 필요)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "제한 없음 (비자상 25 ECTS 필요)",
    "source": "시트"
@@ -9797,7 +10199,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "최소 3~4학기",
+  "semesters": {
+   "value": "3학기 이상 (권장 4학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "1과목 (보통 6 ECTS)",
    "source": "시트"
@@ -9870,7 +10275,10 @@
    "value": "2.0/4.0",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -9943,7 +10351,10 @@
    "value": "프로그램별 상이",
    "source": "시트"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -10016,7 +10427,10 @@
    "value": "3.0/4.0 (경영경제대학 SBE는 제한 없음)",
    "source": "시트"
   },
-  "semesters": "최소 1~60학기",
+  "semesters": {
+   "value": "2학기 이상 (SBE 기준, 60 ECTS)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "학부별 상이 (UCM 20 ECTS 등)",
    "source": "시트"
@@ -10089,7 +10503,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS (고정 패키지)",
    "source": "시트"
@@ -10162,7 +10579,10 @@
    "value": "명시 없음 (미시·거시경제, 통계, 수학 선수과목 요구)",
    "source": "시트"
   },
-  "semesters": "at least one year of your Bachelor’s degree programme.",
+  "semesters": {
+   "value": "2학기 이상 (1년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 ECTS (권장)",
    "source": "시트"
@@ -10235,7 +10655,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -10308,7 +10731,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 ECTS",
    "source": "시트"
@@ -10381,7 +10807,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -10454,7 +10883,10 @@
    "value": "C 이상 (ECTS 등급)",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (풀타임 기대)",
    "source": "시트"
@@ -10527,7 +10959,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 60학기",
+  "semesters": {
+   "value": "2학기 이상 (60 ECTS)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 credits",
    "source": "시트"
@@ -10600,7 +11035,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "1과목 이상",
    "source": "시트"
@@ -10673,7 +11111,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -10746,7 +11187,10 @@
    "value": "12.5/20",
    "source": "시트"
   },
-  "semesters": "5학기",
+  "semesters": {
+   "value": "5학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "6 ECTS",
    "source": "시트"
@@ -10819,7 +11263,10 @@
    "value": "3.0/5.0",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 SUTD credits",
    "source": "시트"
@@ -10892,7 +11339,10 @@
    "value": "3.3/5.0",
    "source": "웹"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "제한 없음",
    "source": "웹"
@@ -10965,7 +11415,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "2 SMU credits",
    "source": "시트"
@@ -11038,7 +11491,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "18 ECTS",
    "source": "시트"
@@ -11111,7 +11567,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -11184,7 +11643,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (비자 요건 유의)",
    "source": "시트"
@@ -11257,7 +11719,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "Students should have completed at least one year of studies at the undergraduate level.",
+  "semesters": {
+   "value": "2학기 이상 (1년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -11330,7 +11795,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "-",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -11403,7 +11871,10 @@
    "value": "2.3/4.0",
    "source": "시트"
   },
-  "semesters": "3학기",
+  "semesters": {
+   "value": "3학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 ECTS",
    "source": "시트"
@@ -11476,7 +11947,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "홈교 기준",
    "source": "시트"
@@ -11549,7 +12023,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "60학기",
+  "semesters": {
+   "value": "2학기 이상 (1년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -11622,7 +12099,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2~4학기",
+  "semesters": {
+   "value": "명시 없음 (권장 2~4학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -11695,7 +12175,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "22.5 credits (비EU 비자는 30 필요)",
    "source": "시트"
@@ -11768,7 +12251,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "There are different entry requirements for different courses, so that depends of what they will apply for.",
+  "semesters": {
+   "value": "과정별 상이",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 credits",
    "source": "시트"
@@ -11841,7 +12327,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 60학기",
+  "semesters": {
+   "value": "2학기 이상 (60 ECTS)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -11914,7 +12403,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "A minimum of two completed semesters prior to the start of the exchange (at bachelor’s level)",
+  "semesters": {
+   "value": "2학기 이상 (학사과정)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "15 ECTS",
    "source": "시트"
@@ -11987,7 +12479,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (권장 20~25 ECTS)",
    "source": "시트"
@@ -12060,7 +12555,10 @@
    "value": "2.8/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 credits (학부) / 3 (대학원)",
    "source": "시트"
@@ -12133,7 +12631,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "3 credits",
    "source": "시트"
@@ -12206,7 +12707,10 @@
    "value": "3.0/4.3",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 credits (학부; 대학원 1과목)",
    "source": "시트"
@@ -12279,7 +12783,10 @@
    "value": "2.75~3.0/4.0 (전공별 상이)",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 NYCU credits (18 ECTS)",
    "source": "시트"
@@ -12352,7 +12859,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "n/a",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -12425,7 +12935,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "at least one semester",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "4 credits (2과목)",
    "source": "시트"
@@ -12498,7 +13011,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "9 credits",
    "source": "시트"
@@ -12571,7 +13087,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -12644,7 +13163,10 @@
    "value": "2.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "8 credits",
    "source": "시트"
@@ -12717,7 +13239,10 @@
    "value": "명시 없음 (4.0 스케일만 기재)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -12790,7 +13315,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음",
    "source": "시트"
@@ -12863,7 +13391,10 @@
    "value": "3.00/4.00",
    "source": "시트"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "10 ECTS",
    "source": "시트"
@@ -12936,7 +13467,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "17~21 Bogazici credits (약 20~30 ECTS, 4~6과목)",
    "source": "시트"
@@ -13009,7 +13543,10 @@
    "value": "3.3/4.0 (학업동기 우수 시 3.0/4.0)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "45 UK credits",
    "source": "시트"
@@ -13082,7 +13619,10 @@
    "value": "3.0/4.0",
    "source": "웹"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "45 UK credits",
    "source": "시트"
@@ -13155,7 +13695,10 @@
    "value": "50/100 (UK 2:2)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "40 UK credits",
    "source": "시트"
@@ -13228,7 +13771,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "최소 2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -13301,7 +13847,10 @@
    "value": "2.8/4.0",
    "source": "시트"
   },
-  "semesters": "4~2학기",
+  "semesters": {
+   "value": "4학기 이상 (2년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -13374,7 +13923,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "n/a",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "60 Essex credits (30 ECTS)",
    "source": "시트"
@@ -13447,7 +13999,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "20 ECTS",
    "source": "시트"
@@ -13520,7 +14075,10 @@
    "value": "3.0/4.0 (또는 3.5/5.0, 80/100)",
    "source": "시트"
   },
-  "semesters": "최소 4~2학기",
+  "semesters": {
+   "value": "2학기 이상 (1년)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "60 Bristol credits (30 ECTS)",
    "source": "시트"
@@ -13593,7 +14151,10 @@
    "value": "2.6/4.0",
    "source": "시트"
   },
-  "semesters": "We recommend that students have completed at least one semester at their home university before coming to study at YSJ.",
+  "semesters": {
+   "value": "명시 없음 (권장 1학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -13666,7 +14227,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "25 UK credits",
    "source": "시트"
@@ -13739,7 +14303,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "명시 없음 (권장 15 ECTS 이상)",
    "source": "시트"
@@ -13812,7 +14379,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "120 Durham credits (연간)",
    "source": "시트"
@@ -13885,7 +14455,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "최소 2~4학기",
+  "semesters": {
+   "value": "과목 수준별 상이",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "60 UK credits (연간 120)",
    "source": "시트"
@@ -13958,7 +14531,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "60 BCU credits (30 ECTS)",
    "source": "시트"
@@ -14031,7 +14607,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "30 ECTS",
    "source": "시트"
@@ -14104,7 +14683,10 @@
    "value": "확인필요",
    "source": "확인필요"
   },
-  "semesters": null,
+  "semesters": {
+   "value": "제한 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "확인필요",
    "source": "시트"
@@ -14177,7 +14759,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "최소 1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -14250,7 +14835,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "3~4학기",
+  "semesters": {
+   "value": "3~4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits (약 4과목)",
    "source": "시트"
@@ -14323,7 +14911,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -14396,7 +14987,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -14469,7 +15063,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -14542,7 +15139,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits (학부) / 9 (대학원)",
    "source": "시트"
@@ -14615,7 +15215,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "1~2학기",
+  "semesters": {
+   "value": "1~2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -14688,7 +15291,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits (24 ECTS)",
    "source": "시트"
@@ -14761,7 +15367,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -14834,7 +15443,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "담당자 이메일 문의",
+  "semesters": {
+   "value": "담당자 이메일 문의",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "담당자 이메일 문의",
    "source": "시트"
@@ -14907,7 +15519,10 @@
    "value": "제한 없음/명시 없음",
    "source": "시트"
   },
-  "semesters": "We do not have a minimum class standing, and defer to the home university for these requirements",
+  "semesters": {
+   "value": "홈교 기준",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits (학부) / 9 (대학원)",
    "source": "시트"
@@ -14980,7 +15595,10 @@
    "value": "2.75/4.0 (공학 3.0/4.0)",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15053,7 +15671,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2~3학기",
+  "semesters": {
+   "value": "명시 없음 (권장 2~3학기)",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15126,7 +15747,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15199,7 +15823,10 @@
    "value": "2.7/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15272,7 +15899,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15345,7 +15975,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15418,7 +16051,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15491,7 +16127,10 @@
    "value": "3.3/4.0",
    "source": "시트"
   },
-  "semesters": "최소 4학기",
+  "semesters": {
+   "value": "4학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15564,7 +16203,10 @@
    "value": "2.0/4.0",
    "source": "시트"
   },
-  "semesters": "N/A",
+  "semesters": {
+   "value": "명시 없음",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "24 US credits",
    "source": "시트"
@@ -15637,7 +16279,10 @@
    "value": "2.4/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits/쿼터",
    "source": "시트"
@@ -15710,7 +16355,10 @@
    "value": "담당자 이메일 문의",
    "source": "이메일문의"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15783,7 +16431,10 @@
    "value": "2.75/4.0",
    "source": "웹"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -15856,7 +16507,10 @@
    "value": "2.75/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits (24 ECTS)",
    "source": "시트"
@@ -15929,7 +16583,10 @@
    "value": "2.8/4.0",
    "source": "시트"
   },
-  "semesters": "1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits (학부)",
    "source": "시트"
@@ -16002,7 +16659,10 @@
    "value": "3.0/4.0",
    "source": "시트"
   },
-  "semesters": "최소 1학기",
+  "semesters": {
+   "value": "1학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 US credits",
    "source": "시트"
@@ -16075,7 +16735,10 @@
    "value": "2.5/4.0",
    "source": "시트"
   },
-  "semesters": "2학기",
+  "semesters": {
+   "value": "2학기 이상",
+   "source": "시트"
+  },
   "credits_min": {
    "value": "12 credits",
    "source": "시트"

@@ -11,7 +11,7 @@ COLUMNS = [
     ("지원가능 전공(SKKU)", lambda r: r.get("major_skku")),
     ("해외대학 수학 전공", lambda r: v(r["major_abroad"])),
     ("최소 GPA", lambda r: v(r["gpa_min"])),
-    ("완료 학기 수", lambda r: r.get("semesters")),
+    ("완료 학기 수", lambda r: v(r.get("semesters"))),
     ("최소 학점", lambda r: v(r.get("credits_min"))),
     ("최대 학점", lambda r: v(r.get("credits_max"))),
     ("위치(도심 거리)", lambda r: v(r["location"])),
