@@ -164,7 +164,20 @@
     "evidence": "Callaghan and Newcastle City. They are connected by a free 20 minute Shuttle bus"
    }
   },
-  "features": []
+  "features": [
+   {
+    "text": "교내 기숙사 미보장 (경쟁적, 조기 신청 권장)",
+    "source": "웹"
+   },
+   {
+    "text": "캠퍼스 간 무료 셔틀버스 운행",
+    "source": "웹"
+   },
+   {
+    "text": "Welcome Week·국제학생 전담 지원팀 운영",
+    "source": "웹"
+   }
+  ]
  },
  {
   "country": "AUSTRALIA",
