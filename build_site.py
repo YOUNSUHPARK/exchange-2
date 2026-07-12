@@ -39,11 +39,13 @@ TEMPLATE = r"""<!doctype html>
   <input id="q" placeholder="대학명·도시·전공 검색">
   <select id="country"></select>
   <select id="lang"><option value="">수업언어 전체</option></select>
+  <select id="tier"><option value="">위치 전체</option></select>
  </div>
  <div class="count" id="count"></div>
  <div id="list"></div>
 </div>
-<footer>SKKU 교환학생 파견교 목록 기반 · 값은 대학 홈페이지/팩트시트 크롤링 + AI 추출. 최종 지원 전 반드시 대학 공식 정보로 재확인하세요.</footer>
+<footer>SKKU 교환학생 파견교 목록 기반 · 값은 대학 홈페이지/팩트시트 크롤링 + AI 추출. 최종 지원 전 반드시 대학 공식 정보로 재확인하세요.<br>
+※ 어학요건의 "TOEFL iBT N점 (신척도)"는 2026년 1월 21일 도입된 1~6점 체계 기준이며, 그 외 TOEFL 점수는 기존 0~120점 체계입니다.</footer>
 <script>
 const DATA = __DATA__;
 const $ = s => document.querySelector(s);
@@ -74,10 +76,11 @@ function card(r){
    </table></div></details>`;
 }
 function render(){
-  const q=$('#q').value.trim().toLowerCase(), c=$('#country').value, lang=$('#lang').value;
+  const q=$('#q').value.trim().toLowerCase(), c=$('#country').value, lang=$('#lang').value, tier=$('#tier').value;
   const rows=DATA.filter(r=>{
     if(c && r.country!==c) return false;
     if(lang && !val(r.lang_instruction).split(', ').includes(lang)) return false;
+    if(tier && (r.location||{}).tier!==tier) return false;
     if(q){ const hay=[r.university,r.country,val(r.location),r.major_skku,val(r.major_abroad)].join(' ').toLowerCase(); if(!hay.includes(q)) return false; }
     return true;
   });
@@ -92,7 +95,10 @@ function render(){
   DATA.forEach(r=>val(r.lang_instruction).split(', ').filter(Boolean).forEach(l=>lc[l]=(lc[l]||0)+1));
   const ls=Object.keys(lc).filter(l=>l!=='확인필요').sort((a,b)=>lc[b]-lc[a]);
   $('#lang').innerHTML='<option value="">수업언어 전체</option>'+ls.map(l=>`<option value="${l}">${l} (${lc[l]})</option>`).join('');
-  ['q','country','lang'].forEach(id=>$('#'+id).addEventListener('input',render));
+  const tc={};
+  DATA.forEach(r=>{const t=(r.location||{}).tier; if(t) tc[t]=(tc[t]||0)+1;});
+  $('#tier').innerHTML='<option value="">위치 전체</option>'+['도시','준도시','도시 외곽'].filter(t=>tc[t]).map(t=>`<option value="${t}">${t} (${tc[t]})</option>`).join('');
+  ['q','country','lang','tier'].forEach(id=>$('#'+id).addEventListener('input',render));
   render();
 })();
 </script></body></html>"""
