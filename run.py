@@ -23,11 +23,16 @@ def norm_semesters(v):
     if v is None:
         return None
     s = str(v).strip()
+    if re.match(r"(?i)^(none|no requirements?|not applicable)$", s):
+        return "제한 없음"
+    if re.match(r"(?i)^(n/?a\.?|-)$", s):
+        return "명시 없음"
     nums = re.findall(r"\d+(?:\.\d+)?", s)
     def fmt(x):
         x = float(x)
         return str(int(x)) if x == int(x) else str(x)
-    if not nums:
+    # 학기 수로 볼 수 없는 숫자(60 ECTS, 연도 등)가 섞이면 원문 보존 → 수동 검수 대상
+    if not nums or any(float(x) > 12 for x in nums):
         return s
     prefix = "최소 " if re.search(r"at least|minimum|이상|최소", s, re.I) else ""
     if len(nums) >= 2 and nums[0] != nums[1]:
