@@ -42,8 +42,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Students must meet our English requirements via https://study.unimelb.edu.au/how-to-apply/english-language-requirements/",
-   "source": "시트"
+   "value": "IELTS 6.5점 이상 (전 밴드 6.0) 또는 TOEFL iBT 79점 이상",
+   "source": "웹"
   },
   "email": "belinda.price@unimelb.edu.au",
   "program_link": "https://study.unimelb.edu.au/how-to-apply/international-exchange-and-study-abroad-applications",
@@ -118,8 +118,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "All English language requirements found on this website. We do not accept a letter from Home University - https://www.ne",
-   "source": "시트"
+   "value": "IELTS 6.0점 이상 (전 밴드 6.0) 또는 TOEFL iBT 64점 이상 또는 Duolingo 110점 이상 또는 PTE 50점 이상 (학부 기준)",
+   "source": "웹"
   },
   "email": "study-abroad@newcastle.edu.au",
   "program_link": "https://www.newcastle.edu.au/study/international/study-with-us/study-abroad-and-exchange",
@@ -422,8 +422,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Pleasse refer to entry requirements: https://www.qut.edu.au/study/international/apply-for-study-abroad#Ready_to_apply",
-   "source": "시트"
+   "value": "IELTS 6.5점 이상 (전 밴드 6.0) 또는 TOEFL iBT 79점 이상",
+   "source": "웹"
   },
   "email": "stae@qut.edu.au",
   "program_link": "https://www.qut.edu.au/study/international/apply-for-study-abroad",
@@ -1714,7 +1714,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 92-93+, MELAB 90+, PTE 60+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 92점 이상 또는 MELAB 90점 이상 또는 PTE 60점 이상",
    "source": "시트"
   },
   "email": "exchange@torontomu.ca",
@@ -2170,8 +2170,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "We do not accept letter of proficiency.\n https://www.mun.ca/undergrad/admissions/i-want-to-apply/english-proficiency-tes",
-   "source": "시트"
+   "value": "IELTS 6.5점 이상 (R·W 6.0) 또는 TOEFL iBT 4.5점 이상 (신척도) 또는 Duolingo 115점 이상 또는 PTE 60점 이상",
+   "source": "웹"
   },
   "email": "goabroad@mun.ca",
   "program_link": "https://mun.ca/goabroad/",
@@ -3386,8 +3386,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "No language requirements for admission, but there are language requirments for some programmes: https://studies.ku.dk/st",
-   "source": "시트"
+   "value": "일부 학과만 요구 (TOEFL iBT 83점 또는 신척도 4.5 또는 B2 확인; 그 외 불요)",
+   "source": "웹"
   },
   "email": "incomingmobility@adm.ku.dk",
   "program_link": "https://studies.ku.dk/study-abroad/",
@@ -3538,8 +3538,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Please read language requirements in the link https://www.en.aau.dk/education/apply/exchange#language-requirements",
-   "source": "시트"
+   "value": "영어 CEFR B2 이상",
+   "source": "웹"
   },
   "email": "internationaloffice@aau.dk",
   "program_link": "https://www.en.aau.dk/education/guest-exchange",
@@ -4906,7 +4906,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.5+, TOEIC 1020+, Duolingo 125+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 또는 TOEIC 1020점 이상 (4기능 합산) 또는 Duolingo 125점 이상",
    "source": "웹"
   },
   "email": "lucien.yang@univ-lyon3.fr",
@@ -5590,7 +5590,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "DELF/DALF/TCF B2+, IELTS/TOEFL+",
+   "value": "프랑스어 CEFR B2 이상 (DELF/DALF/TCF 또는 홈교 교원 확인서)",
    "source": "웹"
   },
   "email": "incoming-exchange@univ-paris1.fr",
@@ -6122,8 +6122,8 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "We accept Letter of proficiency from home universities (please check our factsheet for details https://www.ece.fr/en/int",
-   "source": "시트"
+   "value": "IELTS 6.0점 이상 또는 TOEFL iBT 83점 이상 또는 TOEIC 780점 이상 (영어과정); 프랑스어과정은 CEFR B2",
+   "source": "웹"
   },
   "email": "international@ece.fr",
   "program_link": "https://www.ece.fr/en/international-en/",
@@ -6350,8 +6350,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL, IELTS",
-   "source": "시트"
+   "value": "학과별 상이 (통상 영어 CEFR B2 — TOEFL iBT 72점·IELTS 5.5점 상당)",
+   "source": "웹"
   },
   "email": "rubiss@ruhr-uni-bochum.de",
   "program_link": "https://international.ruhr-uni-bochum.de/en/international-exchange-students",
@@ -6654,8 +6654,8 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Please check our fact sheet",
-   "source": "시트"
+   "value": "영어 CEFR B2 이상 (TOEFL iBT 72점·IELTS 5.0점·TOEIC L&R 785점 상당)",
+   "source": "웹"
   },
   "email": "kirja.frommeyer@leuphana.de",
   "program_link": "Studying at Leuphana | Leuphana",
@@ -7110,8 +7110,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Website: www.lmu.de/en/international/incoming",
-   "source": "시트"
+   "value": "독일어 CEFR B2 이상 (지원 시 B1); 영어강의만 수강 시 독일어 증명 불요",
+   "source": "웹"
   },
   "email": "lmuexchange-incoming@lmu.de",
   "program_link": "www.lmu.de/en/international/incoming",
@@ -9542,7 +9542,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "JLPT N3+, IELTS 5.5+, TOEFL iBT 72+, TOEIC 1530+",
+   "value": "TOEFL iBT 72점 이상 또는 IELTS 5.5점 이상 또는 TOEIC 1530점 이상 (L&R+S&W×2.5 환산) 또는 JLPT N3 이상",
    "source": "웹"
   },
   "email": "mlies@toyo.jp",
@@ -10454,7 +10454,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "School of Business and Economics: null, Univeristy College Maastricht: see website, Maastricht Science Programme: TOEFL iBT 90+, TOEFL PBT 575+, TOEFL CBT 232+, IELTS 6.5+",
+   "value": "학부별 상이 (MSP는 TOEFL iBT 90점 이상 등, UCM은 웹사이트 참조)",
    "source": "시트"
   },
   "email": "1. School of Business and Economics: incoming-sbe@maastrichtuniversity.nl\n 2. Univeristy College Maastricht: ucm-iro-incoming@maastrichtuniversity.nl\n 3. Maastricht Science Programme: fse-iro@maastrichtuniversity.nl",
@@ -11366,8 +11366,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Last page in the link: https://gem.ntu.edu.sg/_customtags/ct_FileRetrieve.cfm?File_ID=21429 \n The proof of English Langu",
-   "source": "시트"
+   "value": "IELTS 6.0점 이상 (Writing 6.0) 또는 TOEFL iBT 90점 이상 (홈교 확인서 대체 가능)",
+   "source": "웹"
   },
   "email": "GEM-Trailblazer@ntu.edu.sg",
   "program_link": "1. https://gem.ntu.edu.sg/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10006\n 2. https://www.ntu.edu.sg/education/student-exchanges/exchange-programmes/inbound-programmes#Content_C113_Col00",
@@ -13418,7 +13418,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "yes we accept your proficiency letter,",
+   "value": "SKKU 어학확인서 인정",
    "source": "시트"
   },
   "email": "globalexchange@itu.edu.tr",
@@ -13646,7 +13646,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+ (Science), IELTS 6.0+ (ELCC), IELTS 6.5+ (All other modules), IELTS 6.0+ (Law writing), IELTS 5.5+ (Law subscore)",
+   "value": "IELTS 6.5점 이상 (일부 과목 6.0)",
    "source": "웹"
   },
   "email": "studyabroad@le.ac.uk",
@@ -13950,8 +13950,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "We have different English requirments depding on student's level of study and duration of stay, Please check 'entry requ",
-   "source": "시트"
+   "value": "IELTS 6.0점 이상 (전 밴드 5.5, 학부) 또는 TOEFL iBT 88점 이상",
+   "source": "웹"
   },
   "email": "incomingexchange@essex.ac.uk",
   "program_link": "https://www.essex.ac.uk/study-abroad/incoming-students/exchange-programme",
@@ -14710,8 +14710,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "확인필요(링크 참조)",
-   "source": "확인필요"
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 PTE 53점 이상",
+   "source": "웹"
   },
   "email": null,
   "program_link": null,
@@ -14862,8 +14862,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "The Exchange Student English Proficiency form - https://drive.google.com/file/d/1oJsB3ksKZcm0AX3GsxXM3yOM1sNqgxVH/view?u",
-   "source": "시트"
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 (English Ability Form 대체 가능)",
+   "source": "웹"
   },
   "email": "cbailey@clarkson.edu",
   "program_link": "https://www.clarkson.edu/international-center/international-students-and-scholars/inbound-exchange",
@@ -15014,7 +15014,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 4+, Duolingo 105+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 4점 이상 (2026년 신척도 1~6) 또는 Duolingo 105점 이상",
    "source": "시트"
   },
   "email": "ip.exchange@wsu.edu",
@@ -16002,8 +16002,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "See \"English Language Proficiency for First-Year and Transfer Students\" on https://www.psu.edu/resources/international-s",
-   "source": "시트"
+   "value": "TOEFL iBT 80점 이상 (신척도 4.5) 또는 IELTS 6.5점 이상 또는 Duolingo 120점 이상",
+   "source": "웹"
   },
   "email": "eaexchanges@psu.edu",
   "program_link": "https://global.psu.edu/landing/incoming-exchange-students",
