@@ -544,8 +544,8 @@
    "source": "웹"
   },
   "semesters": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "2학기 이상 (1년/60 ECTS 완료)",
+   "source": "웹"
   },
   "credits_min": {
    "value": "18 credit points",
@@ -1380,7 +1380,7 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
+   "value": "프랑스어, 영어",
    "source": "웹"
   },
   "lang_req": {
@@ -1474,7 +1474,7 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
+   "value": "프랑스어, 영어",
    "source": "웹"
   },
   "lang_req": {
@@ -1568,8 +1568,8 @@
    "city_size": "소도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "네덜란드어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "영어 CEFR B2 이상 (석사 C1)",
@@ -2386,7 +2386,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 80점 이상 또는 CAEL 60점 이상",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 86점 이상 (영역별 20) 또는 CAEL 60점 이상",
    "source": "웹"
   },
   "email": "amber.pohl@umanitoba.ca",
@@ -3192,8 +3192,8 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "중국어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "담당자 이메일 문의",
@@ -3536,7 +3536,7 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
+   "value": "크로아티아어, 영어",
    "source": "웹"
   },
   "lang_req": {
@@ -4280,8 +4280,8 @@
    "city_size": "마을"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "스페인어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "SKKU 어학확인서 인정",
@@ -5674,11 +5674,11 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "프랑스어, 영어",
+   "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 TOEIC 785점 이상",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 또는 TOEIC 785점 이상 또는 Duolingo 90점 이상",
    "source": "웹"
   },
   "email": "exchange@iscparis.com",
@@ -8152,8 +8152,8 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "독일어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "영어 CEFR B2 이상",
@@ -9752,8 +9752,8 @@
    "city_size": "소도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "인도네시아어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "TOEFL iBT 80점 이상 또는 TOEFL ITP/PBT 550점 이상 또는 IELTS 6.0점 이상",
@@ -10026,8 +10026,8 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "이탈리아어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "TOEFL iBT 72점 이상 또는 IELTS 5.5점 이상 또는 PTE Academic 59점 이상",
@@ -10754,8 +10754,8 @@
    "city_size": "소도시"
   },
   "lang_instruction": {
-   "value": "영어",
-   "source": "시트"
+   "value": "일본어, 영어",
+   "source": "웹"
   },
   "lang_req": {
    "value": "TOEFL-iBT 71점 이상 또는 IELTS 5.5점 이상 또는 CEFR B2 이상",
@@ -11282,7 +11282,7 @@
    "city_size": "대도시"
   },
   "lang_instruction": {
-   "value": "영어",
+   "value": "일본어, 영어",
    "source": "웹"
   },
   "lang_req": {
@@ -18580,7 +18580,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 71점 이상 또는 IELTS 6.0점 이상 또는 CET-4 (학부)/CET-6 (대학원)",
+   "value": "TOEFL iBT 71점 이상 또는 IELTS 6.0점 이상 또는 CET-4/6 (중국어권 지원자용)",
    "source": "시트"
   },
   "email": "salt@uwyo.edu",
