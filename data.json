@@ -194,7 +194,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, TOEFL iBT 64+, PTE Academic 50+",
+   "value": "IELTS 6.0점 이상 또는 TOEFL iBT 64점 이상 또는 PTE Academic 50점 이상",
    "source": "시트"
   },
   "email": "exchange@swin.edu.au",
@@ -270,7 +270,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 79+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 79점 이상",
    "source": "웹"
   },
   "email": null,
@@ -346,7 +346,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL 90+, IELTS 6.5+",
+   "value": "TOEFL 90점 이상 또는 IELTS 6.5점 이상",
    "source": "웹"
   },
   "email": "exchange@unsw.edu.au",
@@ -498,7 +498,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 79+, PTE 58+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 79점 이상 또는 PTE 58점 이상",
    "source": "웹"
   },
   "email": "studyabroad.exchange@uts.edu.au",
@@ -574,7 +574,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+, PTE Academic 54+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 또는 PTE Academic 54점 이상",
    "source": "웹"
   },
   "email": "global@usc.edu.au",
@@ -650,7 +650,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 80+, PTE Academic 64+, Cambridge C1 Advanced",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 80점 이상 또는 PTE Academic 64점 이상 또는 Cambridge C1 Advanced",
    "source": "웹"
   },
   "email": "global.programs@anu.edu.au",
@@ -726,7 +726,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "iro@fh-kufstein.ac.at",
@@ -802,7 +802,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "CEFR B2 or equivalent in the language of instruction. For German Studies: German CEFR C1",
+   "value": "수업언어 CEFR B2 이상 (독문학은 독일어 C1)",
    "source": "시트"
   },
   "email": "non-eu-exchange@univie.ac.at",
@@ -878,7 +878,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "English B2 according to CEFR",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "exchange@fhv.at",
@@ -954,7 +954,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "SKKU Letter of proficiency",
+   "value": "SKKU 어학확인서 인정",
    "source": "시트"
   },
   "email": "incoming@mci.edu",
@@ -1030,7 +1030,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Letter of proficiency (min. B1)",
+   "value": "SKKU 어학확인서 인정 (B1 이상)",
    "source": "시트"
   },
   "email": "international@fh-steyr.at",
@@ -1106,7 +1106,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "kristien.minet@ichec.be",
@@ -1182,7 +1182,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "anne.georges@ulb.be",
@@ -1258,7 +1258,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.0+",
+   "value": "IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "mbequet@uliege.be",
@@ -1334,7 +1334,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "공식 영어 능력 증명 (B2 이상 학사, C1 이상 석사)",
+   "value": "영어 CEFR B2 이상 (석사 C1)",
    "source": "시트"
   },
   "email": "internationaloffice.feb@kuleuven.be",
@@ -1410,7 +1410,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "There's no language certificate requirement.",
+   "value": "공인성적 불요",
    "source": "시트"
   },
   "email": "internacional@unisinos.br",
@@ -1562,7 +1562,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "derime@unicamp.br",
@@ -1638,7 +1638,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Duolingo 105+, TOEFL iBT 79+, IELTS 6.0+",
+   "value": "Duolingo 105점 이상 또는 TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상",
    "source": "웹"
   },
   "email": "mobility@okanagan.bc.ca",
@@ -1866,7 +1866,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 80+, Duolingo 120+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 80점 이상 또는 Duolingo 120점 이상",
    "source": "웹"
   },
   "email": "issac@usask.ca",
@@ -2018,7 +2018,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 80+, CAEL 60+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 80점 이상 또는 CAEL 60점 이상",
    "source": "웹"
   },
   "email": "amber.pohl@umanitoba.ca",
@@ -2322,7 +2322,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.5+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상",
    "source": "웹"
   },
   "email": "inbound.exchange@utoronto.ca",
@@ -2398,7 +2398,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B2 French, B2 English (English Studies)",
+   "value": "프랑스어 CEFR B2 이상 (영문학 전공은 영어 B2)",
    "source": "웹"
   },
   "email": "echange@umontreal.ca",
@@ -2474,7 +2474,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "n/a",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "elodie.giannecchini@hec.ca",
@@ -2550,7 +2550,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "New HSK-5+ (Chinese), TOEFL iBT 80+, IELTS 6.0+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.0점 이상 또는 HSK 5급 이상",
    "source": "시트"
   },
   "email": "yjunli@cuc.edu.cn",
@@ -2626,7 +2626,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT ≥80, IELTS ≥6.0, HSK 4 ≥180 (Science/Engineering/Medicine), HSK 5 ≥180 (Economics/Management/Literature/Education/Philosophy/Arts/Law)",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.0점 이상 또는 HSK 4급 180점 이상 (이공·의학) / HSK 5급 180점 (인문·사회)",
    "source": "시트"
   },
   "email": "vivianyan@hust.edu.cn",
@@ -2854,7 +2854,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "New HSK 180+, TOEFL iBT 80+, IELTS 6.0+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.0점 이상 또는 HSK 180점 이상",
    "source": "시트"
   },
   "email": "nondegree@bnu.edu.cn",
@@ -2930,7 +2930,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6+",
+   "value": "IELTS 6점 이상",
    "source": "시트"
   },
   "email": "yayatao@sjtu.edu.cn",
@@ -3006,7 +3006,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEIC 700+, TOEFL iBT 79+, IELTS 6.0+",
+   "value": "TOEIC 700점 이상 또는 TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "incoming-mobility@net.efzg.hr",
@@ -3082,7 +3082,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B2 level",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "hrebeska@czs.muni.cz",
@@ -3158,7 +3158,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 5.5+, TOEFL IBT 72+, TOEFL ITP 543+",
+   "value": "IELTS 5.5점 이상 또는 TOEFL IBT 72점 이상 또는 TOEFL ITP 543점 이상",
    "source": "시트"
   },
   "email": "adriana.cernohorska@ruk.cuni.cz",
@@ -3234,7 +3234,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 88+, IELTS 6.5+",
+   "value": "TOEFL iBT 88점 이상 또는 IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "incoming@sdu.dk",
@@ -3310,7 +3310,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 100+, IELTS 6.5+, CEFR B2+",
+   "value": "TOEFL iBT 100점 이상 또는 IELTS 6.5점 이상 또는 CEFR B2 이상",
    "source": "웹"
   },
   "email": "international@adm.dtu.dk",
@@ -3614,7 +3614,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Letter of proficiency issued by the Office of International Relations SKKU",
+   "value": "SKKU 어학확인서 인정",
    "source": "시트"
   },
   "email": "vcastelo@usfq.edu.ec",
@@ -3690,7 +3690,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "CEFR B2+",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "exchange@tlu.ee",
@@ -3766,7 +3766,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Cambridge B2 First 180+, C1 Advanced/C2 Proficiency A/B/C, IELTS 6.5+, TOEFL iBT 90+, PTE Academic 62+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 90점 이상 또는 PTE Academic 62점 이상 또는 Cambridge B2 First 180점 이상",
    "source": "시트"
   },
   "email": "incoming@lut.fi",
@@ -3842,7 +3842,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "We expect students to have a minimum of B2 English level. No official language test required.",
+   "value": "공인성적 불요 (영어 B2 기대)",
    "source": "시트"
   },
   "email": "incoming.international@uwasa.fi",
@@ -3918,7 +3918,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6+, TOEFL iBT 87+",
+   "value": "IELTS 6점 이상 또는 TOEFL iBT 87점 이상",
    "source": "시트"
   },
   "email": "incoming@ulapland.fi",
@@ -3994,7 +3994,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "N/A: CEFR B2 level English recommended",
+   "value": "명시 없음 (영어 B2 권장)",
    "source": "시트"
   },
   "email": "international@uef.fi",
@@ -4070,7 +4070,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 92+, IELTS 6.5+, Duolingo 115+",
+   "value": "TOEFL iBT 92점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 115점 이상",
    "source": "시트"
   },
   "email": "mobility.tau@tuni.fi",
@@ -4146,7 +4146,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "international.office@kamk.fi",
@@ -4222,7 +4222,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 78+, IELTS 6.0+",
+   "value": "TOEFL iBT 78점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "incoming.mobility@hanken.fi",
@@ -4298,7 +4298,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "SKKU Letter of Proficiency",
+   "value": "SKKU 어학확인서 인정",
    "source": "시트"
   },
   "email": "sami.krogerus@haaga-helia.fi",
@@ -4374,7 +4374,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "CEFR B2+",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "international-chem@aalto.fi",
@@ -4450,7 +4450,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "N/A Home university is expected to check that the student meets the CEFR B2 level",
+   "value": "공인성적 불요 (홈교가 B2 확인)",
    "source": "시트"
   },
   "email": "studentexchange@helsinki.fi",
@@ -4602,7 +4602,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.0+",
+   "value": "IELTS 6.0점 이상",
    "source": "웹"
   },
   "email": "incoming@supbiotech.fr",
@@ -4678,7 +4678,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B2 - Letter of proficiency issued by the Office of International Relations SKKU",
+   "value": "SKKU 어학확인서 인정 (B2 이상)",
    "source": "시트"
   },
   "email": "incoming@inseec.com",
@@ -4754,7 +4754,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+, TOEIC 785+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 TOEIC 785점 이상",
    "source": "웹"
   },
   "email": "exchange@iscparis.com",
@@ -4830,7 +4830,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.5+, TOEIC 750+, Duolingo 110+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 또는 TOEIC 750점 이상 또는 Duolingo 110점 이상",
    "source": "시트"
   },
   "email": "severine.myly@icn-artem.com",
@@ -4982,7 +4982,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "B2 CEFR equivalent (Official test or home university certificate)",
+   "value": "영어 CEFR B2 이상 (홈교 확인서 가능)",
    "source": "시트"
   },
   "email": "exchange@rennes-sb.com",
@@ -5058,7 +5058,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "CEFR B2+",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "Incoming.globalbba@em-lyon.com",
@@ -5134,7 +5134,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, TOEIC 850, IELTS 6.5+, Duolingo 115",
+   "value": "TOEFL iBT 80점 이상 또는 TOEIC 850점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 115점 이상",
    "source": "시트"
   },
   "email": "studentexchange.incoming@skema.edu",
@@ -5210,7 +5210,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "French B1/B2 or English B1/B2",
+   "value": "프랑스어 또는 영어 CEFR B1~B2",
    "source": "웹"
   },
   "email": "incoming@univ-grenoble-alpes.fr",
@@ -5286,7 +5286,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 92+, IELTS 6.5+",
+   "value": "TOEFL iBT 92점 이상 또는 IELTS 6.5점 이상",
    "source": "웹"
   },
   "email": "contact.echanges@dauphine.fr",
@@ -5362,7 +5362,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+, TOEIC 785+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 또는 TOEIC 785점 이상",
    "source": "시트"
   },
   "email": "incoming@kedgebs.com",
@@ -5438,7 +5438,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "incomingparis@ieseg.fr",
@@ -5514,7 +5514,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 72+, TOEFL ITP 543+, TOEIC 785+, IELTS 5.5+",
+   "value": "TOEFL iBT 72점 이상 또는 TOEFL ITP 543점 이상 또는 TOEIC 785점 이상 또는 IELTS 5.5점 이상",
    "source": "시트"
   },
   "email": "cecile.carnoy@epf.fr",
@@ -5666,7 +5666,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "alizee.leducq@univ-catholille.fr",
@@ -5742,7 +5742,7 @@
    "source": "factsheet"
   },
   "lang_req": {
-   "value": "NA",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "hannah.sztumpf@edhec.edu",
@@ -5818,7 +5818,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+, Duolingo 110+, PTE Academic 50+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 또는 Duolingo 110점 이상 또는 PTE Academic 50점 이상",
    "source": "시트"
   },
   "email": "tbs.incoming@tbs-education.fr",
@@ -5894,7 +5894,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "DELF/DALF B1+ (Language and Civilisation), DELF/DALF C1+ (Professional Track), JLPT N3 (Japanese 2nd year), JLPT N2 (Japanese 3rd year)",
+   "value": "DELF/DALF B1 이상 (언어·문명과정) / C1 (전문과정), JLPT N2~N3 (일본어 전공)",
    "source": "웹"
   },
   "email": "mob-in@inalco.fr",
@@ -5970,7 +5970,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "B2 English, B1 French (if courses in French)",
+   "value": "영어 CEFR B2 이상 (프랑스어 수업 수강 시 프랑스어 B1)",
    "source": "시트"
   },
   "email": "julien.leroy@eivp-paris.fr",
@@ -6046,7 +6046,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, French B2+",
+   "value": "IELTS 6.0점 이상, 프랑스어 CEFR B2 이상",
    "source": "웹"
   },
   "email": "hub.rouen@neoma-bs.fr",
@@ -6274,7 +6274,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "English or German (level B2)- we will not ask \n students to submit certificates.",
+   "value": "영어 또는 독일어 CEFR B2 (증빙 불요)",
    "source": "시트"
   },
   "email": "incomings@uni-mannheim.de",
@@ -6426,7 +6426,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 83+, IELTS 6.5+, B2 level",
+   "value": "TOEFL iBT 83점 이상 또는 IELTS 6.5점 이상 (CEFR B2 상당)",
    "source": "시트"
   },
   "email": "international.office@cbs.de",
@@ -6502,7 +6502,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "German B1/B2 (Human Medicine, Dentistry, Medical Biotechnology: B2), English B1 (CEFR)",
+   "value": "독일어 CEFR B1 이상·영어 B1 이상 (의학계열은 독일어 B2)",
    "source": "시트"
   },
   "email": "incoming.io@uni-rostock.de",
@@ -6578,7 +6578,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B2 level in English is strongly recommended but no language certificate needs to b provided",
+   "value": "공인성적 불요 (영어 B2 강력 권장)",
    "source": "시트"
   },
   "email": "nadja.hueller@iuz.tu-chemnitz.de",
@@ -6730,7 +6730,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B1 level German",
+   "value": "독일어 CEFR B1 이상",
    "source": "시트"
   },
   "email": "incoming@uni-frankfurt.de",
@@ -6806,7 +6806,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "English B2",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "incomings@wiso.uni-koeln.de",
@@ -6882,7 +6882,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "German B1+, English B1+; Medicine/German Philology: German B2+; Biology: German C1+; Pharmacy: German B2+; Master Medical Life Sciences: English C1+",
+   "value": "독일어·영어 CEFR B1 이상 (일부 학과 B2~C1)",
    "source": "시트"
   },
   "email": "cau-exchange@uv.uni-kiel.de",
@@ -6958,7 +6958,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Undergraduate: English B1 and/or German B2; Graduate: English B2 and/or German B2",
+   "value": "학부: 영어 B1·독일어 B2 이상 / 대학원: 영어 B2·독일어 B2 이상",
    "source": "시트"
   },
   "email": "incoming-overseas-wiso@hs-osnabrueck.de",
@@ -7186,7 +7186,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B1 English or German",
+   "value": "영어 또는 독일어 CEFR B1 이상",
    "source": "웹"
   },
   "email": "incoming@hs-furtwangen.de",
@@ -7262,7 +7262,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "B2 level (certificate or university letter)",
+   "value": "영어 CEFR B2 이상 (홈교 확인서 가능)",
    "source": "시트"
   },
   "email": "incoming.exchange@io.fra-uas.de",
@@ -7338,7 +7338,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL IBT 90+, IELTS 7.0+, PTE Academic",
+   "value": "TOEFL iBT 90점 이상 또는 IELTS 7.0점 이상 또는 PTE Academic",
    "source": "시트"
   },
   "email": "InternationalOffice@fs.de",
@@ -7414,7 +7414,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "English Level B2 according to CEFR",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "incoming@hwr-berlin.de",
@@ -7490,7 +7490,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "English B2/C1, German B2",
+   "value": "영어 CEFR B2~C1·독일어 B2 이상",
    "source": "시트"
   },
   "email": "globalexchange-incoming@uni-bonn.de",
@@ -7566,7 +7566,7 @@
    "source": "factsheet"
   },
   "lang_req": {
-   "value": "CEFR B1.1 in English or German",
+   "value": "영어 또는 독일어 CEFR B1 이상",
    "source": "factsheet"
   },
   "email": "stefanie.spatafora@wiwi.rwth-aachen.de",
@@ -7642,7 +7642,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "CEFR B1 or B2 in English or CEFR B1 in German",
+   "value": "영어 CEFR B1~B2 또는 독일어 B1",
    "source": "시트"
   },
   "email": "mobility@fau.de",
@@ -7718,7 +7718,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, TOEFL PBT 550+, IELTS 6.0+",
+   "value": "TOEFL iBT 80점 이상 또는 TOEFL PBT 550점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "claireli@cuhk.edu.hk",
@@ -7794,7 +7794,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 97+, IELTS 7.0+ (법대), TOEFL iBT 80+, IELTS 6.5+ (기타)",
+   "value": "TOEFL iBT 97점 이상 또는 IELTS 7.0점 이상 (법대) 또는 TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 (기타)",
    "source": "웹"
   },
   "email": "exchange@hku.hk",
@@ -7870,7 +7870,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "phoebe.sung@cityu.edu.hk",
@@ -7946,7 +7946,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, TOEFL iBT 80+",
+   "value": "IELTS 6.0점 이상 또는 TOEFL iBT 80점 이상",
    "source": "시트"
   },
   "email": "inbound.exchange@polyu.edu.hk",
@@ -8022,7 +8022,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B2 level",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "czeh.gabor@pte.hu",
@@ -8098,7 +8098,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL 500+, IELTS 5.0+, TOEFL iBT 70+, TOEIC 500+",
+   "value": "TOEFL 500점 이상 또는 IELTS 5.0점 이상 또는 TOEFL iBT 70점 이상 또는 TOEIC 500점 이상",
    "source": "시트"
   },
   "email": "admission@ugm.ac.id",
@@ -8174,7 +8174,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, TOEFL ITP/PBT 550+, IELTS 6.0+",
+   "value": "TOEFL iBT 80점 이상 또는 TOEFL ITP/PBT 550점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "inbound@ui.ac.id",
@@ -8250,7 +8250,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B1 level in Italian Language+, B1 level in English Language+",
+   "value": "이탈리아어 또는 영어 CEFR B1 이상",
    "source": "시트"
   },
   "email": "relazioni.internazionali@ateneo.univr.it",
@@ -8326,7 +8326,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "exchange-leonardo@polimi.it",
@@ -8402,7 +8402,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 72+, IELTS 5.5+, PTE Academic 59+",
+   "value": "TOEFL iBT 72점 이상 또는 IELTS 5.5점 이상 또는 PTE Academic 59점 이상",
    "source": "웹"
   },
   "email": "incoming.mobility@unive.it",
@@ -8478,7 +8478,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "inexchange@unibocconi.it",
@@ -8554,7 +8554,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL 500PBT+, TOEFL 61iBT+, IELTS 5.5+",
+   "value": "TOEFL PBT 500점 이상 또는 TOEFL iBT 61점 이상 또는 IELTS 5.5점 이상",
    "source": "시트"
   },
   "email": "epok-inbound1@adm.okayama-u.ac.jp",
@@ -8630,7 +8630,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "dbuexchange@jm.daito.ac.jp",
@@ -8706,7 +8706,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "JLPT N2+",
+   "value": "JLPT N2 이상",
    "source": "시트"
   },
   "email": "icenter1@nishogakusha-u.ac.jp",
@@ -8782,7 +8782,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 68+, IELTS 5.5+, JLPT N5+",
+   "value": "TOEFL iBT 68점 이상 또는 IELTS 5.5점 이상 또는 JLPT N5 이상",
    "source": "시트"
   },
   "email": "exchange@aoyamagakuin.jp",
@@ -8858,7 +8858,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "JLPT N2+ (Undergraduate Course), JLPT N4/N3 (Japanese Language and Culture Course)",
+   "value": "JLPT N2 이상 (학부 과정) / N4~N3 (일본어·문화 과정)",
    "source": "시트"
   },
   "email": "kokusai@adm.fukuoka-u.ac.jp",
@@ -8934,7 +8934,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+, CEFR B2+, JLPT N2+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 또는 CEFR B2 이상 또는 JLPT N2 이상",
    "source": "웹"
   },
   "email": "edu-gs.g2@ad.hit-u.ac.jp",
@@ -9010,7 +9010,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL-iBT 71+, IELTS 5.5+, CEFR B2+",
+   "value": "TOEFL-iBT 71점 이상 또는 IELTS 5.5점 이상 또는 CEFR B2 이상",
    "source": "시트"
   },
   "email": "globalmobility@soka.ac.jp",
@@ -9086,7 +9086,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 68+, TOEFL PBT 520+, IELTS 6.0+, CEFR B2",
+   "value": "TOEFL iBT 68점 이상 또는 TOEFL PBT 520점 이상 또는 IELTS 6.0점 이상 또는 CEFR B2 이상",
    "source": "시트"
   },
   "email": "skp@st.ritsumei.ac.jp",
@@ -9162,7 +9162,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "JLPT N5+, CEFR A1+",
+   "value": "JLPT N5 이상 또는 CEFR A1 이상",
    "source": "웹"
   },
   "email": "intl-inbound@ml.dokkyo.ac.jp",
@@ -9238,7 +9238,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "JLPT N2+ (학과별 상이)",
+   "value": "JLPT N2 이상 (학과별 상이)",
    "source": "시트"
   },
   "email": "exchange-grp@g.chuo-u.ac.jp",
@@ -9390,7 +9390,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+, TOEIC 780+, JLPT N1",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 또는 TOEIC 780점 이상 또는 JLPT N1 이상",
    "source": "시트"
   },
   "email": "kusumoto.keiko.h7@f.mail.nagoya-u.ac.jp",
@@ -9618,7 +9618,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "hustep@oia.hokudai.ac.jp",
@@ -9694,7 +9694,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+ (DEEP: JLPT N1)",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 (DEEP: JLPT N1)",
    "source": "웹"
   },
   "email": "studyab@grp.tohoku.ac.jp",
@@ -9770,7 +9770,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL-iBT 79+, IELTS 6.0+",
+   "value": "TOEFL-iBT 79점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "exchange@jimu.kyushu-u.ac.jp",
@@ -9846,7 +9846,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "We accept Letter of proficiency issued by the Office of International Relations SKKU",
+   "value": "SKKU 어학확인서 인정",
    "source": "시트"
   },
   "email": "incoming@kimep.kz",
@@ -9922,7 +9922,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 72+, IELTS 5.5+, TOEIC 785+, Duolingo 100+",
+   "value": "TOEFL iBT 72점 이상 또는 IELTS 5.5점 이상 또는 TOEIC 785점 이상 또는 Duolingo 100점 이상",
    "source": "웹"
   },
   "email": "juste.lenortaviciene@vdu.lt",
@@ -9998,7 +9998,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "English B1+",
+   "value": "영어 CEFR B1 이상",
    "source": "시트"
   },
   "email": "maria.alonsoji@tec.mx",
@@ -10074,7 +10074,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "n/a",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "exchange@org.hanze.nl",
@@ -10150,7 +10150,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS Academic 6.0+, TOEFL iBT 80+, PTE Academic 61+, Cambridge B2 First 173+",
+   "value": "IELTS Academic 6.0점 이상 또는 TOEFL iBT 80점 이상 또는 PTE Academic 61점 이상 또는 Cambridge B2 First 173점 이상",
    "source": "웹"
   },
   "email": "studentexchange@ru.nl",
@@ -10226,7 +10226,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Bachelor: IELTS 6.0+, TOEFL iBT 80+; Master: IELTS 6.5+, TOEFL iBT 95+",
+   "value": "학부: IELTS 6.0점 또는 TOEFL iBT 80점 이상 / 석사: IELTS 6.5점 또는 TOEFL iBT 95점 이상",
    "source": "웹"
   },
   "email": "studyabroad@tilburguniversity.edu",
@@ -10302,7 +10302,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "English B2",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "io@nhlstenden.com",
@@ -10378,7 +10378,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Differs per programme",
+   "value": "프로그램별 상이",
    "source": "시트"
   },
   "email": "studyabroad@fontys.nl",
@@ -10530,7 +10530,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "B2 level",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "incoming@inholland.nl",
@@ -10606,7 +10606,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 90+, IELTS 6.5+",
+   "value": "TOEFL iBT 90점 이상 또는 IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "incoming.exchange@ese.eur.nl",
@@ -10682,7 +10682,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "CEFR B2",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "exchange@hu.nl",
@@ -10758,7 +10758,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "incoming@vu.nl",
@@ -10834,7 +10834,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 90+, IELTS 6.5+, Cambridge English C1 Advanced 180+ or C2 Proficiency",
+   "value": "TOEFL iBT 90점 이상 또는 IELTS 6.5점 이상 또는 Cambridge C1 Advanced 180점 이상",
    "source": "웹"
   },
   "email": "exchange@sea.leidenuniv.nl",
@@ -10910,7 +10910,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 5.0+, TOEFL iBT 60+ (Bachelor), IELTS 6.5+, TOEFL iBT 90+ (Master)",
+   "value": "학부: IELTS 5.0점 또는 TOEFL iBT 60점 이상 / 석사: IELTS 6.5점 또는 TOEFL iBT 90점 이상",
    "source": "웹"
   },
   "email": "studieinfo@mn.uio.no",
@@ -10986,7 +10986,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "B2 (General courses), C1 (English language and literature)",
+   "value": "영어 CEFR B2 이상 (영문학 전공 C1)",
    "source": "웹"
   },
   "email": "incoming@uib.no.",
@@ -11062,7 +11062,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Spanish B2",
+   "value": "스페인어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "exchange@pucp.edu.pe",
@@ -11138,7 +11138,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+, TOEIC 750+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 또는 TOEIC 750점 이상",
    "source": "시트"
   },
   "email": "mkomore@sgh.waw.pl",
@@ -11214,7 +11214,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 5.5+, TOEFL iBT 55+, Duolingo 95+, EFSET 55+",
+   "value": "IELTS 5.5점 이상 또는 TOEFL iBT 55점 이상 또는 Duolingo 95점 이상 또는 EFSET 55점 이상",
    "source": "시트"
   },
   "email": "outsideeurope@tecnico.ulisboa.pt",
@@ -11290,7 +11290,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "N/A (As long as student is capable of taking courses/research fully delivered in English)",
+   "value": "공인성적 불요 (영어 수강 가능 수준)",
    "source": "시트"
   },
   "email": "global@sutd.edu.sg",
@@ -11442,7 +11442,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL PBT 583+, TOEFL iBT 93+, IELTS 7.0+, C1 Advanced 185+",
+   "value": "TOEFL PBT 583점 이상 또는 TOEFL iBT 93점 이상 또는 IELTS 7.0점 이상 또는 C1 Advanced 185점 이상",
    "source": "시트"
   },
   "email": "isep.inbound@smu.edu.sg",
@@ -11518,7 +11518,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "globalmobility@ua.es",
@@ -11594,7 +11594,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+",
+   "value": "TOEFL iBT 80점 이상",
    "source": "시트"
   },
   "email": "macaball@upv.es",
@@ -11670,7 +11670,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "uab.exchange.programme@uab.cat",
@@ -11746,7 +11746,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "N/A. We trust our partners to nominate students with sufficient English level to follow the classes.",
+   "value": "공인성적 불요",
    "source": "시트"
   },
   "email": "maria.gambin@esade.edu",
@@ -11822,7 +11822,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "No requirements but we recommend having a B2 in english",
+   "value": "공인성적 불요 (영어 B2 권장)",
    "source": "시트"
   },
   "email": "incoming@deusto.es",
@@ -11898,7 +11898,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Spanish or English B2 level",
+   "value": "스페인어 또는 영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "exchangeunav@unav.es",
@@ -11974,7 +11974,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 100+, IELTS 7.0+, Duolingo 130+",
+   "value": "TOEFL iBT 100점 이상 또는 IELTS 7.0점 이상 또는 Duolingo 130점 이상",
    "source": "시트"
   },
   "email": "geo.incoming@ie.edu",
@@ -12050,7 +12050,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Min B2",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "helpdesk.exchange@hh.se",
@@ -12126,7 +12126,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 60+, IELTS 6.0+",
+   "value": "TOEFL iBT 60점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "international@ffk.liu.se",
@@ -12202,7 +12202,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Students are expected to manage at least a B2 level on the Common European Framework of Reference for Languages. A langu",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "mobility@uu.se",
@@ -12278,7 +12278,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "B2 (CEFR) in English.",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "inexchange@lnu.se",
@@ -12354,7 +12354,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 72+, IELTS 6.0+, TOEIC 785+",
+   "value": "TOEFL iBT 72점 이상 또는 IELTS 6.0점 이상 또는 TOEIC 785점 이상",
    "source": "시트"
   },
   "email": "io.business@fhnw.ch",
@@ -12430,7 +12430,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "The expected language proficiency level is B2+ (Common European Framework of Reference for Languages). Official confirma",
+   "value": "영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "incoming.area1.sml@zhaw.ch",
@@ -12506,7 +12506,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.0+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "worldwide.int@unibe.ch",
@@ -12582,7 +12582,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 61+, TOEFL ITP 500+, TOEFL CBT 173+, TOEIC 550+, IELTS 4.0+, HSK Level 5+, TOCFL Level 3+",
+   "value": "TOEFL iBT 61점 이상 또는 TOEFL ITP 500점 이상 또는 TOEFL CBT 173점 이상 또는 TOEIC 550점 이상 또는 IELTS 4.0점 이상 또는 HSK Level 5점 이상 또는 TOCFL Level 3점 이상",
    "source": "시트"
   },
   "email": "oia_in@o365.fcu.edu.tw",
@@ -12658,7 +12658,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A, but at least a B2 English level is strongly recommended",
+   "value": "명시 없음 (영어 B2 강력 권장)",
    "source": "시트"
   },
   "email": "oia.exchange@mail.nsysu.edu.tw",
@@ -12734,7 +12734,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "cyuliu@mx.nthu.edu.tw",
@@ -12810,7 +12810,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6+, TOEIC 750+, CEFR B1",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6점 이상 또는 TOEIC 750점 이상 또는 CEFR B1 이상",
    "source": "시트"
   },
   "email": "ex-in@nycu.edu.tw",
@@ -12886,7 +12886,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "n/a",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "ykuo088@g.nccu.edu.tw",
@@ -12962,7 +12962,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 72+, IELTS 5.5+, TOCFL Band B Level 3+, HSK Level 5+",
+   "value": "TOEFL iBT 72점 이상 또는 IELTS 5.5점 이상 또는 TOCFL Band B Level 3점 이상 또는 HSK Level 5점 이상",
    "source": "시트"
   },
   "email": "intstudent@ntu.edu.tw",
@@ -13038,7 +13038,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "global@mfu.ac.th",
@@ -13114,7 +13114,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상",
    "source": "시트"
   },
   "email": "cuexchange.inbound@chula.ac.th",
@@ -13190,7 +13190,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "N/A",
+   "value": "명시 없음",
    "source": "시트"
   },
   "email": "nitchakarn.jer@mail.kmutt.ac.th",
@@ -13266,7 +13266,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "B1 level in the language of instruction",
+   "value": "수업언어 CEFR B1 이상",
    "source": "시트"
   },
   "email": "uob@hacettepe.edu.tr",
@@ -13342,7 +13342,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Turkish or English (Minimum B2)",
+   "value": "터키어 또는 영어 CEFR B2 이상",
    "source": "시트"
   },
   "email": "iso@ankara.edu.tr",
@@ -13570,7 +13570,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS Academic/for UKVI/Online 6.0+, TOEFL iBT 95+",
+   "value": "IELTS 6.0점 이상 (Academic/UKVI/Online) 또는 TOEFL iBT 95점 이상",
    "source": "웹"
   },
   "email": "studyabroad@soas.ac.uk",
@@ -13722,7 +13722,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 88+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 88점 이상",
    "source": "웹"
   },
   "email": "globalopps@sheffield.ac.uk",
@@ -13798,7 +13798,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 88+, CPE C+, TEEP 6.5+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 88점 이상 또는 CPE C 이상 또는 TEEP 6.5점 이상",
    "source": "웹"
   },
   "email": "studyabroad@reading.ac.uk",
@@ -13874,7 +13874,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 90+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 90점 이상",
    "source": "웹"
   },
   "email": "inbound@exeter.ac.uk",
@@ -14026,7 +14026,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, TOEFL iBT 80+, Duolingo 110+, PTE Academic 62+",
+   "value": "IELTS 6.0점 이상 또는 TOEFL iBT 80점 이상 또는 Duolingo 110점 이상 또는 PTE Academic 62점 이상",
    "source": "웹"
   },
   "email": "studyabroad@bradford.ac.uk",
@@ -14102,7 +14102,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS Academic 6.5+, TOEFL iBT 88+",
+   "value": "IELTS Academic 6.5점 이상 또는 TOEFL iBT 88점 이상",
    "source": "시트"
   },
   "email": "cfsa-inbound@bristol.ac.uk",
@@ -14178,7 +14178,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, Duolingo 105+, PTE 59+, TOEFL iBT 75+",
+   "value": "IELTS 6.0점 이상 또는 Duolingo 105점 이상 또는 PTE 59점 이상 또는 TOEFL iBT 75점 이상",
    "source": "웹"
   },
   "email": "studyabroad@yorksj.ac.uk",
@@ -14254,7 +14254,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, TOEFL iBT 80+ (0-120), TOEFL iBT 4+ (1-6)",
+   "value": "IELTS 6.0점 이상 또는 TOEFL iBT 80점 이상 (0-120) 또는 TOEFL iBT 4점 이상 (1-6)",
    "source": "웹"
   },
   "email": "studyabroad@leeds.ac.uk",
@@ -14330,7 +14330,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "Students are expected to arrive with a sufficient level of English in order to be able to follow classes and submit all ",
+   "value": "공인성적 불요 (수강 가능 수준)",
    "source": "시트"
   },
   "email": "studyabroad@uwe.ac.uk",
@@ -14406,7 +14406,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 92+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 92점 이상",
    "source": "웹"
   },
   "email": "incoming.exchange@durham.ac.uk",
@@ -14482,7 +14482,7 @@
    "source": "확인필요"
   },
   "lang_req": {
-   "value": "IELTS 6.0+, TOEFL iBT 80+",
+   "value": "IELTS 6.0점 이상 또는 TOEFL iBT 80점 이상",
    "source": "시트"
   },
   "email": "globalopportunities@lancashire.ac.uk",
@@ -14558,7 +14558,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.0+ (no band below 5.5)",
+   "value": "IELTS 6.0점 이상 (전 밴드 5.5 이상)",
    "source": "시트"
   },
   "email": "goabroad@bcu.ac.uk",
@@ -14634,7 +14634,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+",
+   "value": "IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "studyabroad@soton.ac.uk",
@@ -14786,7 +14786,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 70+, IELTS 6.0+, Duolingo 105+, PTE 48+",
+   "value": "TOEFL iBT 70점 이상 또는 IELTS 6.0점 이상 또는 Duolingo 105점 이상 또는 PTE 48점 이상",
    "source": "웹"
   },
   "email": "incomingexchange@hpu.edu",
@@ -14938,7 +14938,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 71+, IELTS 6.0+, Duolingo 105+",
+   "value": "TOEFL iBT 71점 이상 또는 IELTS 6.0점 이상 또는 Duolingo 105점 이상",
    "source": "시트"
   },
   "email": "medrake@northpark.edu",
@@ -15090,7 +15090,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.5+, Duolingo English Test 105+, PTE Academic 67+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 또는 Duolingo English Test 105점 이상 또는 PTE Academic 67점 이상",
    "source": "시트"
   },
   "email": "oie@utdallas.edu",
@@ -15166,7 +15166,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 4+ (2026-01-21 이후), TOEFL iBT 79+ (2026-01-21 이전), IELTS 6.0+, Duolingo 105+",
+   "value": "TOEFL iBT 4점 이상 (2026-01-21 이후) 또는 TOEFL iBT 79점 이상 (2026-01-21 이전) 또는 IELTS 6.0점 이상 또는 Duolingo 105점 이상",
    "source": "웹"
   },
   "email": "studyabroad@umb.edu",
@@ -15242,7 +15242,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+",
+   "value": "TOEFL iBT 80점 이상",
    "source": "웹"
   },
   "email": "blute2@uis.edu; sap@uis.edu",
@@ -15318,7 +15318,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+, Duolingo 105+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 105점 이상",
    "source": "시트"
   },
   "email": "acarruth@central.uh.edu",
@@ -15394,7 +15394,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 90+, IELTS 6.5+",
+   "value": "TOEFL iBT 90점 이상 또는 IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "arikramer@brandeis.edu",
@@ -15470,7 +15470,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 68+, IELTS 6.0+, Duolingo 100+, PTE Academic 50+",
+   "value": "TOEFL iBT 68점 이상 또는 IELTS 6.0점 이상 또는 Duolingo 100점 이상 또는 PTE Academic 50점 이상",
    "source": "웹"
   },
   "email": "internationalinfo@boisestate.edu",
@@ -15546,7 +15546,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+, PTE 58+, Duolingo 105+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 PTE 58점 이상 또는 Duolingo 105점 이상",
    "source": "웹"
   },
   "email": "ASUExchangeStudent@asu.edu",
@@ -15622,7 +15622,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 71+, IELTS 6.0+, CET 4.0+ (학부), CET 6.0+ (대학원)",
+   "value": "TOEFL iBT 71점 이상 또는 IELTS 6.0점 이상 또는 CET-4 (학부)/CET-6 (대학원)",
    "source": "시트"
   },
   "email": "salt@uwyo.edu",
@@ -15698,7 +15698,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+, Duolingo 110+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 110점 이상",
    "source": "시트"
   },
   "email": "ea-exchanges@usf.edu",
@@ -15774,7 +15774,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+, Duolingo 115+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 115점 이상",
    "source": "웹"
   },
   "email": "ksbexch@iu.edu",
@@ -15850,7 +15850,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.0+ (undergraduate), IELTS 6.5+ (graduate), Duolingo 110+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.0점 이상 (undergraduate) 또는 IELTS 6.5점 이상 (graduate) 또는 Duolingo 110점 이상",
    "source": "시트"
   },
   "email": "dmbrown2@uncg.edu",
@@ -15926,7 +15926,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 70+, IELTS 6.0+",
+   "value": "TOEFL iBT 70점 이상 또는 IELTS 6.0점 이상",
    "source": "웹"
   },
   "email": "keo@buffalo.edu",
@@ -16078,7 +16078,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+, Duolingo 105+, PTEA 56+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 105점 이상 또는 PTEA 56점 이상",
    "source": "웹"
   },
   "email": "conways@uwm.edu",
@@ -16154,7 +16154,7 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "Attestation of English Proficiency",
+   "value": "영어능력 증명 제출 (형식 자유)",
    "source": "시트"
   },
   "email": "cdeichmann@bentley.edu",
@@ -16230,7 +16230,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+ (2026년 1월 21일 이전), TOEFL iBT 4+ (2026년 1월 21일 이후), IELTS 6.5+, Duolingo 110+",
+   "value": "TOEFL iBT 79점 이상 (2026년 1월 21일 이전) 또는 TOEFL iBT 4점 이상 (2026년 1월 21일 이후) 또는 IELTS 6.5점 이상 또는 Duolingo 110점 이상",
    "source": "시트"
   },
   "email": "msuex@msu.edu",
@@ -16306,7 +16306,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.5+, Duolingo 115+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 115점 이상",
    "source": "웹"
   },
   "email": "istudent@ucsc.edu",
@@ -16382,7 +16382,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 79+, IELTS 6.5+",
+   "value": "TOEFL iBT 79점 이상 또는 IELTS 6.5점 이상",
    "source": "시트"
   },
   "email": "inbound-exchange@austin.utexas.edu",
@@ -16458,7 +16458,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 61+, IELTS 6.0+, PTE 44+, Duolingo 95+ (Engineering: TOEFL iBT 80+, IELTS 6.5+, PTE 53+)",
+   "value": "TOEFL iBT 61점 이상 또는 IELTS 6.0점 이상 또는 PTE 44점 이상 또는 Duolingo 95점 이상 (Engineering: TOEFL iBT 80+, IELTS 6.5+, PTE 53+)",
    "source": "시트"
   },
   "email": "suzanne.pendergrass@sjsu.edu",
@@ -16534,7 +16534,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, iTEP 3.8+, IELTS 6.5+, Duolingo 105+",
+   "value": "TOEFL iBT 80점 이상 또는 iTEP 3.8점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 105점 이상",
    "source": "시트"
   },
   "email": "intlstudents@cofc.edu",
@@ -16610,7 +16610,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL 85+, IELTS 6+, Duolingo 130+",
+   "value": "TOEFL 85점 이상 또는 IELTS 6점 이상 또는 Duolingo 130점 이상",
    "source": "시트"
   },
   "email": "incoming_exchange@unc.edu",
@@ -16686,7 +16686,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80+, IELTS 6.5+, Duolingo 120+",
+   "value": "TOEFL iBT 80점 이상 또는 IELTS 6.5점 이상 또는 Duolingo 120점 이상",
    "source": "시트"
   },
   "email": "inboundexchange@fsu.edu",
@@ -16762,7 +16762,7 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "IELTS 6.5+, TOEFL iBT 79+, PTE Academic 58+, Cambridge English CAE 176+",
+   "value": "IELTS 6.5점 이상 또는 TOEFL iBT 79점 이상 또는 PTE Academic 58점 이상 또는 Cambridge English CAE 176점 이상",
    "source": "시트"
   },
   "email": "incomingexchange@vinuni.edu.vn",
