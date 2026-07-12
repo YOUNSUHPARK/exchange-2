@@ -60,7 +60,6 @@ function card(r){
     <div><div class="uni">${r.university}</div><div class="meta">${r.country} · ${val(r.location)||''}</div></div>
     <div class="chips">${chips.join('')}</div>
    </summary><div class="body"><table>
-    ${row('지원가능 캠퍼스',r.campus)}
     ${row('지원가능 전공(SKKU)',{value:r.major_skku})}
     ${row('해외대학 수학 전공',r.major_abroad)}
     ${row('최소 GPA',r.gpa_min)}

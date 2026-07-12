@@ -7,7 +7,6 @@ import config
 COLUMNS = [
     ("국가", lambda r: r["country"]),
     ("대학명", lambda r: r["university"]),
-    ("지원가능 캠퍼스", lambda r: v(r["campus"])),
     ("지원가능 전공(SKKU)", lambda r: r.get("major_skku")),
     ("해외대학 수학 전공", lambda r: v(r["major_abroad"])),
     ("최소 GPA", lambda r: v(r["gpa_min"])),
@@ -64,7 +63,7 @@ def build(records, out_dir=None):
             cell.alignment = Alignment(vertical="center", wrap_text=True)
         for r in records:
             ws.append([c[1](r) or "" for c in COLUMNS])
-        widths = [12, 26, 24, 16, 30, 14, 10, 12, 12, 26, 10, 26, 24, 30, 24]
+        widths = [12, 26, 16, 30, 14, 10, 12, 12, 26, 10, 26, 24, 30, 24]
         for i, wdt in enumerate(widths, 1):
             ws.column_dimensions[openpyxl.utils.get_column_letter(i)].width = wdt
         for row in ws.iter_rows(min_row=2):
