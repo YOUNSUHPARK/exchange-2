@@ -76,18 +76,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "예술·디자인 산업 중심지로서의 도시 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "다양한 국제학생 커뮤니티 활성화",
+    "source": "AI추정"
    },
    {
-    "text": "QS 최상위권 종합대",
+    "text": "남반구 최대 규모의 대학 도서관 보유",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -170,14 +171,15 @@
     "source": "웹"
    },
    {
-    "text": "캠퍼스 간 무료 셔틀버스 운행",
-    "source": "웹"
+    "text": "시드니 접근성 좋은 해변 도시",
+    "source": "AI추정"
    },
    {
-    "text": "Welcome Week·국제학생 전담 지원팀 운영",
-    "source": "웹"
+    "text": "휴양지 분위기 캠퍼스·자연 경관",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -256,18 +258,15 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "멜버른 미식·카페 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "ELICOS 및 준비 과정 제공",
-    "source": "웹"
-   },
-   {
-    "text": "공학 및 기술 특성화",
+    "text": "도심 접근성 좋은 조용한 주거지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -346,14 +345,15 @@
   },
   "features": [
    {
-    "text": "160+ 학생 클럽 보유",
-    "source": "웹"
+    "text": "인도양 접한 해변 도시 휴양지 매력",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계 77위 종합대",
+    "text": "캠퍼스 내 호주 원주민 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -432,14 +432,15 @@
   },
   "features": [
    {
-    "text": "트라이메스터제 학사일정",
-    "source": "웹"
+    "text": "바다와 가까운 휴양 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계대학랭킹 19위 종합대",
+    "text": "미식과 카페 문화로 유명한 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -518,14 +519,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "강변 카페·레스토랑 밀집해 분위기 좋음",
+    "source": "AI추정"
    },
    {
-    "text": "호주 내 실용적 교육 강점",
+    "text": "브리즈번 강 유람선 타고 도시 경관 즐기기",
+    "source": "AI추정"
+   },
+   {
+    "text": "현대적 아트 갤러리·박물관 접근성 우수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -604,18 +610,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "시드니 오페라하우스 근접 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "150+ 학생 동아리 및 과외 프로그램",
-    "source": "웹"
+    "text": "디자인·IT 분야 호주 최고 수준 교육",
+    "source": "AI추정"
    },
    {
-    "text": "호주 1위 젊은 대학(2024 THE)",
+    "text": "다국적 푸드마켓·해변 카페 문화",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -694,10 +701,19 @@
   },
   "features": [
    {
-    "text": "트라이메스터제 운영(2월-6월, 7월-11월)",
-    "source": "웹"
+    "text": "해양 스포츠·자연 탐방 기회 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "브리즈번 접근성 좋은 소도시 휴양지",
+    "source": "AI추정"
+   },
+   {
+    "text": "캠퍼스 주변 자연 경관 활용한 휴식 공간",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRALIA",
@@ -776,10 +792,19 @@
   },
   "features": [
    {
-    "text": "OSHC(해외학생 건강보험) 필수 가입",
-    "source": "웹"
+    "text": "호주 국립대 명성으로 글로벌 네트워크 강점",
+    "source": "AI추정"
+   },
+   {
+    "text": "정치·행정 중심지 도시 특유의 차분한 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "자연사 박물관·전쟁 기념관 등 문화시설 접근성 우수",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRIA",
@@ -858,22 +883,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "알프스 근접 자연 경관·아웃도어 활동 천국",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "티롤 지역 전통 문화·독일어권 생활 체험",
+    "source": "AI추정"
    },
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
-   },
-   {
-    "text": "교환학생 필수 오리엔테이션 및 교환페어 참석",
-    "source": "웹"
+    "text": "인스브루크 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRIA",
@@ -952,22 +974,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "전담 오리엔테이션·멘토링",
-    "source": "웹"
+    "text": "유럽 문화 중심지·박물관·오페라 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "빈 특유 커피하우스 문화 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "알프스·동유럽 배낭여행 거점 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRIA",
@@ -1046,22 +1069,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "알프스 근접 자연 경관·아웃도어 활동 천국",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
-    "text": "Welcome Week 제공",
-    "source": "웹"
-   },
-   {
-    "text": "18~30 ECTS 학점 선택 가능",
-    "source": "웹"
+    "text": "소규모 도시 한적함·유럽 전통 마을 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRIA",
@@ -1140,22 +1156,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "알프스 접근성 최고, 겨울 스포츠 천국",
+    "source": "AI추정"
    },
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
-   },
-   {
-    "text": "오리엔테이션 프로그램 제공",
-    "source": "웹"
-   },
-   {
-    "text": "연 400명+ 교환학생 수용",
-    "source": "웹"
+    "text": "중세풍 구시가지와 현대적 인프라 조화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "AUSTRIA",
@@ -1234,18 +1243,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "알프스 근접 자연 탐험·휴양 최적",
+    "source": "AI추정"
    },
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "소도시 정취 속 유럽 전통 건축 감상",
+    "source": "AI추정"
    },
    {
-    "text": "공학·경영 특성화",
+    "text": "린츠 문화생활 접근성 우수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BELGIUM",
@@ -1324,22 +1334,15 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "유럽 연합 기관 밀집한 정치·비즈니스 중심지",
+    "source": "AI추정"
    },
    {
-    "text": "연 200명+ 교환학생 수용",
-    "source": "웹"
-   },
-   {
-    "text": "유럽연합 학생 무료 건강보험 적용",
-    "source": "웹"
-   },
-   {
-    "text": "경영·경영관리 특성화",
+    "text": "벨기에 전통 와플·초콜릿 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BELGIUM",
@@ -1418,22 +1421,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 연합 기관 밀집한 국제적 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "벨기에 전통 와플·초콜릿 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "학생 클럽 Cercle Solvay가 교환학생 대상 사회·커리어 이벤트 주최",
-    "source": "웹"
-   },
-   {
-    "text": "경영 트리플크라운 인증(AACSB·AMBA·EQUIS) 보유",
+    "text": "브뤼셀 도심 접근성 좋은 교통 인프라",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BELGIUM",
@@ -1512,22 +1512,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "HEC 캠퍼스 근처 사설 기숙사",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램 및 국제학생 전용 클럽 운영",
-    "source": "웹"
+    "text": "벨기에 전통 맥주·와플 체험 가능한 미식 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "아르덴 숲·독일 국경 근접 자연 탐험 적합",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 중세 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BELGIUM",
@@ -1606,22 +1607,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "오리엔테이션 & 버디 프로그램",
-    "source": "웹"
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
    },
    {
-    "text": "캠퍼스별 전공 특성 차이 (안트베르펜·브뤼셀-경영 실무, 루벤-경제·금융 분석)",
-    "source": "웹"
-   },
-   {
-    "text": "벨기에 최대 종합대",
+    "text": "미식과 카페 문화로 유명한 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BRAZIL",
@@ -1700,18 +1698,19 @@
   },
   "features": [
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "포르투알레그리 접근성 좋은 소도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "100% 온라인 수업 옵션 제공",
-    "source": "웹"
+    "text": "남미의 독특한 포르투갈어 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "50년 전통 종합대학",
+    "text": "대학가 중심 소규모 카페·식당 밀집",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BRAZIL",
@@ -1790,14 +1789,19 @@
   },
   "features": [
    {
-    "text": "학점 인정 가이드라인 및 성적 환산 기준 제공",
-    "source": "웹"
+    "text": "남미 최대 규모의 종합대학 연구 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "브라질 최대 국립 종합대학",
+    "text": "상파울루 미식·카페 문화 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "대도시 접근성·인턴십 기회 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "BRAZIL",
@@ -1876,14 +1880,15 @@
   },
   "features": [
    {
-    "text": "학부 과정 무료(등록금·월비 없음)",
-    "source": "웹"
+    "text": "열대 식물원·호수로 자연 속 캠퍼스 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "공학·의학·자연과학 강점",
+    "text": "상파울루 접근성 좋은 교통 허브 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -1962,22 +1967,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사·홈스테이·개인 숙소 선택 가능",
     "source": "웹"
    },
    {
-    "text": "국제교육팀 지원 및 오리엔테이션 제공",
-    "source": "웹"
+    "text": "와인 산업 중심지로 미식·와이너리 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "의료보험 필수·교통비 월 $65~$208",
-    "source": "웹"
+    "text": "로키 산맥 근접해 자연 탐험·아웃도어 활동 적합",
+    "source": "AI추정"
+   },
+   {
+    "text": "소도시라 한적하지만 밴쿠버 접근성 좋은 균형",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2056,22 +2062,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "전담 Academic Coordinator 지원",
-    "source": "웹"
+    "text": "대도시 인턴십·아르바이트 기회 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "다문화 도시 음식·카페 탐방 매력적",
+    "source": "AI추정"
+   },
+   {
+    "text": "나이아가라 폭포 등 근교 여행 접근성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2150,14 +2157,19 @@
   },
   "features": [
    {
-    "text": "65세 이상 수강생 $100 행정 수수료",
-    "source": "웹"
+    "text": "토론토 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "영어·프랑스어 이중 언어 교육",
+    "text": "다문화 도시 환경에서 글로벌 경험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "현대적 캠퍼스 시설 및 연구 자원 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2236,22 +2248,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장",
     "source": "웹"
    },
    {
-    "text": "국제학생지원센터(ISSAC) 운영",
-    "source": "웹"
+    "text": "대평원 풍경과 오로라 체험 가능한 자연 경관",
+    "source": "AI추정"
+   },
+   {
+    "text": "캐나다 대표 곡창지대 농업 연구 중심지",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2330,18 +2339,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "프랑스어권 문화 체험 가능한 이중언어 도시",
+    "source": "AI추정"
    },
    {
-    "text": "트라이메스터제 운영(겨울 2027 지원 접수)",
-    "source": "웹"
+    "text": "몬트리올 재즈 페스티벌 등 문화행사 활발",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증(AACSB, EQUIS, AMBA 보유)",
+    "text": "북미에서 유럽풍 거리 분위기 느껴지는 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2420,22 +2430,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "대평원 접한 자연 경관과 도시 접근성 조화",
+    "source": "AI추정"
    },
    {
-    "text": "일부 파트너국 저비용 숙소",
-    "source": "웹"
-   },
-   {
-    "text": "전체 과정 지원",
-    "source": "웹"
-   },
-   {
-    "text": "65+ 영어 사용 파트너교",
-    "source": "웹"
+    "text": "프랑스계 문화 영향받은 독특한 도시 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2514,18 +2517,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "밴쿠버 근교 자연 경관과 도시 생활 균형",
+    "source": "AI추정"
    },
    {
-    "text": "필수 보험(Guard.Me) 및 교통비(U-Pass) 납부",
-    "source": "웹"
-   },
-   {
-    "text": "캐나다 밴쿠버 소재 종합대",
+    "text": "다양한 국제학생 커뮤니티와 문화 행사",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2604,14 +2604,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "바다와 인접한 휴양지 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "캐나다 북대서양 연안에 위치한 종합대학",
+    "text": "소도시라 생활비 부담 적은 편",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽풍 건축물과 역사적 명소 산재",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2690,22 +2695,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 신청 가능·수요 높음·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "도착 체크리스트·학생 서비스 제공",
-    "source": "웹"
+    "text": "바다와 가까운 휴양 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계 40위권 종합대",
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "시내로 나가는 대중교통 편리",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2784,22 +2790,27 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·경쟁적 신청 필요",
     "source": "웹"
    },
    {
     "text": "여름 학기 기숙사 보장",
     "source": "웹"
+   },
+   {
+    "text": "한국인 인지도 높은 캐나다 최고 명문대",
+    "source": "AI추정"
+   },
+   {
+    "text": "다양한 문화·음식 체험 가능한 글로벌 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "온타리오 호수 인접 자연 경관 접근성 우수",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2878,18 +2889,19 @@
   },
   "features": [
    {
-    "text": "연 1000명+ 교환학생 수용",
-    "source": "웹"
+    "text": "프랑스어권 문화 체험에 최적화된 도시",
+    "source": "AI추정"
    },
    {
-    "text": "프랑스어 B2 이상 필수",
-    "source": "웹"
+    "text": "유럽풍 건축물과 활기찬 예술 현장",
+    "source": "AI추정"
    },
    {
-    "text": "캐나다 프랑스어권 종합대",
+    "text": "겨울 카니발 등 독특한 계절 행사",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CANADA",
@@ -2968,18 +2980,19 @@
   },
   "features": [
    {
-    "text": "연 4,000명+ 국제학생 수용",
-    "source": "웹"
+    "text": "프랑스어·영어 이중언어 도시 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "최소 12학점(4과목) 필수 등록, 최대 15학점(5과목)+언어 3학점",
-    "source": "웹"
+    "text": "몬트리올 재즈페스티벌 등 세계적 축제 다수",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "북미에서 유럽풍 도시 분위기 독특",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CHINA",
@@ -3058,10 +3071,19 @@
   },
   "features": [
    {
-    "text": "미디어·커뮤니케이션 분야 특성화 국립대",
+    "text": "베이징 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
+   },
+   {
+    "text": "미디어 시설 집약된 첨단 캠퍼스 환경",
+    "source": "AI추정"
+   },
+   {
+    "text": "전통과 현대 조화되는 도시 문화 체험",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CHINA",
@@ -3144,14 +3166,19 @@
     "source": "웹"
    },
    {
-    "text": "보험 800 CNY/년 필수",
-    "source": "웹"
+    "text": "공학·의학 분야 세계적 연구 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "공학·의학 특성화 국립대",
+    "text": "우한 특색 있는 후이쿠이 거리 미식 체험",
+    "source": "AI추정"
+   },
+   {
+    "text": "장강 유람·황허궁 등 역사 명소 접근성",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CHINA",
@@ -3230,14 +3257,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "산둥반도 역사 유적과 현대 도시 조화",
+    "source": "AI추정"
    },
    {
-    "text": "글로벌 파트너 200개교 이상",
-    "source": "웹"
+    "text": "실크로드 경제벨트 중심 도시 접근성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CHINA",
@@ -3316,14 +3344,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "베이징 중심가 접근성·역사문화 탐방 용이",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "경영 분야 글로벌 네트워크 형성 기회",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CHINA",
@@ -3406,10 +3435,15 @@
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 및 심리 상담 서비스",
-    "source": "웹"
+    "text": "베이징 역사·문화 유적 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식과 전통 시장 체험 기회 풍부",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CHINA",
@@ -3488,14 +3522,19 @@
   },
   "features": [
    {
-    "text": "일부 과목 수강 경쟁률 높음",
-    "source": "시트"
+    "text": "상하이 미식·카페 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "공학·경영 특성화",
+    "text": "도심 접근성 좋은 첨단 캠퍼스 환경",
+    "source": "AI추정"
+   },
+   {
+    "text": "한국인에게 인지도 높은 명문 공학·경영대",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CROATIA",
@@ -3574,22 +3613,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "아드리아해 접근 용이한 유럽 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "석사 과정 수강 시 180 ECTS 이상 필요",
-    "source": "웹"
-   },
-   {
-    "text": "크로아티아 최대 경제·경영 단과대학",
+    "text": "중세 건축물과 현대적 도시 풍경 조화",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CZECH REPUBLIC",
@@ -3668,22 +3700,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 신청 가능",
     "source": "웹"
    },
    {
-    "text": "버디 시스템·오리엔테이션 주 운영",
-    "source": "웹"
+    "text": "유럽 중부 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "역사적 건축물과 현대적 도시 풍경 조화",
+    "source": "AI추정"
+   },
+   {
+    "text": "체코 전통 음식과 와인 문화 체험",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "CZECH REPUBLIC",
@@ -3762,22 +3795,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 보장 (Větrník, Hvězda, Kajetánka)",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "유럽 역사 중심지에서의 문화 체험",
+    "source": "AI추정"
+   },
+   {
+    "text": "중세 건축물과 현대적 도시 풍경 조화",
+    "source": "AI추정"
+   },
+   {
+    "text": "체코 전통 음식과 맥주 문화 체험",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "DENMARK",
@@ -3856,22 +3890,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "학생 기숙사 제공 (에스비에르, 콜딩, 오덴세, 쇠네르보르, 베일레)",
     "source": "웹"
    },
    {
-    "text": "게스트 학생 학비 부과",
-    "source": "웹"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "영어 강의 제공 국제 대학",
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
+   },
+   {
+    "text": "바다와 가까운 휴양 도시 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "DENMARK",
@@ -3950,22 +3985,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "코펜하겐 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "국제학생서비스 지원",
-    "source": "웹"
+    "text": "북유럽 첨단기술 연구 인프라 체험",
+    "source": "AI추정"
    },
    {
-    "text": "연 900명+ 교환학생 수용",
-    "source": "웹"
-   },
-   {
-    "text": "영어 B2 이상 요구",
-    "source": "웹"
+    "text": "자전거 친화적 도시 환경",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "DENMARK",
@@ -4044,22 +4076,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 신청 보장",
     "source": "웹"
    },
    {
-    "text": "연 2000+ 과목 제공",
-    "source": "웹"
+    "text": "유럽 배낭여행 거점으로 주말 여행 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "북유럽 미식·디자인 문화 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "한적한 운하·공원 도시 낭만적 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "DENMARK",
@@ -4138,14 +4171,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "코펜하겐 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "덴마크 유일의 학제간 프로젝트 기반 교육",
+    "text": "자연과 어우러진 현대적 캠퍼스",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "DENMARK",
@@ -4224,22 +4258,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "코펜하겐 캠퍼스 기숙사 구하기 어려움",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램 및 국제 사무실 지원",
-    "source": "웹"
+    "text": "프로젝트 기반 학습 방식 독창적",
+    "source": "AI추정"
    },
    {
-    "text": "덴마크어 A레벨 요구(북유럽 교환생)",
-    "source": "웹"
+    "text": "북유럽 산업단지 인접 취업 기회",
+    "source": "AI추정"
+   },
+   {
+    "text": "한적한 항구 도시 여유로운 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "ECUADOR",
@@ -4318,18 +4353,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "갈라파고스 근접 생태 탐험 기회",
+    "source": "AI추정"
    },
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "안데스 산악 지형과 열대 우림 접한 자연 경관",
+    "source": "AI추정"
    },
    {
-    "text": "갈라파고스 학기제 운영",
-    "source": "웹"
+    "text": "에콰도르 전통 문화 체험 가능한 소도시 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "ESTONIA",
@@ -4408,22 +4444,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "학생 버디 프로그램·국제학생 오리엔테이션",
-    "source": "웹"
+    "text": "발트해 접한 중세풍 항구 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 배낭여행 거점 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "북유럽식 현대적 학습 공간",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -4502,22 +4539,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "헬싱키 근교 소도시라 유럽 여행 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "숲과 호수 많은 자연 친화적 환경",
+    "source": "AI추정"
    },
    {
-    "text": "ESN(Erasmus Student Network) 활동",
-    "source": "웹"
-   },
-   {
-    "text": "연 200명+ 교환학생 수용",
-    "source": "웹"
+    "text": "디자인·테크 산업 중심지 도시 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -4596,22 +4630,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 사실 미제공",
     "source": "웹"
    },
    {
-    "text": "교환학생 전용 튜터 배정",
-    "source": "웹"
+    "text": "핀란드 서부 해안가 휴양 도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "소규모 캠퍼스·친근한 학풍",
+    "source": "AI추정"
+   },
+   {
+    "text": "헬싱키 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -4690,22 +4725,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "북극권 오로라 체험 가능한 겨울 풍경",
+    "source": "AI추정"
    },
    {
-    "text": "교환학생 오리엔테이션(8월 18-21일) 및 전담 인바운드 팀 지원",
-    "source": "웹"
+    "text": "산타클로스 마을과 크리스마스 테마 관광지 인접",
+    "source": "AI추정"
    },
    {
-    "text": "캠퍼스 내 5명 중 1명 국제학생 비율",
-    "source": "웹"
-   },
-   {
-    "text": "유럽연합 최북단 종합대학(과학·예술 분야)",
+    "text": "한적한 북유럽 자연 속 캠퍼스 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -4784,18 +4816,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "호수와 숲으로 둘러싸인 자연 친화적 환경",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "소도시라 한적하고 여유로운 생활 리듬",
+    "source": "AI추정"
    },
    {
-    "text": "Clinical Medicine 지원자는 3-4월 신청 시 우선권 부여",
-    "source": "웹"
+    "text": "핀란드 전통 사우나 문화 체험 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -4874,18 +4907,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "북유럽 디자인·테크놀로지 융합 연구 선도",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "호수와 숲으로 둘러싸인 자연 친화적 도시",
+    "source": "AI추정"
    },
    {
-    "text": "다학제 연구 중심 국립대",
+    "text": "핀란드 제2의 도시로 문화·예술 인프라 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -4964,22 +4998,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "북극권 근처 자연 경관 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "소도시 한적한 유럽 생활 체험",
+    "source": "AI추정"
    },
    {
-    "text": "오리엔테이션 3일 제공",
-    "source": "웹"
-   },
-   {
-    "text": "EU 외 학생 필수 건강보험 가입",
-    "source": "웹"
+    "text": "오울루 대비 저렴한 생활비",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -5058,22 +5089,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 정보 링크 제공",
     "source": "웹"
    },
    {
-    "text": "튜터 픽업 서비스 및 필수 오리엔테이션 제공",
-    "source": "웹"
+    "text": "북유럽 비즈니스 명문대 명성",
+    "source": "AI추정"
+   },
+   {
+    "text": "발트해 접한 항구 도시 전망",
+    "source": "AI추정"
+   },
+   {
+    "text": "디자인·북유럽 라이프스타일 체험",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -5152,22 +5184,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 보장",
     "source": "웹"
    },
    {
-    "text": "학생 튜터·오리엔테이션·개인 학습 상담 지원",
-    "source": "웹"
+    "text": "북유럽 디자인·창업 생태계 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "발트해 접한 항구 도시 휴양지 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -5246,22 +5275,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "헬싱키 근교 자연·호수 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "북유럽 디자인·테크 혁신 중심지",
+    "source": "AI추정"
    },
    {
-    "text": "Housing for exchange students",
-    "source": "웹"
-   },
-   {
-    "text": "Mandatory orientation",
-    "source": "웹"
+    "text": "유럽 배낭여행 거점 도시 연결성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -5340,18 +5366,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "북유럽 최대 도시 헬싱키의 활기찬 문화생활",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "발트해 접한 해양 휴양지 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "의학·심리학 수강 시 2년 이상 학업 요건, 생명과학은 2년 전공 이수 필요",
-    "source": "웹"
+    "text": "유럽 내 배낭여행 거점 도시 접근성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FINLAND",
@@ -5430,22 +5457,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "학생 튜터 배정(오리엔테이션·실용 문제 지원)",
-    "source": "웹"
+    "text": "북유럽 디자인·공예 체험 가능한 문화 도시",
+    "source": "AI추정"
    },
    {
-    "text": "연 300명+ 교환학생 수용",
-    "source": "웹"
+    "text": "헬싱키 접근성 좋은 소도시 여유로움",
+    "source": "AI추정"
+   },
+   {
+    "text": "발트해 접한 항구 도시의 자연 경관",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -5524,22 +5552,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "생명공학 특화 교육 인프라 집약",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "파리 접근성 좋은 교외 생활권",
+    "source": "AI추정"
    },
    {
-    "text": "필수 예방접종 증명(파상풍·B형 간염) 필요",
-    "source": "웹"
-   },
-   {
-    "text": "생명공학 특성화 사립대",
+    "text": "프랑스어 없이도 영어 수업 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -5618,22 +5643,19 @@
   },
   "features": [
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "경영 트리플크라운 인증의 글로벌 명성",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "파리 접근성 좋은 준도시 생활 편의성",
+    "source": "AI추정"
    },
    {
-    "text": "교환학생 브로슈어 제공",
-    "source": "웹"
-   },
-   {
-    "text": "경영 트리플크라운 인증",
+    "text": "유럽 배낭여행 거점으로 최적",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -5712,22 +5734,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램·학생협회 지원",
-    "source": "웹"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식·카페 문화 체험 가능한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "대도시 인턴·문화생활 기회 풍부",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -5806,18 +5829,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "낭시 시내 미식·카페 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "파리 접근성 좋은 유럽 여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "낭만적인 소도시 분위기·역사적 건축물",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -5896,18 +5920,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "리옹의 미식·와인 문화와 어우러진 도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "정보 세션 및 튜터 지원",
-    "source": "웹"
+    "text": "유럽 교통 허브로 주말 여행 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "비자 신청용 입학허가서 발급",
-    "source": "웹"
+    "text": "역사적 건축물과 현대적 도시 풍경 공존",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -5986,18 +6011,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 배낭여행 거점으로 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "프랑스어 레벨 테스트 필수",
-    "source": "웹"
+    "text": "프랑스 전통 미식·카페 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "고즈넉한 유럽 소도시 낭만 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6076,22 +6102,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 230개교",
-    "source": "웹"
+    "text": "리옹 미식·와인 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "학기당 25~35 ECTS 수강",
-    "source": "웹"
-   },
-   {
-    "text": "경영 트리플크라운 인증",
+    "text": "경영 명문 인증받은 글로벌 교육",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6170,18 +6193,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 북부 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
    },
    {
-    "text": "Grande Ecole 21ECTS/학기, BBA 30ECTS/학기",
-    "source": "시트"
+    "text": "프랑스 전통 건축과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "릴의 번화한 도심 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6260,22 +6284,23 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "프랑스어 B1-B2 또는 영어 B2 권장",
-    "source": "웹"
+    "text": "알프스 접근성 좋은 산악 휴양지",
+    "source": "AI추정"
    },
    {
-    "text": "공학·자연과학·인문학 강점 종합대",
+    "text": "프랑스어·영어 병행 수업 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식 도시 그르노블의 카페 문화",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6354,22 +6379,19 @@
   },
   "features": [
    {
-    "text": "프랑스어/영어 집중 세미나 및 언어 강좌 제공",
-    "source": "웹"
+    "text": "파리 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "전 세계 수백 개 대학과 교환 협약 체결",
-    "source": "웹"
+    "text": "미식·예술 도시 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "최대 30 ECTS(프랑스어 세미나 수강 시 33 ECTS) 수강 가능",
-    "source": "웹"
-   },
-   {
-    "text": "경영·경제·수학·컴퓨터과학 분야 특성화 대학",
+    "text": "유럽 배낭여행 거점 도시 입지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6448,18 +6470,19 @@
   },
   "features": [
    {
-    "text": "연 1000명+ 교환학생 수용",
-    "source": "웹"
+    "text": "와인 산업 중심지 미식·와이너리 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "프랑스어·영어 병행 수업 선택 가능",
-    "source": "웹"
+    "text": "보르도 강변 휴양지 분위기·유럽풍 도시 경관",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "프랑스 남서부 여행 거점(기차 2시간 내 대서양·산악지대)",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6538,22 +6561,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내·외 기숙사 지원",
     "source": "웹"
    },
    {
-    "text": "버디 시스템·국제 클럽·프랑스어 수업",
-    "source": "웹"
+    "text": "파리 접근성 좋은 준도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "프랑스어 수업 병행한 문화 체험",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 배낭여행 거점 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6632,18 +6656,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "프랑스어 불필요(교환 지원 시)",
-    "source": "웹"
-   },
-   {
-    "text": "공학 특성화",
+    "text": "미식·카페 문화 도시 매력",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6722,22 +6743,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "유럽 역사 중심지·예술적 분위기 체험",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "미식·카페 문화 풍부한 도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 300개교+",
-    "source": "웹"
-   },
-   {
-    "text": "인문학·사회과학 특성화",
+    "text": "한국인에게 인지도 높은 명문 대학",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6816,10 +6834,15 @@
   },
   "features": [
    {
-    "text": "가톨릭 계열 종합대",
+    "text": "유럽 배낭여행 거점으로 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "프랑스 북부 미식·카페 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6898,22 +6921,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "지중해 휴양지 니스의 해변·기후 매력",
+    "source": "AI추정"
    },
    {
-    "text": "국제학생 오리엔테이션 필수 참석",
-    "source": "웹"
+    "text": "릴의 유럽풍 구시가지·카페 문화",
+    "source": "AI추정"
    },
    {
-    "text": "160개 파트너 대학, 100+ 국적 학생",
-    "source": "웹"
-   },
-   {
-    "text": "무료 프랑스어 수업(5 ECTS), 필수 출석",
-    "source": "웹"
+    "text": "프랑스 남부·북부 두 도시 경험 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -6992,22 +7012,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 배낭여행 거점으로 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "국제학생 대상 연중 행사 운영",
-    "source": "웹"
+    "text": "로즈 와인·남프랑스 미식 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "모든 캠퍼스 교환 프로그램 가능",
-    "source": "웹"
-   },
-   {
-    "text": "스페인어 집중 코스(8월 말 시작)",
-    "source": "웹"
+    "text": "우주산업 중심지 첨단 기술 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -7086,22 +7103,23 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "외부 기숙사 협력 (월 €450-700), 보장 불가",
     "source": "웹"
    },
    {
-    "text": "프랑스어 시험 필수 (도착 전), 학기별 시험 기간 2주",
-    "source": "웹"
+    "text": "아시아·아프리카·중동 문화 체험 기회 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "아시아·아프리카·중동 언어·문명 연구 특화 국립대",
+    "text": "파리 접근성 좋은 준도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "프랑스어 집중 학습 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -7180,14 +7198,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "파리 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "공학 특성화",
+    "text": "도시 공학 특화 실습 프로젝트 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "프랑스 전통 건축과 현대적 캠퍼스 조화",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -7266,22 +7289,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "샴페인 본고장 미식·와인 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "HUB를 통한 전 과정 지원",
-    "source": "웹"
+    "text": "파리 접근성 좋은 유럽 여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "연 2100명+ 교환학생 수용",
-    "source": "웹"
-   },
-   {
-    "text": "프랑스어 B2 이상 필수",
-    "source": "웹"
+    "text": "역사적 건축물 가득한 고풍스러운 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "FRANCE",
@@ -7360,22 +7380,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램·학생협회 지원",
-    "source": "웹"
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
    },
    {
-    "text": "월 평균 1200~1900유로 생활비",
-    "source": "웹"
+    "text": "유럽 한복판이라 주말 배낭여행 거점으로 최적",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -7458,18 +7475,19 @@
     "source": "웹"
    },
    {
-    "text": "버디 프로그램·국제학생팀 지원",
-    "source": "웹"
+    "text": "유럽 내 접근성 좋은 교통 허브 도시",
+    "source": "AI추정"
    },
    {
-    "text": "연 23,000명+ 학생·100개국 이상 국제학생",
-    "source": "웹"
+    "text": "자연과 도시가 조화된 산악 지형 경관",
+    "source": "AI추정"
    },
    {
-    "text": "학기별 360유로 기여금(교통권 포함)",
-    "source": "웹"
+    "text": "독일 전통 시장과 현대적 문화 공존",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -7548,14 +7566,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "라인강변 산책로·강가 카페 문화",
+    "source": "AI추정"
    },
    {
-    "text": "경영·경제 분야 강세",
+    "text": "독일 남서부 교통 허브로 유럽 여행 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "바덴뷔르템베르크 주 경제 중심지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -7634,22 +7657,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "루르 공업지대 중심 도시 산업 현장 체험 기회",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
-    "text": "교환학생 상담 서비스 제공",
-    "source": "웹"
-   },
-   {
-    "text": "영어 강의 수강 가능",
-    "source": "웹"
+    "text": "독일 전통 맥주 문화 체험 가능한 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -7728,22 +7744,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "라인 강변 산책로·강변 카페 문화",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "쾰른 대성당·역사적 명소 접근성",
+    "source": "AI추정"
    },
    {
-    "text": "독일어 과정·기업 방문·소셜 활동 제공",
-    "source": "웹"
-   },
-   {
-    "text": "경영·디지털 기술·AI 분야 특화",
+    "text": "유럽 주요 도시 간 교통 허브",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -7822,22 +7835,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 신청 필수·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 주·버디 프로그램",
-    "source": "웹"
+    "text": "발트해 접한 항구 도시 휴양지 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "영어 강의·과정 제공",
-    "source": "웹"
+    "text": "북독일 전통 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -7916,22 +7926,15 @@
   },
   "features": [
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "라이프치히 접근성 좋은 유럽 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
-    "text": "보험 미제공, B2 어학 권장",
-    "source": "웹"
-   },
-   {
-    "text": "공학·IT 특성화",
+    "text": "공학 특화 대학도시 고즈넉한 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8010,14 +8013,19 @@
   },
   "features": [
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "중세 도시 풍경과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    },
    {
-    "text": "모듈 핸드북 온라인 제공",
-    "source": "웹"
+    "text": "함부르크 접근성 좋은 소도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "북독일 전통 음식과 카페 문화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8096,22 +8104,19 @@
   },
   "features": [
    {
-    "text": "교환학생 전용 오리엔테이션 및 온라인 상담 제공",
-    "source": "웹"
+    "text": "유럽 금융 중심지 인턴십 기회 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 대학 대상 GStEP 프로그램 운영",
-    "source": "웹"
+    "text": "프랑크푸르트 학파 사회과학 명성",
+    "source": "AI추정"
    },
    {
-    "text": "학기 시작 전 3개 트랙의 예비 수업 제공",
-    "source": "웹"
-   },
-   {
-    "text": "프랑크푸르트 학파 이론 연구 중심 대학",
+    "text": "마인 강변 산책로·근교 자연경관",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8190,14 +8195,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "라인 강변 낭만적인 도시 풍경",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "쾰른 대성당 등 역사적 명소 접근성",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 내 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8276,10 +8286,15 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "유럽 한복판이라 주말 배낭여행 거점으로 최적",
+    "source": "AI추정"
+   },
+   {
+    "text": "바다와 가까운 휴양 도시 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8362,18 +8377,15 @@
     "source": "웹"
    },
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "하노버 접근성 좋은 조용한 대학 도시",
+    "source": "AI추정"
    },
    {
-    "text": "다국적 학생 교류 활발",
-    "source": "웹"
-   },
-   {
-    "text": "저렴한 생활비·짧은 통학 거리",
-    "source": "웹"
+    "text": "독일 전통 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8452,22 +8464,15 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "유럽 한복판이라 주말 배낭여행 거점으로 최적",
+    "source": "AI추정"
    },
    {
-    "text": "120개 이상 대학 파트너십",
-    "source": "웹"
-   },
-   {
-    "text": "비EU 국적자 거주허가 필요",
-    "source": "웹"
-   },
-   {
-    "text": "독일 명문 종합대",
+    "text": "대도시라 인턴·문화생활 기회 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8546,22 +8551,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 및 민간 숙소 지원",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "비자·보험·등록 지원",
-    "source": "웹"
+    "text": "미식·맥주 문화 중심 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "알프스 접근성 좋은 대도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8644,10 +8650,19 @@
     "source": "웹"
    },
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "프라이부르크 접근성 좋은 소도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "독일 블랙포레스트 휴양지 근접",
+    "source": "AI추정"
+   },
+   {
+    "text": "실용적 공학 교육 중심 대학",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8726,10 +8741,19 @@
   },
   "features": [
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "유럽 주요 도시 접근성 뛰어난 교통 허브",
+    "source": "AI추정"
+   },
+   {
+    "text": "프랑크푸르트 금융 중심지 인턴십 기회 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "현대적 캠퍼스·실용적 교육 환경",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8808,22 +8832,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "유럽 금융허브 도시에서의 인턴십 기회 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "프랑크푸르트 공항 접근성 우수한 교통 요충지",
+    "source": "AI추정"
    },
    {
-    "text": "교환학생 전담 지원 서비스",
-    "source": "웹"
-   },
-   {
-    "text": "여름/겨울 학교 프로그램 운영",
-    "source": "웹"
+    "text": "마인강변 산책로와 현대적 도시 풍경 조화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8902,22 +8923,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램·독일어 집중 코스",
-    "source": "웹"
+    "text": "유럽 중심지로 주말 여행·인턴십 기회 다수",
+    "source": "AI추정"
+   },
+   {
+    "text": "예술·역사 유적지 밀집한 문화 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -8996,22 +9014,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "선택적 기숙사 제공",
     "source": "웹"
    },
    {
-    "text": "국제 사무실 지원",
-    "source": "웹"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "전 세계 40개 파트너 대학",
-    "source": "웹"
+    "text": "라인강변 고즈넉한 대학도시 낭만",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식과 카페 문화 발달한 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -9090,22 +9109,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "버디 프로그램(BeBuddy), 웰컴 위크, 전담 교환학생 서비스",
-    "source": "웹"
+    "text": "유럽 내 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "독일 전통 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식과 맥주 문화로 유명한 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "GERMANY",
@@ -9188,14 +9208,19 @@
     "source": "웹"
    },
    {
-    "text": "월 생활비 992-1250유로·학기당 72유로 필수 납부",
-    "source": "웹"
+    "text": "뉘른베르크 접근성 좋은 소도시 낭만",
+    "source": "AI추정"
    },
    {
-    "text": "공학·의학·자연과학 강점 국립대",
+    "text": "공학·의학 연구 인프라 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "바이에른 전통 음식과 맥주 문화 체험",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "HONG KONG",
@@ -9274,10 +9299,19 @@
   },
   "features": [
    {
-    "text": "홍콩 최상위권 종합대",
+    "text": "홍콩 섬과 가까운 자연 경관·트레킹 명소",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식·쇼핑·야경 즐길 수 있는 글로벌 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "대학 내 중영 이중언어 환경·국제적 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "HONG KONG",
@@ -9360,18 +9394,19 @@
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 및 활동 제공",
-    "source": "웹"
+    "text": "아시아 금융허브 도시에서의 글로벌 인턴십 기회",
+    "source": "AI추정"
    },
    {
-    "text": "학점 24-30학점 권장, 법학 전공자 비법학 과목 제한",
-    "source": "웹"
+    "text": "미식과 야경 명소로 유명한 활기찬 도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "아시아 최상위권 종합대",
+    "text": "홍콩 도심 접근성 좋은 현대적 캠퍼스 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "HONG KONG",
@@ -9450,10 +9485,19 @@
   },
   "features": [
    {
-    "text": "QS 세계대학랭킹 100위권 종합대",
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "시내로 나가는 대중교통 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "대도시라 인턴·문화생활 기회 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "HONG KONG",
@@ -9532,10 +9576,15 @@
   },
   "features": [
    {
-    "text": "공학·비즈니스·건설환경 분야 강세",
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "대도시라 인턴·문화생활 기회 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "HUNGARY",
@@ -9614,18 +9663,19 @@
   },
   "features": [
    {
-    "text": "ESN Pécs 지원",
-    "source": "웹"
+    "text": "유럽 전통 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    },
    {
-    "text": "유럽 300만 명 이상 교환학생 참여",
-    "source": "웹"
+    "text": "부다페스트 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "헝가리 최대 규모 종합대학",
+    "text": "헝가리 전통 온천 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "INDONESIA",
@@ -9704,14 +9754,15 @@
   },
   "features": [
    {
-    "text": "저렴한 생활비, 친절한 지역사회, 활발한 학술분위기",
-    "source": "웹"
+    "text": "유네스코 문화유산과 전통 시장 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "인도네시아 최상위권 종합대",
+    "text": "열대 정원형 캠퍼스와 역사적 건축물 조화",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "INDONESIA",
@@ -9790,18 +9841,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "자카르타 접근성 좋은 휴양형 대학도시",
+    "source": "AI추정"
    },
    {
-    "text": "오리엔테이션 프로그램·사전 출발 세션 제공",
-    "source": "웹"
+    "text": "열대 자연 속 현대적 캠퍼스 시설",
+    "source": "AI추정"
    },
    {
-    "text": "인도네시아 국립 종합대",
+    "text": "인도네시아 전통문화 체험 기회 풍부",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "ITALY",
@@ -9880,22 +9932,19 @@
   },
   "features": [
    {
-    "text": "월 €450 공유 학생 아파트",
-    "source": "웹"
+    "text": "로미오와 줄리엣 배경지·오페라 하우스 등 문화 자원 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "학기 초 오리엔테이션 데이",
-    "source": "웹"
+    "text": "밀라노·베네치아 접근성 좋은 유럽 여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "연간 500명+ 교환학생 수용",
-    "source": "웹"
-   },
-   {
-    "text": "월 생활비 €1,000 (식비 €450 포함)",
-    "source": "웹"
+    "text": "이탈리아 전통 미식 체험하기 좋은 소도시 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "ITALY",
@@ -9974,18 +10023,23 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "학생 기숙사 제공",
     "source": "웹"
    },
    {
-    "text": "공학·건축 특성화",
+    "text": "밀라노 패션·디자인 산업 중심지",
+    "source": "AI추정"
+   },
+   {
+    "text": "알프스·호수 접근성 좋은 여행 거점",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 최대 역사 중심가와 현대적 스카이라인 공존",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "ITALY",
@@ -10064,22 +10118,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "운하 도시 베네치아에서 낭만적인 유럽 생활",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "이탈리아 미식 문화 체험에 최적화된 도시",
+    "source": "AI추정"
    },
    {
-    "text": "Welcome Unit 개별 오리엔테이션 제공",
-    "source": "웹"
-   },
-   {
-    "text": "700+ 해외 대학과 교환 협약",
-    "source": "웹"
+    "text": "유럽 배낭여행 거점으로 접근성 우수",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "ITALY",
@@ -10158,22 +10209,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "국제학생데스크(ISD) 지원 서비스",
-    "source": "웹"
+    "text": "유럽 패션·금융 중심지 인턴십 기회 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "밀라노 명소 두오모·나빌리오 거리 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "이탈리아 미식·카페 문화 체험 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10252,14 +10304,19 @@
   },
   "features": [
    {
-    "text": "오리엔테이션 제공",
-    "source": "웹"
+    "text": "오카야마 성·코라쿠엔 정원 등 역사 명소 접근성",
+    "source": "AI추정"
    },
    {
-    "text": "석사생 수강 제한(일본어·영어 강의만)",
-    "source": "웹"
+    "text": "조용한 소도시 분위기로 학업 집중 환경",
+    "source": "AI추정"
+   },
+   {
+    "text": "세토 내해 인접 휴양지 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10338,18 +10395,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "전통과 현대가 공존하는 독특한 캠퍼스 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "영어 능력 시험 및 언어 검정 시험 응시료 지원 제도",
-    "source": "웹"
+    "text": "자연 속 조용한 학습 환경",
+    "source": "AI추정"
    },
    {
-    "text": "스포츠·건강과학부 운영",
+    "text": "도쿄 근교 접근성 좋은 휴양지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10428,18 +10486,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "도쿄 중심가 접근성 우수한 교통 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
-    "text": "일본 국민건강보험(연 3만엔) 및 학생 사고보험(1,340엔) 필수 가입",
-    "source": "웹"
+    "text": "일본 전통문화 체험 가능한 신주쿠 인접",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10518,22 +10573,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "기숙사·아파트·홈스테이 정보 핸드북 제공",
     "source": "웹"
    },
    {
-    "text": "35개국 160개 파트너 대학",
-    "source": "웹"
+    "text": "도쿄 패션 중심지 신주쿠·하라주쿠 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "학기당 14학점(10시간 수업) 필수",
-    "source": "웹"
+    "text": "일본 전통문화·현대문화 공존한 도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식·카페 문화 발달한 글로벌 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10612,18 +10668,27 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 보장 (국제교류회관, 전실 개인실)",
     "source": "웹"
    },
    {
     "text": "기숙사 비용: 입관비 33,000엔, 월 33,000엔 (광열비 별도)",
     "source": "웹"
+   },
+   {
+    "text": "후쿠오카 미식·카페 문화 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "온천·자연 휴양지 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "한국인에게 친근한 관광 도시 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10706,14 +10771,15 @@
     "source": "웹"
    },
    {
-    "text": "장애 학생 합리적 편의 제공",
-    "source": "웹"
+    "text": "사회과학 특화 도서관·연구 시설 우수",
+    "source": "AI추정"
    },
    {
-    "text": "일본 국립 사회과학 특화 대학",
+    "text": "도쿄 접근성 좋은 조용한 자연 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10792,22 +10858,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 환영 미팅 제공",
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 및 은행 계좌 개설 지원",
-    "source": "웹"
+    "text": "소카대학교 평화 철학 반영한 캠퍼스 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "마키구치 장학금 및 일본학 센터 장학금 제공",
-    "source": "웹"
+    "text": "도쿄 근교 접근성 좋은 조용한 소도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "일본 전통 문화 체험 가능한 지역 환경",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10886,10 +10953,19 @@
   },
   "features": [
    {
-    "text": "주당 최소 10시간 수업 필수, 최대 20학점 등록 가능",
-    "source": "웹"
+    "text": "교토 전통 문화 체험 가능한 역사 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "대학 내 일본식 정원·전통 건축물 보유",
+    "source": "AI추정"
+   },
+   {
+    "text": "교토 시내 접근성 좋은 교통 인프라",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -10968,22 +11044,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 신청 필요",
     "source": "웹"
    },
    {
-    "text": "도쿄 버디 프로그램",
-    "source": "웹"
+    "text": "도쿄 접근성 좋은 조용한 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "일본어 능력시험 지원금",
-    "source": "웹"
+    "text": "일본 전통문화 체험 가능한 지역 축제",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11066,14 +11139,19 @@
     "source": "웹"
    },
    {
-    "text": "국제 라운지(G-square) 운영",
-    "source": "웹"
+    "text": "도쿄 도심 접근성 좋은 준도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 대학 266개교",
-    "source": "웹"
+    "text": "일본 전통·현대 문화 공존하는 도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식·카페 문화 풍부한 글로벌 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11152,14 +11230,19 @@
   },
   "features": [
    {
-    "text": "연 40명 수용",
-    "source": "웹"
+    "text": "알프스 접근성 좋은 휴양 도시",
+    "source": "AI추정"
    },
    {
-    "text": "재정 증명서 필수",
-    "source": "웹"
+    "text": "전통과 현대가 공존하는 고풍스러운 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "일본 내 한국인 인지도 높은 국립대",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11238,10 +11321,19 @@
   },
   "features": [
    {
-    "text": "사전 도착 정보·오리엔테이션 제공",
-    "source": "웹"
+    "text": "일본 전통 공예 체험 가능한 문화 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "나고야성·도요타 박물관 등 역사·산업 명소",
+    "source": "AI추정"
+   },
+   {
+    "text": "혼마쿠·오아시스 등 현지 맛집 밀집",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11320,18 +11412,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "전통과 현대가 공존하는 역사적 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
-    "text": "비학위 과정(특별청강생/특별연구생) 제공",
-    "source": "웹"
+    "text": "일본 전통 문화 체험 기회 풍부",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11414,14 +11503,15 @@
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 및 특별 수업 제공",
-    "source": "웹"
+    "text": "도쿄 근교 접근성 좋은 조용한 소도시",
+    "source": "AI추정"
    },
    {
-    "text": "ISEP, UMAP 등 국제 교류 프로그램 운영",
-    "source": "웹"
+    "text": "전통과 현대 조화되는 사와타 시내 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11500,18 +11590,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "대학 기숙사 배정",
     "source": "웹"
    },
    {
-    "text": "장학금 신청 가능",
-    "source": "웹"
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 한복판이라 주말 배낭여행 거점으로 최적",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11594,14 +11685,19 @@
     "source": "웹"
    },
    {
-    "text": "필수 보험 2종 가입",
-    "source": "웹"
+    "text": "일본 동북부 역사·문화 중심지 센다이 도심 접근성",
+    "source": "AI추정"
    },
    {
-    "text": "공학·자연과학 특성화",
+    "text": "공학·IT 분야 연구 인프라 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "미야기현 특산물 활용한 지역 음식 문화 체험",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "JAPAN",
@@ -11680,10 +11776,19 @@
   },
   "features": [
    {
-    "text": "파트너 대학 협약 체결",
-    "source": "웹"
+    "text": "후쿠오카 미식·카페 문화 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "규슈 지역 역사 유적 탐방 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "후쿠오카 도심 접근성 좋은 준도시 생활",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "KAZAKHSTAN",
@@ -11762,18 +11867,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "중앙아시아 최대 도시 알마티 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "유럽풍 건축물과 산악 지형 어우러진 도시 경관",
+    "source": "AI추정"
    },
    {
-    "text": "카자흐스탄 최대 영어 강의 대학",
+    "text": "카자흐스탄 경제 중심지 인턴십 기회 다수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "LITHUANIA",
@@ -11852,22 +11958,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "VMU 기숙사에서 다른 국제학생과 생활",
     "source": "웹"
    },
    {
-    "text": "VMU 멘토 프로그램 및 오리엔테이션 데이 제공",
-    "source": "웹"
+    "text": "유럽 배낭여행 거점으로 접근성 좋은 위치",
+    "source": "AI추정"
    },
    {
-    "text": "연간 2000명+ 80개국 이상 교환학생 수용",
-    "source": "웹"
+    "text": "발트 3국 전통 건축물과 현대적 도시 풍경 공존",
+    "source": "AI추정"
+   },
+   {
+    "text": "카우나스 강변 산책로와 유럽풍 카페 문화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "MEXICO",
@@ -11946,14 +12053,19 @@
   },
   "features": [
    {
-    "text": "문화·스포츠·특별 관심사 그룹 활동 제공",
-    "source": "웹"
+    "text": "멕시코 최대 산업단지 인접해 인턴십 기회 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계 사립대 29위",
+    "text": "미국 국경 인접해 주말 여행·쇼핑 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "현대적 캠퍼스 내 첨단 연구 시설 보유",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12032,22 +12144,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "파트너 대학 300개교 이상",
-    "source": "웹"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
+   },
+   {
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식과 카페 문화 유명 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12126,18 +12239,19 @@
   },
   "features": [
    {
-    "text": "오리엔테이션 활동 제공",
-    "source": "웹"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "비EEA 학생 비자 지원 및 최소 20 ECTS 수강 필요",
-    "source": "웹"
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
    },
    {
-    "text": "네덜란드 연구 중심 종합대학",
+    "text": "미식과 카페 문화 유명 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12216,22 +12330,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "Inclusive Mobility 지원 서비스 제공",
-    "source": "웹"
+    "text": "유럽 내륙 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "조용한 대학도시에서 집중적 학업 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "로테르담 접근성 좋은 문화·쇼핑 기회",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12310,22 +12425,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "교환학생 전용 오리엔테이션 주 제공",
-    "source": "웹"
+    "text": "휴양 도시 분위기 바다 접근성",
+    "source": "AI추정"
    },
    {
-    "text": "홈대학 학점 인정 가능",
-    "source": "웹"
-   },
-   {
-    "text": "실용적 교육 중심 응용과학대학",
+    "text": "소도시 낭만 고즈넉한 유럽 생활",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12404,14 +12516,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "미식·카페 문화 발달한 첨단 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12490,18 +12603,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
    },
    {
-    "text": "연 650명+ 교환학생 수용",
-    "source": "웹"
+    "text": "역사적 건축물 가득한 중세 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증",
+    "text": "네덜란드에서 가장 오래된 대학 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12580,22 +12694,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "유럽 배낭여행 거점으로 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "수강 신청 시 최소/최대 인원 제한으로 캠퍼스·강의 변경 가능성 있음",
-    "source": "웹"
-   },
-   {
-    "text": "응용과학대학(Holland Applied Sciences)",
+    "text": "미식·카페 문화 풍부한 도시 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12674,22 +12781,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "유럽 물류 중심지 도시 경제 체험",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "현대적 항구 도시 문화·예술 활기",
+    "source": "AI추정"
    },
    {
-    "text": "블록제 운영(8주 수업+1주 시험), 1블록 12~16EC 권장",
-    "source": "웹"
-   },
-   {
-    "text": "경영·경제 특성화 대학",
+    "text": "네덜란드 제2의 도시 글로벌 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12768,18 +12872,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "유럽 내 교통 허브로 주말 여행 편리",
+    "source": "AI추정"
    },
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "실용학문 중심 대학",
+    "text": "운하·자전거 문화 중심의 친환경 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12858,22 +12959,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 배낭여행 거점으로 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "미식·카페 문화 풍부한 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "연 1,100개 이상 영어 강의 제공",
-    "source": "웹"
-   },
-   {
-    "text": "홈 대학 공식 추천 필요",
-    "source": "웹"
+    "text": "현대적 학습 시설 갖춘 대학 캠퍼스",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NETHERLANDS",
@@ -12952,18 +13050,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "유럽 한복판 주말 배낭여행 거점",
+    "source": "AI추정"
    },
    {
-    "text": "국제 교환 코디네이터 지원",
-    "source": "웹"
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
    },
    {
-    "text": "네덜란드 최상위권 종합대",
+    "text": "미식과 카페 문화 유명 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NORWAY",
@@ -13042,22 +13141,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 우선 배정",
     "source": "웹"
    },
    {
-    "text": "가을학기 8월 10일 시작",
-    "source": "웹"
+    "text": "피오르드 접한 자연 경관과 도시 조화",
+    "source": "AI추정"
+   },
+   {
+    "text": "북유럽 디자인의 현대적 학습 공간",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "NORWAY",
@@ -13136,14 +13232,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 보장",
     "source": "웹"
+   },
+   {
+    "text": "피오르드와 어우러진 자연 경관",
+    "source": "AI추정"
+   },
+   {
+    "text": "북유럽 특유의 고풍스러운 도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 내 배낭여행 접근성 우수",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "PERU",
@@ -13222,18 +13327,15 @@
   },
   "features": [
    {
-    "text": "파트너 300개교+",
-    "source": "웹"
+    "text": "잉카 문명 유적과 현대 도시 공존하는 독특한 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "교환학생 장학금 제공",
-    "source": "웹"
-   },
-   {
-    "text": "QS 페루 1위 종합대",
+    "text": "페루 전통 시장과 미식 체험 가능한 문화 중심지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "POLAND",
@@ -13312,22 +13414,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "유럽 중심 위치 주말 여행 편리",
+    "source": "AI추정"
    },
    {
-    "text": "오리엔테이션 주간 및 버디 프로그램 제공",
-    "source": "웹"
+    "text": "폴란드 전통 건축물과 현대적 도시 풍경 조화",
+    "source": "AI추정"
    },
    {
-    "text": "비파트너 대학생도 1학기 또는 1년 자유수강 가능",
-    "source": "웹"
-   },
-   {
-    "text": "폴란드 최고 경제·경영 대학",
+    "text": "저렴한 물가로 경제적 생활 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "PORTUGAL",
@@ -13406,14 +13505,19 @@
   },
   "features": [
    {
-    "text": "1학기 30~36 ECTS 권장, 최대 36 ECTS 선택 가능",
-    "source": "웹"
+    "text": "유럽 배낭여행 거점인 대서양 연안 도시",
+    "source": "AI추정"
    },
    {
-    "text": "공학·기술 특성화 대학",
+    "text": "공학 특화 대학 내 첨단 연구 시설",
+    "source": "AI추정"
+   },
+   {
+    "text": "리스본 미식·카페 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SINGAPORE",
@@ -13492,22 +13596,23 @@
   },
   "features": [
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "전담 오리엔테이션·학생 지원 서비스",
-    "source": "웹"
+    "text": "디자인 중심 교육·창의적 캠퍼스 환경",
+    "source": "AI추정"
    },
    {
-    "text": "연 200명+ 교환학생 수용",
-    "source": "웹"
+    "text": "싱가포르 도심 접근성·국제적 생활 경험",
+    "source": "AI추정"
+   },
+   {
+    "text": "다국적 학생 교류·글로벌 네트워크 형성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SINGAPORE",
@@ -13590,18 +13695,19 @@
     "source": "웹"
    },
    {
-    "text": "교환학생 포털·오리엔테이션 제공",
-    "source": "웹"
+    "text": "현대적 첨단 연구 시설·스마트 캠퍼스",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 350+개교",
-    "source": "웹"
+    "text": "열대 정원·호수가 어우러진 자연 친화적 환경",
+    "source": "AI추정"
    },
    {
-    "text": "장학금 미제공",
-    "source": "웹"
+    "text": "미식·쇼핑·관광 명소 접근성 우수",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SINGAPORE",
@@ -13680,22 +13786,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·개인 주거 선택",
     "source": "웹"
    },
    {
-    "text": "오리엔테이션(리틀 인디아·차이나타운 방문) 및 글로벌 네트워크 기회",
-    "source": "웹"
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "대도시라 인턴·문화생활 기회 풍부",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -13774,18 +13877,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "지중해 휴양지 근접·해변 여가 활동",
+    "source": "AI추정"
    },
    {
-    "text": "오리엔테이션 제공",
-    "source": "웹"
+    "text": "스페인 전통 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    },
    {
-    "text": "스페인어 무료 수강(교재비 €60), 영어 강의 제한적",
-    "source": "웹"
+    "text": "유럽 배낭여행 거점·주말 여행 편리",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -13864,22 +13968,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "멘토 프로그램 제공",
-    "source": "웹"
+    "text": "지중해 휴양지 근접·해변 여가 활동 가능",
+    "source": "AI추정"
    },
    {
-    "text": "스페인어 필수·스페인어 과정 제공",
-    "source": "웹"
+    "text": "발렌시아 파에야·오렌지 문화 체험 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -13958,22 +14059,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 신청 가능",
     "source": "웹"
    },
    {
-    "text": "연 2,000명+ 교환학생 수용",
-    "source": "웹"
+    "text": "지중해 휴양지 근접해 주말 해변 휴식 가능",
+    "source": "AI추정"
    },
    {
-    "text": "€4.02 보험비 납부 필수",
-    "source": "웹"
+    "text": "카탈루냐 전통 시장·타파스 문화 체험",
+    "source": "AI추정"
+   },
+   {
+    "text": "바르셀로나 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -14052,22 +14154,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "바르셀로나 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "유럽 배낭여행 거점 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "모든 등록 과목 출석 필수",
-    "source": "웹"
-   },
-   {
-    "text": "경영·법학 분야 트리플크라운 인증",
+    "text": "미식·카페 문화 풍부한 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -14146,18 +14245,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "구겐하임 미술관 등 문화 인프라 우수",
+    "source": "AI추정"
    },
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "바스크 전통 음식과 와인 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "스페인 북부 명문 사립대",
+    "text": "산악·해안 경관과 도시 접근성 겸비",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -14236,22 +14336,19 @@
   },
   "features": [
    {
-    "text": "버디 프로그램 운영",
-    "source": "웹"
+    "text": "산페르민 축제 등 전통 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "연 수백 명 교환학생 수용",
-    "source": "웹"
+    "text": "소도시라 한국인 적고 현지인 교류 용이",
+    "source": "AI추정"
    },
    {
-    "text": "무료 스페인어 과정 제공",
-    "source": "웹"
-   },
-   {
-    "text": "의학·경영·공학 특성화",
+    "text": "피레네 산맥 근접 자연 경관 활용",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SPAIN",
@@ -14330,22 +14427,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "중세 성곽 도시 낭만적인 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 200개교 이상",
-    "source": "웹"
+    "text": "마드리드 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "2026년 2월 업데이트 예정",
-    "source": "웹"
-   },
-   {
-    "text": "경영 트리플크라운 인증",
+    "text": "스페인 전통 미식 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWEDEN",
@@ -14424,18 +14518,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "예테보리 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "1학기 30학점 권장, 6개 과목 선호순 신청",
-    "source": "웹"
+    "text": "공학 특화 대학·실험 시설 우수",
+    "source": "AI추정"
    },
    {
-    "text": "공학·IT·에너지 기술 특성화",
+    "text": "스웨덴 서해안의 한적한 자연 경관",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWEDEN",
@@ -14514,18 +14609,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "스칸디나비아 디자인 체험 가능한 현대적 캠퍼스",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
+    "text": "호반 도시 자연 경관과 자전거 생활 문화",
+    "source": "AI추정"
    },
    {
-    "text": "트라이메스터제 운영(학기당 15주 내외)",
-    "source": "웹"
+    "text": "스톡홀름 접근성 좋은 유럽 여행 거점",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWEDEN",
@@ -14604,22 +14700,15 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "스칸디나비아 최대·최고(最古) 대학 역사",
+    "source": "AI추정"
    },
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
-    "text": "드롭인 서비스 및 온라인 상담 제공",
-    "source": "웹"
-   },
-   {
-    "text": "900개 이상 교환학생 과정 제공",
-    "source": "웹"
+    "text": "중세 유적과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWEDEN",
@@ -14698,14 +14787,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "바다와 가까운 휴양 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "트라이메스터제 운영",
-    "source": "웹"
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 한복판이라 주말 배낭여행 거점으로 최적",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWITZERLAND",
@@ -14784,18 +14878,19 @@
   },
   "features": [
    {
-    "text": "ESN FHNW 학생 조직 지원",
-    "source": "웹"
+    "text": "알프스 근접 자연 경관 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "다양한 캠퍼스·전공 과목 선택 가능",
-    "source": "웹"
+    "text": "취리히 근교 교통 편리성 겸비",
+    "source": "AI추정"
    },
    {
-    "text": "응용과학·예술 분야 특성화 대학",
+    "text": "예술·공학 융합 교육 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWITZERLAND",
@@ -14874,18 +14969,19 @@
   },
   "features": [
    {
-    "text": "국제학생 전담 학업 지원 코디네이터 및 오리엔테이션 주 제공",
-    "source": "웹"
+    "text": "취리히 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "교통카드(할프탁스·세븐25) 구매 권장 및 ECTS 초과 신청 권장",
-    "source": "웹"
+    "text": "알프스·유럽 여행 거점 도시",
+    "source": "AI추정"
    },
    {
-    "text": "경영 트리플크라운 인증(AACSB·EQUIS·AMBA)",
+    "text": "스위스 실용주의 교육 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "SWITZERLAND",
@@ -14964,10 +15060,15 @@
   },
   "features": [
    {
-    "text": "교환학생 권장 학점 20-25 ECTS",
-    "source": "웹"
+    "text": "알프스 접근성 좋은 유럽 대학도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "유네스코 지정 구시가지 역사 분위기",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TAIWAN",
@@ -15046,10 +15147,19 @@
   },
   "features": [
    {
-    "text": "공학·경영 특성화",
+    "text": "타이중 미식·야시장 문화 체험 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "대만과 대륙 간 교류 중심지 역사성",
+    "source": "AI추정"
+   },
+   {
+    "text": "중부 타이완 교통 허브 접근성",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TAIWAN",
@@ -15128,18 +15238,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·자체 주거 확보 필요",
     "source": "웹"
+   },
+   {
+    "text": "가오슝 항구·야경 조망 가능한 캠퍼스",
+    "source": "AI추정"
+   },
+   {
+    "text": "대만 남부 미식·야시장 체험 용이",
+    "source": "AI추정"
+   },
+   {
+    "text": "휴양지 근처로 주말 여행 편리",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TAIWAN",
@@ -15218,10 +15333,19 @@
   },
   "features": [
    {
-    "text": "공학·반도체 분야 특성화",
+    "text": "반도체 산업단지 인접 현장 학습 기회",
+    "source": "AI추정"
+   },
+   {
+    "text": "신주 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
+   },
+   {
+    "text": "대만 대표 과학 기술 명문 대학 명성",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TAIWAN",
@@ -15300,14 +15424,19 @@
   },
   "features": [
    {
-    "text": "9학점(학부)/2과목(대학원) 최소 수강, 전체 대학 과목 선택 가능",
-    "source": "웹"
+    "text": "공학·컴퓨터과학 분야 세계적 명성",
+    "source": "AI추정"
    },
    {
-    "text": "공학·컴퓨터과학 특성화",
+    "text": "신베이시 접근성 좋은 교통 인프라",
+    "source": "AI추정"
+   },
+   {
+    "text": "대만 전통시장·야시장 문화 체험",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TAIWAN",
@@ -15386,14 +15515,19 @@
   },
   "features": [
    {
-    "text": "Buddy Program (학우 멘토링) 운영",
-    "source": "웹"
+    "text": "타이베이 미식·야시장 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "교환학생 장학금 다수 운영 (傑出交換生獎學金 등)",
-    "source": "웹"
+    "text": "대학로 인근 조용한 주거 환경",
+    "source": "AI추정"
+   },
+   {
+    "text": "대만 정치·국제관계 특화 교육 강점",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TAIWAN",
@@ -15472,18 +15606,19 @@
   },
   "features": [
    {
-    "text": "국제학생 자원봉사자(버디) 지원",
-    "source": "웹"
+    "text": "타이베이 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
    },
    {
-    "text": "환영 활동 필수 참석(결석 시 입학 취소)",
-    "source": "웹"
+    "text": "대만 전통 시장과 현대 문화 공존한 도시",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계대학랭킹 50위권 종합대",
+    "text": "한국인에게 친숙한 동아시아 문화 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "THAILAND",
@@ -15562,22 +15697,23 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 시설 제공",
     "source": "웹"
    },
    {
-    "text": "영어 강의 제공",
-    "source": "웹"
+    "text": "치앙라이의 고즈넉한 산악 도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "태국 북부 전통 문화 체험 기회 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "저렴한 물가로 배낭여행 겸 생활 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "THAILAND",
@@ -15656,18 +15792,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "태국 전통 시장과 현대적 쇼핑 거리 공존",
+    "source": "AI추정"
    },
    {
-    "text": "Chula Link 장학금(2026학년도 1학기 국제학생 대상)",
-    "source": "웹"
+    "text": "열대 정원형 캠퍼스로 휴식 공간 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "태국 최고 명문 종합대학",
+    "text": "미식과 스트리트 푸드 천국 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "THAILAND",
@@ -15746,10 +15883,15 @@
   },
   "features": [
    {
-    "text": "공학 및 과학기술 특성화",
+    "text": "방콕 미식·야시장 체험 기회 풍부",
+    "source": "AI추정"
+   },
+   {
+    "text": "열대 휴양지 접근성 좋은 대도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TURKEY",
@@ -15828,22 +15970,23 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 예약 가능",
     "source": "웹"
    },
    {
-    "text": "UNI 101 오리엔테이션·터키어 지원·국제우정의 날 행사",
-    "source": "웹"
+    "text": "터키 전통 시장과 현대 상권 공존하는 활기찬 도시",
+    "source": "AI추정"
    },
    {
-    "text": "UNI 101 9월·10월 세션 필수 참여",
-    "source": "웹"
+    "text": "유럽-아시아 연결점으로 주말 여행 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "역사적 유적지와 현대적 인프라가 공존하는 수도",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TURKEY",
@@ -15922,18 +16065,15 @@
   },
   "features": [
    {
-    "text": "교환학생 오리엔테이션 및 버디 프로그램 운영",
-    "source": "웹"
+    "text": "터키 전통 시장과 현대식 쇼핑몰 공존",
+    "source": "AI추정"
    },
    {
-    "text": "니가타대 여름 프로그램 무료 수강 가능",
-    "source": "웹"
-   },
-   {
-    "text": "터키 최초·최대 국립 종합대학",
+    "text": "유럽-아시아 문화 교류 중심지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TURKEY",
@@ -16012,14 +16152,19 @@
   },
   "features": [
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "보스포루스 해협 접한 도시 전망과 역사 유적 공존",
+    "source": "AI추정"
    },
    {
-    "text": "공학 특성화",
+    "text": "유럽-아시아 문화 융합한 미식·야시장 체험",
+    "source": "AI추정"
+   },
+   {
+    "text": "공학 특화 연구 시설·실험 장비 우수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "TURKEY",
@@ -16098,14 +16243,19 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
+    "text": "보스포루스 해협 조망 캠퍼스 뷰",
+    "source": "AI추정"
    },
    {
-    "text": "터키 최고 명문 종합대",
+    "text": "유럽-아시아 문화 교차 도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "이스탄불 역사 유적지 접근성 우수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16184,22 +16334,23 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 신청 가능(풀년·학기별 옵션)",
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 주 제공(학기별 1주)",
-    "source": "웹"
+    "text": "아시아·아프리카 연구 특화 세계적 명성",
+    "source": "AI추정"
    },
    {
-    "text": "연 200명+ 교환학생 수용(학기별 100명+)",
-    "source": "웹"
+    "text": "런던 중심가 문화·예술 자원 접근성",
+    "source": "AI추정"
+   },
+   {
+    "text": "다양한 국제 학생 커뮤니티 형성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16278,22 +16429,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 제공·신청 절차 안내",
     "source": "웹"
    },
    {
-    "text": "비자 신청 시 CAS 발급 필요",
-    "source": "웹"
+    "text": "영국 중부의 역사적 유적과 현대적 도시 문화 공존",
+    "source": "AI추정"
    },
    {
-    "text": "영국 연구 중심 종합대학",
+    "text": "유럽 내 주요 도시 접근성 좋은 교통 허브",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16372,18 +16520,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "러셀 그룹 소속 연구 중심 명문대",
+    "source": "AI추정"
    },
    {
-    "text": "여름학기 프로그램 운영",
-    "source": "웹"
+    "text": "영국 내 저렴한 물가와 활기찬 도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "러셀 그룹 소속 종합대",
+    "text": "피크 디스트릭트 국립공원 접근성 좋은 자연 경관",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16466,18 +16615,19 @@
     "source": "웹"
    },
    {
-    "text": "학업·행정·복지 지원 제공",
-    "source": "웹"
+    "text": "런던 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "1학기만 수강 시 시험 대체 과제 가능",
-    "source": "웹"
+    "text": "영국 전통 건축물과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    },
    {
-    "text": "QS 2025 세계 200위권 종합대",
+    "text": "테임즈강 근처 자연 경관 활용 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16560,18 +16710,19 @@
     "source": "웹"
    },
    {
-    "text": "전담 인바운드 팀·온라인 상담",
-    "source": "웹"
+    "text": "러셀 그룹 소속 명문 대학 명성",
+    "source": "AI추정"
    },
    {
-    "text": "30+ 학과 모듈 선택 가능",
-    "source": "웹"
+    "text": "바다와 가까운 휴양 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "러셀 그룹 소속·경영 트리플크라운 인증",
+    "text": "유럽 배낭여행 거점 접근성 우수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16650,22 +16801,23 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 계약 시 전체 학년 기간 의무",
     "source": "웹"
    },
    {
-    "text": "트라이메스터제 운영(9월-6월), 여름학기 단독 수강 불가",
-    "source": "웹"
+    "text": "런던 접근성 좋은 영국 역사 도시",
+    "source": "AI추정"
    },
    {
-    "text": "영국 연구 중심 공립대",
+    "text": "기숙사 1인실 위주 쾌적한 환경",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 배낭여행 거점 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16744,22 +16896,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "영국 내 저렴한 물가로 생활비 절약 가능",
+    "source": "AI추정"
    },
    {
-    "text": "국제 기회 팀 지원",
-    "source": "웹"
+    "text": "유럽 주요 도시 접근성 좋은 교통 허브",
+    "source": "AI추정"
    },
    {
-    "text": "150개국 이상 교환 프로그램",
-    "source": "웹"
-   },
-   {
-    "text": "28일 이상 해외 인턴십 필수",
-    "source": "웹"
+    "text": "다양한 문화 체험 가능한 다문화 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16838,14 +16987,19 @@
   },
   "features": [
    {
-    "text": "트라이메스터제(9월·1월 입학 가능)",
-    "source": "웹"
+    "text": "영국 남서부의 문화·예술 중심지",
+    "source": "AI추정"
    },
    {
-    "text": "QS 최상위권 종합대",
+    "text": "강변 산책로와 공원 자연경관 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "브리스틀 항구의 독특한 스트리트 아트",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -16924,14 +17078,19 @@
   },
   "features": [
    {
-    "text": "연 200명+ 교환학생 수용",
-    "source": "웹"
+    "text": "고즈넉한 유럽 대학도시 낭만",
+    "source": "AI추정"
    },
    {
-    "text": "1학기 또는 2학기(1년) 선택 가능",
-    "source": "웹"
+    "text": "미식과 카페 문화로 유명한 도시",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 한복판이라 주말 배낭여행 거점으로 최적",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -17010,22 +17169,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "교환학생 기숙사 보장",
     "source": "웹"
    },
    {
-    "text": "학기제(1학기/1년) 선택 가능",
-    "source": "웹"
+    "text": "영국 북부의 활기찬 문화·예술 도시 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계 100위권 종합대",
+    "text": "유럽 배낭여행 거점으로 교통 편리",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -17104,18 +17260,19 @@
   },
   "features": [
    {
-    "text": "공인 어학성적 없이 지원 가능",
-    "source": "자동"
+    "text": "브리스틀 강변 산책로와 공원 자연경관",
+    "source": "AI추정"
    },
    {
-    "text": "공항 환영 서비스·국제학생 오리엔테이션 제공",
-    "source": "웹"
+    "text": "창의적인 예술·문화 행사 활발한 도시",
+    "source": "AI추정"
    },
    {
-    "text": "영국 남서부 브리스톨 소재 종합대",
+    "text": "영국 남서부 교통 허브로 유럽 여행 편리",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -17198,18 +17355,19 @@
     "source": "웹"
    },
    {
-    "text": "전담 글로벌 기회 팀·개인 칼리지 튜터 지원",
-    "source": "웹"
+    "text": "중세 성당·성곽이 어우러진 고풍스러운 도시 풍경",
+    "source": "AI추정"
    },
    {
-    "text": "비유럽 13개국 50+ 대학 파트너",
-    "source": "웹"
+    "text": "뉴캐슬·에든버러 등 근교 도시 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "120학점(6과목) 이수, 최대 3개 학과 선택",
-    "source": "웹"
+    "text": "영국 전통 칼리지 시스템 체험 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -17292,14 +17450,19 @@
     "source": "웹"
    },
    {
-    "text": "전 세계 100개 대학 파트너십",
-    "source": "웹"
+    "text": "맨체스터 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "의학·치의학·조산학 등 일부 전공 제외",
-    "source": "웹"
+    "text": "영국 내 저렴한 물가·생활비",
+    "source": "AI추정"
+   },
+   {
+    "text": "유럽 배낭여행 거점 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -17378,18 +17541,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "영국 제2의 도시 버밍엄의 활기찬 도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "1~2학기 선택 가능, 홈교 학점 인정",
-    "source": "웹"
-   },
-   {
-    "text": "영국 내 현대·국제적 대학",
+    "text": "현대적 디자인·미디어 시설로 창의적 학습 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED KINGDOM",
@@ -17468,14 +17628,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "남해안 항구 도시 휴양지 분위기",
+    "source": "AI추정"
    },
    {
-    "text": "QS 세계 100위권 종합대",
+    "text": "영국 남부 교통 허브 유럽 여행 편리",
+    "source": "AI추정"
+   },
+   {
+    "text": "해양공학·로봇공학 연구 강점",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -17554,14 +17719,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "뉴욕주 주도 올버니 역사·문화 자원 접근성",
+    "source": "AI추정"
    },
    {
-    "text": "뉴욕주립대 시스템 소속 공립 종합대",
+    "text": "뉴욕시·캐나다 국경 근접 주말 여행 적합",
+    "source": "AI추정"
+   },
+   {
+    "text": "미국 공립대 중 합리적 학비와 생활비",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -17640,14 +17810,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "호놀룰루 해변과 야시장 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 30개국 40개교 이상",
-    "source": "웹"
+    "text": "다국적 학생 구성으로 글로벌 교류 활발",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -17730,10 +17901,19 @@
     "source": "웹"
    },
    {
-    "text": "공학·경영·예술과학 분야 강점",
+    "text": "시러큐스보다 한적한 자연 속 캠퍼스",
+    "source": "AI추정"
+   },
+   {
+    "text": "겨울 스포츠·아웃도어 활동 활발",
+    "source": "AI추정"
+   },
+   {
+    "text": "북미 원주민 문화 체험 가능",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -17816,10 +17996,15 @@
     "source": "웹"
    },
    {
-    "text": "국제학생 지원 (Office of International Affairs)",
-    "source": "웹"
+    "text": "시카고 도심 접근성 좋은 교통 인프라",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식·카페 문화 체험 가능한 대도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -17906,10 +18091,15 @@
     "source": "웹"
    },
    {
-    "text": "공립 연구중심 종합대",
+    "text": "미국 서북부 자연 경관과 어우러진 고즈넉한 캠퍼스",
+    "source": "AI추정"
+   },
+   {
+    "text": "스포캔·시애틀 접근성 좋은 소도시 생활",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -17988,18 +18178,19 @@
   },
   "features": [
    {
-    "text": "국제학생 오리엔테이션·크로스컬처 활동 제공",
-    "source": "웹"
+    "text": "댈러스 근교 첨단 산업단지 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "수강 과목 홈교 학점 인정 필수 확인",
-    "source": "웹"
+    "text": "현대적 캠퍼스·첨단 연구 시설 보유",
+    "source": "AI추정"
    },
    {
-    "text": "연구 중심 공학·응용과학 특성화",
+    "text": "텍사스주 내 비교적 안전한 소도시 환경",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18082,14 +18273,19 @@
     "source": "웹"
    },
    {
-    "text": "교환학생 전용 오리엔테이션 제공",
+    "text": "필수 보험·교통비·기숙사 신청비 발생",
     "source": "웹"
    },
    {
-    "text": "필수 보험·교통비·기숙사 신청비 발생",
-    "source": "웹"
+    "text": "보스턴 도심 접근성 좋은 해안가 캠퍼스",
+    "source": "AI추정"
+   },
+   {
+    "text": "다양한 문화·예술 행사 활발한 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18172,14 +18368,19 @@
     "source": "웹"
    },
    {
-    "text": "파트너 7개국 대학",
-    "source": "웹"
+    "text": "미국 정치 역사 중심지 링컨 홈·박물관 인접",
+    "source": "AI추정"
    },
    {
-    "text": "1학기 생활비 6,500달러",
-    "source": "웹"
+    "text": "소도시라 생활비·물가 전국 평균보다 저렴",
+    "source": "AI추정"
+   },
+   {
+    "text": "시카고 접근성 좋은 조용한 대학 도시",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18258,14 +18459,19 @@
   },
   "features": [
    {
-    "text": "파트너 15개교 이상 운영",
-    "source": "웹"
+    "text": "휴스턴 우주센터와 NASA 연계 프로그램",
+    "source": "AI추정"
    },
    {
-    "text": "홈교 학비 납부·제한적 수수료",
-    "source": "웹"
+    "text": "멕시코만 인접 휴양지 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "다문화 도시 음식·쇼핑 다양성",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18348,14 +18554,19 @@
     "source": "웹"
    },
    {
-    "text": "국제 교환학생 전용 오리엔테이션",
-    "source": "웹"
+    "text": "보스턴 근교 접근성 좋은 문화·교육 도시",
+    "source": "AI추정"
    },
    {
-    "text": "필수 보험·여행 지원 서비스",
-    "source": "웹"
+    "text": "한적하고 안전한 소도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "미국 동부 명문대 간 교류 활발",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18434,14 +18645,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "미국 서부 산악 지형과 현대적 캠퍼스 조화",
+    "source": "AI추정"
    },
    {
-    "text": "미국 아이다호 주 보이시 소재 공립대",
+    "text": "인근 보이시 강·산악 액티비티 접근성 우수",
+    "source": "AI추정"
+   },
+   {
+    "text": "미국 내 저렴한 생활비·치안 좋은 소도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18520,22 +18736,19 @@
   },
   "features": [
    {
-    "text": "GPA 요건 없음",
-    "source": "자동"
-   },
-   {
     "text": "교내 기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "연 150명+ 교환학생 수용",
-    "source": "웹"
+    "text": "미국 남서부 최대 도시권 접근성·다양한 문화 체험",
+    "source": "AI추정"
    },
    {
-    "text": "필수 건강 보험 가입",
-    "source": "웹"
+    "text": "사막 기후 속 현대적 캠퍼스·야외 활동 인프라 우수",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18618,18 +18831,15 @@
     "source": "웹"
    },
    {
-    "text": "오리엔테이션 제공",
-    "source": "웹"
+    "text": "로키 산맥 근접 자연 탐험·아웃도어 활동 천국",
+    "source": "AI추정"
    },
    {
-    "text": "필수 보험 가입 필요",
-    "source": "웹"
-   },
-   {
-    "text": "R1 연구 중심 대학",
+    "text": "소도시 여유로운 분위기·현지 문화 체험 적합",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18708,14 +18918,15 @@
   },
   "features": [
    {
-    "text": "장학금 및 재정 지원 가능, 주외 학생 수수료 면제 혜택",
-    "source": "웹"
+    "text": "멕시코만 접한 휴양지 접근성 우수",
+    "source": "AI추정"
    },
    {
-    "text": "플로리다 주립대 시스템 소속 공립 연구중심대",
+    "text": "대도시 인프라 활용한 인턴십 기회",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18798,18 +19009,19 @@
     "source": "웹"
    },
    {
-    "text": "교환학생 전담 담당자(Quynh Luong) 및 오리엔테이션 제공",
-    "source": "웹"
+    "text": "켈리 경영대학 명성·실무 중심 교육",
+    "source": "AI추정"
    },
    {
-    "text": "학기 시작 전 주 도착 필요·12-18학점 필수 등록",
-    "source": "웹"
+    "text": "인디애나폴리스 접근성·자연 경관 조화",
+    "source": "AI추정"
    },
    {
-    "text": "경영학부(Kelley School of Business) 특성화",
+    "text": "소도시 분위기 속 캠퍼스 중심 생활",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18888,10 +19100,15 @@
   },
   "features": [
    {
-    "text": "국제학생 지원 및 글로벌 학습 경험 강화",
-    "source": "웹"
+    "text": "샬럿 접근성 좋은 소도시 생활",
+    "source": "AI추정"
+   },
+   {
+    "text": "남부 미국 전통 문화 체험 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -18974,18 +19191,15 @@
     "source": "웹"
    },
    {
-    "text": "50개 이상 대학 파트너십",
-    "source": "웹"
+    "text": "뉴욕주 제2의 도시 접근성·다양한 문화생활",
+    "source": "AI추정"
    },
    {
-    "text": "특정 과목 수강 제한",
-    "source": "웹"
-   },
-   {
-    "text": "뉴욕주립대 시스템 소속 종합대",
+    "text": "나이아가라 폭포 근접·주말 여행 명소",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19072,10 +19286,15 @@
     "source": "웹"
    },
    {
-    "text": "펜실베이니아 주립대, 미국 최대 공립대 중 하나",
+    "text": "미국 최대 규모 공립대 중 하나로 다양한 전공 선택 가능",
+    "source": "AI추정"
+   },
+   {
+    "text": "필라델피아·뉴욕 접근성 좋은 교통 요충지",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19154,22 +19373,19 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "전담 매니저 지원",
-    "source": "웹"
+    "text": "미식·맥주 문화로 유명한 도시",
+    "source": "AI추정"
    },
    {
-    "text": "연 200명+ 교환학생 수용",
-    "source": "웹"
+    "text": "대호 인접 휴양·레저 활동 가능",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19252,14 +19468,15 @@
     "source": "웹"
    },
    {
-    "text": "J-1 비자 필수, DS-2019 발급",
-    "source": "웹"
+    "text": "보스턴 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    },
    {
-    "text": "경영·금융 특성화 대학",
+    "text": "경영·금융 특화 커리큘럼 강점",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19338,14 +19555,19 @@
   },
   "features": [
    {
-    "text": "교환학생 전용 오리엔테이션 및 앰배서더 지원",
-    "source": "웹"
+    "text": "미국 중서부 최대 규모 캠퍼스·다양한 시설",
+    "source": "AI추정"
    },
    {
-    "text": "미국 최대 규모의 종합대학 중 하나",
+    "text": "디트로이트·시카고 접근성 좋은 교통 허브",
+    "source": "AI추정"
+   },
+   {
+    "text": "계절별 축제·스포츠 문화 활발한 대학 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19428,18 +19650,15 @@
     "source": "웹"
    },
    {
-    "text": "교환학생 전용 오리엔테이션",
-    "source": "웹"
+    "text": "바다와 인접한 자연 경관이 아름다운 휴양지",
+    "source": "AI추정"
    },
    {
-    "text": "파트너 30여 개국 50+ 대학",
-    "source": "웹"
-   },
-   {
-    "text": "트라이메스터제 학사일정",
-    "source": "웹"
+    "text": "샌프란시스코 접근성 좋은 소도시 생활",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19518,14 +19737,19 @@
   },
   "features": [
    {
-    "text": "연 130개교 이상 파트너 대학",
-    "source": "웹"
+    "text": "미식과 라이브 음악으로 유명한 활기찬 도시",
+    "source": "AI추정"
    },
    {
-    "text": "세계 40위권 종합대",
+    "text": "텍사스 주의회 의사당 등 역사적 건축물 다수",
+    "source": "AI추정"
+   },
+   {
+    "text": "대도시 인프라 속 자연 공원 접근성 우수",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19604,14 +19828,15 @@
   },
   "features": [
    {
-    "text": "도심 도보권 캠퍼스",
-    "source": "자동"
+    "text": "실리콘밸리 중심지로 IT 기업 인턴십 기회 풍부",
+    "source": "AI추정"
    },
    {
-    "text": "공학 특성화",
+    "text": "다양한 문화·음식점 밀집한 글로벌 도시",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19690,10 +19915,19 @@
   },
   "features": [
    {
-    "text": "DS-2019 발급 후 J-1 비자 신청 필요",
-    "source": "웹"
+    "text": "남부의 역사적 건축물·아름다운 해안가 캠퍼스",
+    "source": "AI추정"
+   },
+   {
+    "text": "미식·카페 문화 발달한 관광 도시 분위기",
+    "source": "AI추정"
+   },
+   {
+    "text": "물가 저렴해 생활비 부담 적은 편",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19772,10 +20006,15 @@
   },
   "features": [
    {
-    "text": "미국 최고 역사 공립대",
+    "text": "롤리-더럼 연구단지 인접해 첨단 산업 인턴십 기회",
+    "source": "AI추정"
+   },
+   {
+    "text": "남부 특유의 고풍스러운 대학가 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "UNITED STATES",
@@ -19854,14 +20093,15 @@
   },
   "features": [
    {
-    "text": "필수 건강 보험 정책",
-    "source": "웹"
+    "text": "올랜도·플로리다 해변 접근성 좋은 휴양지",
+    "source": "AI추정"
    },
    {
-    "text": "FAMU-FSU 공학대 운영",
+    "text": "미국 남부 특유의 활기찬 대학 타운 분위기",
     "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  },
  {
   "country": "VIET NAM",
@@ -19940,21 +20180,22 @@
   },
   "features": [
    {
-    "text": "비영어권이지만 전 과정 영어 수업",
-    "source": "자동"
-   },
-   {
     "text": "기숙사 미보장·조기신청 필요",
     "source": "웹"
    },
    {
-    "text": "I-GESA 장학금 지원",
-    "source": "웹"
+    "text": "하노이 미식·카페 문화 체험 가능",
+    "source": "AI추정"
    },
    {
-    "text": "I-GESA 장학금(400만 VND) 제공",
-    "source": "웹"
+    "text": "베트남 신흥 명문 대학 명성",
+    "source": "AI추정"
+   },
+   {
+    "text": "도심 접근성 좋은 준도시 환경",
+    "source": "AI추정"
    }
-  ]
+  ],
+  "_subj": true
  }
 ]
