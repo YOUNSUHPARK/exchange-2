@@ -28,10 +28,14 @@
  a{color:var(--accent)}
  .match{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin-bottom:14px}
  .match summary{cursor:pointer;font-weight:600;font-size:14.5px}
- .mrow{display:flex;gap:14px;flex-wrap:wrap;margin-top:12px;align-items:center}
- .mrow label{font-size:13px;color:var(--sub);display:flex;align-items:center;gap:6px}
- .mrow input[type=number]{padding:7px 9px;border:1px solid var(--line);border-radius:8px;font-size:13.5px;width:90px}
- .mrow select{padding:7px 9px;border:1px solid var(--line);border-radius:8px;font-size:13.5px}
+ .mgroup{margin-top:14px}
+ .gtitle{font-size:12px;font-weight:700;color:var(--sub);letter-spacing:.4px;margin-bottom:7px}
+ .fields{display:flex;gap:12px;flex-wrap:wrap;align-items:flex-end}
+ .fields label{display:flex;flex-direction:column;gap:5px;font-size:12.5px;font-weight:600;color:var(--sub)}
+ .fields input[type=number],.fields select{padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:13.5px;background:var(--card);color:var(--ink);font-weight:400}
+ .fields input[type=number]{width:110px}
+ .fields label.chk{flex-direction:row;align-items:center;gap:6px;padding-bottom:9px}
+ .mactions{display:flex;gap:8px;margin-top:16px}
  .mbtn{padding:8px 16px;border:0;border-radius:8px;background:var(--accent);color:#fff;font-size:13.5px;cursor:pointer}
  .mbtn.ghost{background:#eef2f8;color:var(--accent)}
  .badge{font-size:11px;padding:2px 7px;border-radius:10px;margin-right:4px;white-space:nowrap}
@@ -41,29 +45,42 @@
 </style></head><body>
 <header><h1>교환학생 파견교 정보 항목화</h1><p>221개 대학 · 출처 라벨: 시트 / 웹 / factsheet / AI추정 / 확인필요</p></header>
 <div class="wrap">
- <details class="match" id="matchbox">
+ <details class="match" id="matchbox" open>
   <summary>🎯 맞춤 검색 — 내 조건에 맞는 학교 찾기</summary>
-  <div class="mrow">
-   <label>내 GPA (4.5 만점) <input id="m_gpa" type="number" step="0.01" min="0" max="4.5" placeholder="예: 3.8"></label>
-   <label>완료 학기 수 <input id="m_sem" type="number" step="1" min="0" max="12" placeholder="예: 4"></label>
-   <label>소속(전공) <select id="m_major"><option value="">무관</option></select></label>
-   <label>선호 위치 <select id="m_tier"><option value="">무관</option><option>도시</option><option>준도시</option><option>도시 외곽</option></select></label>
+  <div class="mgroup"><div class="gtitle">내 정보</div>
+   <div class="fields">
+    <label>내 GPA (4.5 만점)<input id="m_gpa" type="number" step="0.01" min="0" max="4.5" placeholder="예: 3.8"></label>
+    <label>완료 학기 수<input id="m_sem" type="number" step="1" min="0" max="12" placeholder="예: 4"></label>
+    <label>소속(전공)<select id="m_major"><option value="">무관</option></select></label>
+   </div>
   </div>
-  <div class="mrow">
-   <label>TOEFL iBT <input id="m_toefl" type="number" min="0" max="120" placeholder="점수"></label>
-   <label>IELTS <input id="m_ielts" type="number" step="0.5" min="0" max="9" placeholder="점수"></label>
-   <label><input type="checkbox" id="m_nolang"> 공인 어학성적 없음</label>
+  <div class="mgroup"><div class="gtitle">어학</div>
+   <div class="fields">
+    <label>TOEFL iBT<input id="m_toefl" type="number" min="0" max="120" placeholder="점수"></label>
+    <label>IELTS<input id="m_ielts" type="number" step="0.5" min="0" max="9" placeholder="점수"></label>
+    <label class="chk"><input type="checkbox" id="m_nolang"> 공인 어학성적 없음</label>
+   </div>
+  </div>
+  <div class="mgroup"><div class="gtitle">지역</div>
+   <div class="fields">
+    <label>국가<select id="country"></select></label>
+    <label>위치<select id="tier"></select></label>
+   </div>
+  </div>
+  <div class="mgroup"><div class="gtitle">수업 언어</div>
+   <div class="fields">
+    <label>수업언어<select id="lang"></select></label>
+   </div>
+  </div>
+  <div class="mactions">
    <button class="mbtn" id="m_apply">적용</button>
    <button class="mbtn ghost" id="m_reset">초기화</button>
   </div>
-  <div class="mnote">국가·수업언어는 아래 필터를 함께 사용하세요. 조건 미달 학교는 숨겨지고, 값이 "이메일 문의"·"학과별 상이" 등이라 판단할 수 없는 항목은 ⚠️로 표시됩니다(직접 확인 필요).
+  <div class="mnote">조건 미달 학교는 숨겨지고, 값이 "이메일 문의"·"학과별 상이" 등이라 판단할 수 없는 항목은 ⚠️로 표시됩니다(직접 확인 필요).
   GPA는 만점 비율로 환산(4.5→각교 만점)한 근사치이고, CEFR 요건은 TOEFL/IELTS 통상 환산(B2≈iBT 72·IELTS 5.5, C1≈95·7.0)을 사용합니다. 최종 지원 전 반드시 공식 요강을 확인하세요.</div>
  </details>
  <div class="controls">
   <input id="q" placeholder="대학명·도시·전공 검색">
-  <select id="country"></select>
-  <select id="lang"><option value="">수업언어 전체</option></select>
-  <select id="tier"><option value="">위치 전체</option></select>
  </div>
  <div class="count" id="count"></div>
  <div id="list"></div>
@@ -79,7 +96,8 @@ function row(k,o){ const v=val(o); if(!v) return ''; return `<tr><td class="k">$
 
 /* ── 맞춤 검색(자격 매칭) ─────────────────────────────
    판정: 'ok' 충족 · 'fail' 미달(숨김) · 'warn' 판단불가(⚠️ 표시) · 'skip' 입력 안 함 */
-let M=null; // {g,s,mj,t,i,none}
+let M=null; // {g,s,mj,tier,t,i,none}
+let F={c:'',lang:''}; // 적용 버튼으로 확정된 국가·수업언어 필터
 const CEFR={A1:[0,0],A2:[0,0],B1:[42,4.0],B2:[72,5.5],C1:[95,7.0],C2:[110,8.5]};
 function chkGpa(r,g){ if(g==null) return 'skip';
   const v=val(r.gpa_min); if(!v||v==='담당자 이메일 문의'||v.startsWith('확인필요')) return 'warn';
@@ -158,11 +176,10 @@ function card(r,mi){
    </table></div></details>`;
 }
 function render(){
-  const q=$('#q').value.trim().toLowerCase(), c=$('#country').value, lang=$('#lang').value, tier=$('#tier').value;
+  const q=$('#q').value.trim().toLowerCase();
   let pairs=DATA.filter(r=>{
-    if(c && r.country!==c) return false;
-    if(lang && !val(r.lang_instruction).split(', ').includes(lang)) return false;
-    if(tier && (r.location||{}).tier!==tier) return false;
+    if(F.c && r.country!==F.c) return false;
+    if(F.lang && !val(r.lang_instruction).split(', ').includes(F.lang)) return false;
     if(q){ const hay=[r.university,r.country,val(r.location),r.major_skku,val(r.major_abroad)].join(' ').toLowerCase(); if(!hay.includes(q)) return false; }
     return true;
   }).map(r=>[r, matchInfo(r)]);
@@ -178,29 +195,31 @@ function render(){
 }
 (function init(){
   const cs=[...new Set(DATA.map(r=>r.country))].sort();
-  $('#country').innerHTML='<option value="">국가 전체</option>'+cs.map(c=>`<option>${c}</option>`).join('');
+  $('#country').innerHTML='<option value="">전체</option>'+cs.map(c=>`<option>${c}</option>`).join('');
   // 수업언어 옵션: 값을 언어 단위로 분해해 빈도순 정렬 (예: "일본어, 영어" → 일본어/영어)
   const lc={};
   DATA.forEach(r=>val(r.lang_instruction).split(', ').filter(Boolean).forEach(l=>lc[l]=(lc[l]||0)+1));
   const ls=Object.keys(lc).filter(l=>l!=='확인필요').sort((a,b)=>lc[b]-lc[a]);
-  $('#lang').innerHTML='<option value="">수업언어 전체</option>'+ls.map(l=>`<option value="${l}">${l} (${lc[l]})</option>`).join('');
+  $('#lang').innerHTML='<option value="">전체</option>'+ls.map(l=>`<option value="${l}">${l} (${lc[l]})</option>`).join('');
   const tc={};
   DATA.forEach(r=>{const t=(r.location||{}).tier; if(t) tc[t]=(tc[t]||0)+1;});
-  $('#tier').innerHTML='<option value="">위치 전체</option>'+['도시','준도시','도시 외곽'].filter(t=>tc[t]).map(t=>`<option value="${t}">${t} (${tc[t]})</option>`).join('');
+  $('#tier').innerHTML='<option value="">무관</option>'+['도시','준도시','도시 외곽'].filter(t=>tc[t]).map(t=>`<option value="${t}">${t} (${tc[t]})</option>`).join('');
   // 맞춤 검색: 소속(전공) 옵션 — SKKU 공식 주관학부(대학) 목록
   $('#m_major').innerHTML='<option value="">무관</option>'+MAJORS.map(m=>`<option value="${m}">${m}</option>`).join('');
   $('#m_apply').addEventListener('click',()=>{
     const num=id=>{const x=$('#'+id).value.trim(); return x===''?null:parseFloat(x);};
-    M={g:num('m_gpa'), s:num('m_sem'), mj:$('#m_major').value, tier:$('#m_tier').value,
+    M={g:num('m_gpa'), s:num('m_sem'), mj:$('#m_major').value, tier:$('#tier').value,
        t:num('m_toefl'), i:num('m_ielts'), none:$('#m_nolang').checked};
     if(M.g==null&&M.s==null&&!M.mj&&!M.tier&&M.t==null&&M.i==null&&!M.none) M=null;
+    F={c:$('#country').value, lang:$('#lang').value};
     render();
   });
   $('#m_reset').addEventListener('click',()=>{
     ['m_gpa','m_sem','m_toefl','m_ielts'].forEach(id=>$('#'+id).value='');
-    $('#m_major').value=''; $('#m_tier').value=''; $('#m_nolang').checked=false; M=null; render();
+    ['m_major','country','lang','tier'].forEach(id=>$('#'+id).value='');
+    $('#m_nolang').checked=false; M=null; F={c:'',lang:''}; render();
   });
-  ['q','country','lang','tier'].forEach(id=>$('#'+id).addEventListener('input',render));
+  $('#q').addEventListener('input',render);
   render();
 })();
 </script></body></html>
