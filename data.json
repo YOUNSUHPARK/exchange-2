@@ -630,8 +630,8 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "제한 없음 (홈교 기준 적용)",
+   "source": "웹"
   },
   "semesters": {
    "value": "1학기 이상",
@@ -720,12 +720,12 @@
    "source": "시트"
   },
   "credits_min": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "18 units (감축 승인 시; 표준 24)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "24 units",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 캔버라 도심까지 버스 약 15분",
@@ -2266,20 +2266,20 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "명시 없음",
+   "source": "웹"
   },
   "semesters": {
    "value": "제한 없음",
    "source": "시트"
   },
   "credits_min": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "12 credits (학부; 대학원 6)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "15 credits (학부; 대학원 9)",
+   "source": "웹"
   },
   "location": {
    "value": "도시 — 몬트리올 도심에 위치",
@@ -2296,8 +2296,8 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "프랑스어 CEFR B2 이상",
+   "source": "웹"
   },
   "email": "esg.international@uqam.ca",
   "program_link": "https://esg.uqam.ca/international/",
@@ -2450,8 +2450,8 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "제한 없음 (홈교 선발 신뢰)",
+   "source": "웹"
   },
   "semesters": {
    "value": "제한 없음",
@@ -2480,8 +2480,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "IELTS 6.5점 이상 (밴드 6.0) 또는 영어매체 재학 증명 인정",
+   "source": "웹"
   },
   "email": "exchange@sfu.ca",
   "program_link": "https://www.sfu.ca/students/exchange.html",
@@ -2626,20 +2626,20 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "3.0/4.0 (B 또는 70%)",
+   "source": "웹"
   },
   "semesters": {
    "value": "제한 없음",
    "source": "시트"
   },
   "credits_min": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "명시 없음 (통상 9~15 credits)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "15 credits",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 밴쿠버 도심까지 버스 약 25분",
@@ -2656,8 +2656,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "TOEFL iBT 90점 이상 또는 IELTS 6.5점 이상 (밴드 6.0) 또는 Duolingo 125점 이상 또는 PTE 65점 이상 (협정에 따라 면제 가능)",
+   "source": "웹"
   },
   "email": "(UBC Vancouver) go.global@ubc.ca (UBC Okanagan) goglobal.okanagan@ubc.ca",
   "program_link": "https://global.ubc.ca/go-global/coming-ubc/coming-ubc-exchange",
@@ -2720,8 +2720,8 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "2.7/4.0 (학부; 대학원 3.0/4.0)",
+   "source": "웹"
   },
   "semesters": {
    "value": "제한 없음",
@@ -2732,8 +2732,8 @@
    "source": "시트"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "2.5 UofT credits (5과목, 풀타임)",
+   "source": "웹"
   },
   "location": {
    "value": "도시 — 토론토 도심에 위치",
@@ -4078,16 +4078,16 @@
    "source": "이메일문의"
   },
   "semesters": {
-   "value": "제한 없음",
-   "source": "시트"
+   "value": "2학기 이상 (60 ECTS)",
+   "source": "웹"
   },
   "credits_min": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "30 ECTS (풀타임 기준)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "30 ECTS",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 소도시 로스킬데 시내 (코펜하겐에서 기차 약 45분)",
@@ -4104,8 +4104,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "영어 CEFR B2 (증빙 필요)",
+   "source": "웹"
   },
   "email": "incoming-exchange@ruc.dk",
   "program_link": null,
@@ -5396,8 +5396,8 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "공인성적 불요 (영어 B2 수준 기대)",
+   "source": "웹"
   },
   "email": "incoming.exchange@turkuamk.fi",
   "program_link": "https://www.turkuamk.fi/en/education/exchange-studies/practicalities-for-exchange-students/",
@@ -5922,20 +5922,20 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "3.0/4.0",
+   "source": "웹"
   },
   "semesters": {
    "value": "2학기 이상",
    "source": "시트"
   },
   "credits_min": {
-   "value": "담당자 이메일 문의",
-   "source": "시트"
+   "value": "명시 없음 (표준 30 ECTS)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "담당자 이메일 문의",
-   "source": "시트"
+   "value": "30 ECTS (표준)",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 소도시 렌 시내 (렌에서 기차 약 60분)",
@@ -9918,12 +9918,12 @@
    "source": "시트"
   },
   "credits_min": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "명시 없음 (통상 30 ECTS)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "명시 없음 (통상 30 ECTS)",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 밀라노 도심까지 지하철 약 15분",
@@ -11118,8 +11118,8 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "명시 없음 (일본어 배치시험; 전공과목은 일본어 필요)",
+   "source": "웹"
   },
   "email": "gec_inbound@shinshu-u.ac.jp",
   "program_link": "https://www.shinshu-u.ac.jp/institution/gec/en/prospective_students/gec_exchange_student_program/",
@@ -11264,12 +11264,12 @@
    "source": "시트"
   },
   "credits_min": {
-   "value": "담당자 이메일 문의",
-   "source": "시트"
+   "value": "7과목 (KUINEP·GEA 학부; 대학원 4과목)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "담당자 이메일 문의",
-   "source": "시트"
+   "value": "명시 없음",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 교토 도심까지 지하철 약 15분",
@@ -11286,8 +11286,8 @@
    "source": "웹"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "TOEFL iBT 72점 이상 (신척도 4) 또는 IELTS 6.5점 이상 (KUINEP 기준)",
+   "source": "웹"
   },
   "email": "[1] agri-kyoumu1@mail2.adm.kyoto-u.ac.jp, [2] agri-kyoumu2@mail2.adm.kyoto-u.ac.jp",
   "program_link": "https://www.kais.kyoto-u.ac.jp/english/international/exchange-programs/",
@@ -13084,8 +13084,8 @@
    "source": "시트"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "제한 없음 (통상 30 ECTS)",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 소도시 베르겐 시내 (오슬로에서 기차 약 5시간 (300분))",
@@ -15772,12 +15772,12 @@
    "source": "시트"
   },
   "credits_min": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "30 ECTS (표준 부하)",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "30 ECTS (표준 부하)",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 앙카라 도심까지 버스 약 20분",
@@ -16034,8 +16034,8 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "명시 없음",
+   "source": "웹"
   },
   "semesters": {
    "value": "4학기 이상",
@@ -16046,8 +16046,8 @@
    "source": "시트"
   },
   "credits_max": {
-   "value": "확인필요",
-   "source": "시트"
+   "value": "명시 없음 (통상 4~6과목)",
+   "source": "웹"
   },
   "location": {
    "value": "준도시 — 이스탄불 도심까지 버스 약 30분",
@@ -16064,8 +16064,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "TOEFL iBT 79점 이상 (TWE 24) 또는 홈교 B2 확인서 (IELTS 인정)",
+   "source": "웹"
   },
   "email": "exchange-incoming@bogazici.edu.tr",
   "program_link": "https://intl.bogazici.edu.tr",
@@ -18378,12 +18378,12 @@
    "source": "시트"
   },
   "credits_min": {
-   "value": "담당자 이메일 문의",
-   "source": "시트"
+   "value": "12 US credits",
+   "source": "웹"
   },
   "credits_max": {
-   "value": "담당자 이메일 문의",
-   "source": "시트"
+   "value": "15 US credits (초과 시 추가 비용)",
+   "source": "웹"
   },
   "location": {
    "value": "도시 — 보이시 도심에 위치",
@@ -19454,8 +19454,8 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "명시 없음 (Good standing, 프로그램별 상이)",
+   "source": "웹"
   },
   "semesters": {
    "value": "2학기 이상",
