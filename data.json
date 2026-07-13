@@ -9240,8 +9240,8 @@
    "source": "시트"
   },
   "lang_req": {
-   "value": "TOEFL iBT 80점 이상 또는 TOEFL PBT 550점 이상 또는 IELTS 6.0점 이상",
-   "source": "시트"
+   "value": "TOEFL iBT 80점 이상 (신척도 4.5) 또는 TOEFL PBT 550점 이상 또는 IELTS 6.0점 이상 (대학원 6.5)",
+   "source": "웹"
   },
   "email": "claireli@cuhk.edu.hk",
   "program_link": "https://www.oal.cuhk.edu.hk/campuslife/",
@@ -9386,8 +9386,8 @@
    "source": "시트"
   },
   "gpa_min": {
-   "value": "담당자 이메일 문의",
-   "source": "이메일문의"
+   "value": "명시 없음 (법대만 3.0/4.3)",
+   "source": "웹"
   },
   "semesters": {
    "value": "2학기 이상",
