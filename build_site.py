@@ -97,10 +97,17 @@ function chkSem(r,s){ if(s==null) return 'skip';
   if(/^(제한 없음|명시 없음|홈교 기준)/.test(v)) return 'ok';
   const m=v.match(/^(\d)(?:~\d)?학기 이상/); if(!m) return 'warn';
   return s>=parseInt(m[1])?'ok':'fail'; }
+// SKKU 공식 주관학부(대학) 목록 (킹고인포 기준, 2026-07)
+const MAJORS=['경영대학','경제대학','동아시아학술원','문과대학','법과대학','사범대학','사회과학대학',
+  '삼성융합의과학원','생명공학대학','성균나노과학기술원','성균융합원','소프트웨어대학','소프트웨어융합대학',
+  '스포츠과학대학','약학대학','예술대학','유학대학','의과대학','자연과학대학','정보통신대학','학부대학'];
+// 단과대학 → 데이터에 학과 단위로 제한된 경우 (선택 시 본인 학과인지 확인 필요 → ⚠️)
+const MAJOR_DEPTS={'경영대학':['글로벌경영학과'],'경제대학':['글로벌경제학과'],
+  '문과대학':['문헌정보학과','러시아어문학과'],'사회과학대학':['미디어커뮤니케이션학과'],'예술대학':['디자인학과']};
 function chkMajor(r,mj){ if(!mj) return 'skip';
   const v=r.major_skku||''; if(!v) return 'warn';
   if(v.includes('모든 전공')||v.includes(mj)) return 'ok';
-  // 학과 사용자가 단과대 개방 학교에 지원하는 경우(예: 글로벌경영학과→경영대학)는 판단 보류
+  if((MAJOR_DEPTS[mj]||[]).some(d=>v.includes(d))) return 'warn'; // 학과 제한 — 본인 학과 여부 확인
   return 'fail'; }
 function chkLang(r,t,i,none){ const v=val(r.lang_req); if(!v) return 'warn';
   if(/(공인성적 불요|SKKU|확인서|^명시 없음)/.test(v)) return 'ok';
@@ -184,11 +191,8 @@ function render(){
   const tc={};
   DATA.forEach(r=>{const t=(r.location||{}).tier; if(t) tc[t]=(tc[t]||0)+1;});
   $('#tier').innerHTML='<option value="">위치 전체</option>'+['도시','준도시','도시 외곽'].filter(t=>tc[t]).map(t=>`<option value="${t}">${t} (${tc[t]})</option>`).join('');
-  // 맞춤 검색: 소속(전공) 옵션 — 시트의 지원가능 전공에서 추출
-  const majors=new Set();
-  DATA.forEach(r=>String(r.major_skku||'').split('/').forEach(t=>{
-    t=t.trim().replace(/\s*\d+명$/,''); if(t&&t!=='모든 전공') majors.add(t); }));
-  $('#m_major').innerHTML='<option value="">무관</option>'+[...majors].sort().map(m=>`<option value="${m}">${m}</option>`).join('');
+  // 맞춤 검색: 소속(전공) 옵션 — SKKU 공식 주관학부(대학) 목록
+  $('#m_major').innerHTML='<option value="">무관</option>'+MAJORS.map(m=>`<option value="${m}">${m}</option>`).join('');
   $('#m_apply').addEventListener('click',()=>{
     const num=id=>{const x=$('#'+id).value.trim(); return x===''?null:parseFloat(x);};
     M={g:num('m_gpa'), s:num('m_sem'), mj:$('#m_major').value, tier:$('#m_tier').value,
